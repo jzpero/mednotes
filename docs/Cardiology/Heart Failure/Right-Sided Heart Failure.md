@@ -46,6 +46,7 @@ Right ventricular (RV) failure occurs when the RV fails to maintain enough blood
 	- Valvular disease
 - RHC
 	- When reliable measurement of pulmonary hemodynamics is needed, pulmonary artery catheterization provides valuable information on RV and LV filling pressures, cardiac output, and pulmonary artery pressure
+	- **ESCAPE**: routine use of Swan-Ganz catheter in decompensated heart failure did not improve mortality or LOS. Patients had a transient improvement in symptoms but experienced a higher rate of complications.
 
 ![](_attachments/Pasted%20image%2020221206062351.png)
 

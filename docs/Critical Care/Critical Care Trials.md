@@ -1,1 +1,0 @@
-- **ESCAPE**: routine use of Swan-Ganz catheter in decompensated heart failure did not improve mortality or LOS. Patients had a transient improvement in symptoms but experienced a higher rate of complications.

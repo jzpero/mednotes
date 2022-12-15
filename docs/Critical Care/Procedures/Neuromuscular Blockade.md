@@ -8,18 +8,26 @@ aliases: [NMB, NM blockade]
 *   decreased metabolic demand
 
 ## Recommendations (2016 Clinical Practice Guidelines)
-1.  Use NMB in severe [ARDS](../ARDS/Acute%20Respiratory%20Distress%20Syndrome.md) with PF ratio < 150 (disputed by the [ROSE trial](http://medreference.ca/books/critical-care-medicine/page/management-of-ards "Management of ARDS"))
+### Short-Term Indications
+1. Indicated for facilitation of intubation
+
+### Long-Term Indications and Contraindications
+1.  Use NMB in severe [ARDS](../ARDS/Acute%20Respiratory%20Distress%20Syndrome.md) with PF ratio < 150 (ACURASYS/ROSE trials)
 2.  Do not routinely use NMB in status asthmaticus
 3.  Trial NMB in those with life-threatening profound hypoxemia, respiratory acidosis, hemodynamic compromise.
 4.  Consider NMB for overt shivering in therapeutic hypothermia.
-5.  Use TOF in combination with overall clinical assessment.
-6.  NMB patients should get structured physiotherapy.
-7.  Maintain a blood glucose less than 10 mM
-8.  Use ideal body weight or adjusted body weight if the patient is obese
-9.  Withdraw NMB at the end of life
-10.  Analgesia and sedation should be used prior to and during NMB.
-11.  Reduce dose in myasthenia gravis patients.
-12.  Scheduled eye care
+5. Reduce dose in myasthenia gravis patients.
+
+### Adjunct Care
+1.  Analgesia and sedation should be used prior to and during NMB.
+2. NMB patients should get structured physiotherapy.
+3. Scheduled eye care
+4. Maintain a blood glucose less than 10 mM
+
+### Dosing and Withdrawal
+1.  Use ideal body weight or adjusted body weight if the patient is obese
+10. Withdraw NMB at the end of life
+11.  Use TOF in combination with overall clinical assessment
 
 ## Specific NMBAs
 ### Benzylisoquinolinium Agents
@@ -39,7 +47,7 @@ Less commonly used; current critical care trends allow for spontaneous recovery 
 **Neostigmine** and **edrophonium** and **pyridostigmine** antagonize the action of NMBAs by inhibiting acetylcholinesterase, increasing the junctional concentration of acetylcholine. Median reversal time is approx. 15 minutes. These only really work if there is sufficiently low NMBA anyways (TOF > 3). Increases muscarinic activity, so give in conjunction with glycopyrrolate or another antimuscarinic to avoid significant bradycardia and bronchoconstriction.
 
 ### Sugammadex
-This is an encapsulating gamma-cyclodextrin compound that binds rocuronium and vecuronium. Compound is renally excreted. Binding happens in the plasma. Can uniquely reverse deep and profound levels of NMB and is faster than spontaneous recovery from succinylcholine.
+This is an encapsulating gamma-cyclodextrin compound that binds rocuronium and vecuronium. Compound is renally excreted. Binding happens in the plasma. Can uniquely reverse deep and profound levels of NMB and is *faster than spontaneous recovery from succinylcholine*.
 
 ## Complications of Neuromuscular Blockade
 *   due to immobility and paralysis:

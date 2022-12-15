@@ -15,7 +15,7 @@ RSI is performed in patients at increased risk of gastric aspiration (read: ALL 
 ### RSI Timeline
 1. Preoxygenation
 2. IV hypnotic (e.g. PPF)
-3. IV rapid-onset NMB (e.g. succinylcholine or rocuronium)
+3. IV rapid-onset [NMB](Neuromuscular%20Blockade.md) (e.g. succinylcholine or rocuronium)
 4. Cricoid pressure (debated -- SRMA shows no measurable impact of this maneuvre)
 5. *modified RSI: positive pressure mask ventilation (<20 cm H2O)*
 6. Tracheal [intubation](Intubation.md) and confirmation
@@ -31,7 +31,7 @@ The goal is to have a non-titrated dose of rapid onset (45-60 seconds) IV medica
 	3. **Ketamine**. Stimulates catecholamine release, causes bronchodilation. Could be considered particularly for bronchospasm, septic shock, and hemodynamic compromise. Dose is 1-2 mg/kg.
 	4. **Etomidate**. Excellent sedation with little hypotension. Suppresses adrenal cortisol production - be wary of this! Dose 0.3 mg/kg
 2. IV opioid - consider **fentanyl** 3 mg/kg IV over 30-60 seconds as well to optimize the patient.
-3. IV NMB
+3. IV [NMB](Neuromuscular%20Blockade.md)
 	1. **Rocuronium** 1.5 mg/kg (e.g. 100 mg). Time to [intubation](Intubation.md) level paralysis is 45-60 seconds with this dose, and effect last ~45 minutes. Multiple studies show it creates [intubation](Intubation.md) conditions very similar to succinylcholine.
 	2. **Succinylcholine** 1.5 mg/kg (e.g. 100 mg). Time to [intubation](Intubation.md) level paralysis is 45-60 seconds with this dose, and effect last ~6 minutes.
 

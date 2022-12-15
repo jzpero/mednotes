@@ -17,9 +17,13 @@ Upcoming topics:
 - [ ] SGLT2 inhibitors: deep dive
 - [ ] Hemophagocytic lymphohistiocytosis (HLH)
 - [ ] Primary immunodeficiencies
+- [ ] Aortic dissection
 
 ---
 J Ho, MD
+
 jasper.ho (at) medportal (dot) ca
+
 Twitter: @jasperchho
+
 Canada
