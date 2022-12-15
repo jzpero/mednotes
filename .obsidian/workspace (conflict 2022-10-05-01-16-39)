@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "221811d929382948",
+    "type": "split",
+    "children": [
+      {
+        "id": "975930ff90602baf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nephrology/CKD/CKD - Hypertension.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3081122519dec587",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d8bdc8ede7e92901",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a0ee7fc448223ee1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "50839411593fc377",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f230819edd75101b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3a259a8e0ba4e17c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ed19173163d370ef",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Nephrology/CKD/CKD - Hypertension.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "28b1f6157ee9628d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Nephrology/CKD/CKD - Hypertension.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ae478c7d61fe61e5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Nephrology/CKD/CKD - Hypertension.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "975930ff90602baf",
+  "lastOpenFiles": [
+    "Nephrology/CKD/CKD - SGLT2 Inhibitors.md",
+    "Nephrology/CKD/CKD - Hypertension.md",
+    "Nephrology/Renal Transplant and Immunosuppression/Immunosuppression in Kidney Disease.md",
+    "Nephrology/Renal Transplant and Immunosuppression/ESRD - Renal Transplant Guidelines.md",
+    "Nephrology/Renal Transplant/ESRD - Renal Transplant Guidelines.md",
+    "Nephrology/CKD/CKD - Mineral and Bone Disease.md",
+    "Nephrology/CKD/CKD - Anemia.md",
+    "Nephrology/Atherosclerotic Renal Artery Stenosis.md",
+    "2022-10-05.md",
+    "Infectious Diseases/Capnocytophaga.md"
+  ]
+}

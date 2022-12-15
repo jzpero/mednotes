@@ -1,0 +1,2 @@
+# High-Flow Nasal Cannula
+The [FLORALI trial (NEJM 2015)](http://www.nejm.org/doi/full/10.1056/NEJMoa1503326) showed that high-flow nasal cannula can reduce 90-day mortality in patients with nonhypercapnic acute hypoxemic respiratory failure.

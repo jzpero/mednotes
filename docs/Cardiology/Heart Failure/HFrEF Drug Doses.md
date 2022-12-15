@@ -1,0 +1,33 @@
+Evidence based medications and doses for [Guideline directed Medical Therapy](Guideline-Directed%20Medical%20Therapy.md) in the treatment of heart failure.
+
+[2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure | European Heart Journal | Oxford Academic (mcmaster.ca)](https://academic-oup-com.libaccess.lib.mcmaster.ca/eurheartj/advance-article/doi/10.1093/eurheartj/ehab368/6358045?s=09#298271486)
+
+| Agent                             | Starting dose               | Target Dose                    |
+| --------------------------------- | --------------------------- | ------------------------- |
+| **ACE-I**                         |                             |                           |
+| Captopril                         | 6.25 mg t.i.d.              | 50 mg t.i.d.              |
+| Enalapril                         | 2.5 mg b.i.d.               | 10–20 mg b.i.d.           |
+| Lisinopril                        | 2.5–5 mg o.d.               | 20–35 mg o.d.             |
+| Ramipril                          | 2.5 mg b.i.d.               | 5 mg b.i.d.               |
+| Trandolapril                      | 0.5 mg o.d.                 | 4 mg o.d.                 |
+| **ARNI**                          |                             |                           |
+| Sacubitril/valsartan              | 49/51 mg b.i.d.             | 97/103 mg b.i.d.          |
+| **Beta-blockers**                 |                             |                           |
+| Bisoprolol                        | 1.25 mg o.d.                | 10 mg o.d.                |
+| Carvedilol                        | 3.125 mg b.i.d.             | 25 mg b.i.d.              |
+| Metoprolol succinate (CR/XL)      | 12.5–25 mg o.d.             | 200 mg o.d.               |
+| Nebivolold                        | 1.25 mg o.d.                | 10 mg o.d.                |
+| **MRA**                           |                             |                           |
+| Eplerenone                        | 25 mg o.d.                  | 50 mg o.d.                |
+| Spironolactone                    | 25 mg o.d.f                 | 50 mg o.d.                |
+| SGLT2 inhibitor                   |                             |                           |
+| Dapagliflozin                     | 10 mg o.d.                  | 10 mg o.d.                |
+| Empagliflozin                     | 10 mg o.d.                  | 10 mg o.d.                |
+| **Other agents**                  |                             |                           |
+| Candesartan                       | 4 mg o.d.                   | 32 mg o.d.                |
+| Losartan                          | 50 mg o.d.                  | 150 mg o.d.               |
+| Valsartan                         | 40 mg b.i.d.                | 160 mg b.i.d.             |
+| Ivabradine                        | 5 mg b.i.d.                 | 7.5 mg b.i.d.             |
+| Vericiguat                        | 2.5 mg o.d.                 | 10 mg o.d.                |
+| Digoxin                           | 62.5 µg o.d.                | 250 µg o.d.               |
+| Hydralazine/ Isosorbide dinitrate | 37.5 mg t.i.d./20 mg t.i.d. | 75 mg t.i.d./40 mg t.i.d. |
