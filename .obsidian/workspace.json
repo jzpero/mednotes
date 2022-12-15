@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Critical Care/Mechanical Ventilation/Ventilator-Associated Pneumonia.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "315f15b1ec8f20cc",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Critical Care/Mechanical Ventilation/Ventilator-Associated Pneumonia.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Critical Care/Mechanical Ventilation/Ventilator-Associated Pneumonia.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Critical Care/Mechanical Ventilation/Ventilator-Associated Pneumonia.md"
+                "file": "docs/index.md"
               }
             }
           },
@@ -149,6 +148,7 @@
   },
   "active": "6bcb61e10d448e5d",
   "lastOpenFiles": [
+    "docs/Critical Care/Mechanical Ventilation/Ventilator-Associated Pneumonia.md",
     "docs/Critical Care/ARDS/Acute Respiratory Distress Syndrome.md",
     "docs/Critical Care/Transfusions and Bleeding/Massive Transfusion Protocol.md",
     "docs/Critical Care/Transfusions and Bleeding/Tranexamic Acid.md",
@@ -157,7 +157,6 @@
     "docs/Critical Care/Transfusions and Bleeding/Disseminated Intravascular Coagulation (DIC).md",
     "docs/Critical Care/Toxicology/Acetaminophen Overdose.md",
     "docs/Critical Care/Toxicology/Alcohol Withdrawal.md",
-    "docs/Critical Care/Toxicology/Cyanide Poisoning.md",
-    "docs/Critical Care/Toxicology/Salicylate Toxicity.md"
+    "docs/Critical Care/Toxicology/Cyanide Poisoning.md"
   ]
 }
