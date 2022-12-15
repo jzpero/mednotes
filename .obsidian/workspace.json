@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Critical Care/ARDS/Acute Respiratory Distress Syndrome.md",
+                "file": "docs/Critical Care/Mechanical Ventilation/Ventilator-Associated Pneumonia.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "315f15b1ec8f20cc",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Critical Care/ARDS/Acute Respiratory Distress Syndrome.md",
+                "file": "docs/Critical Care/Mechanical Ventilation/Ventilator-Associated Pneumonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Critical Care/ARDS/Acute Respiratory Distress Syndrome.md",
+                "file": "docs/Critical Care/Mechanical Ventilation/Ventilator-Associated Pneumonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Critical Care/ARDS/Acute Respiratory Distress Syndrome.md"
+                "file": "docs/Critical Care/Mechanical Ventilation/Ventilator-Associated Pneumonia.md"
               }
             }
           },
@@ -148,6 +149,7 @@
   },
   "active": "6bcb61e10d448e5d",
   "lastOpenFiles": [
+    "docs/Critical Care/ARDS/Acute Respiratory Distress Syndrome.md",
     "docs/Critical Care/Transfusions and Bleeding/Massive Transfusion Protocol.md",
     "docs/Critical Care/Transfusions and Bleeding/Tranexamic Acid.md",
     "docs/Critical Care/Transfusions and Bleeding/RBC Transfusion Thresholds.md",
@@ -156,7 +158,6 @@
     "docs/Critical Care/Toxicology/Acetaminophen Overdose.md",
     "docs/Critical Care/Toxicology/Alcohol Withdrawal.md",
     "docs/Critical Care/Toxicology/Cyanide Poisoning.md",
-    "docs/Critical Care/Toxicology/Salicylate Toxicity.md",
-    "docs/Critical Care/Toxicology/Theophylline Toxicity.md"
+    "docs/Critical Care/Toxicology/Salicylate Toxicity.md"
   ]
 }
