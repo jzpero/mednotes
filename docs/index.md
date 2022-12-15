@@ -5,6 +5,7 @@ Collection of notes for Internal Medicine residency. Primarily for my personal e
 Content here will invariably lean towards my areas of interest (critical care, cardiology, infectious diseases, shock and resuscitation).
 
 Upcoming topics:
+
 - [ ] Steroids in severe pneumonia
 - [ ] Renal replacement therapy timing (STARRT, AKIKI, AKIKI-2)
 - [ ] Graft-vs-host disease
