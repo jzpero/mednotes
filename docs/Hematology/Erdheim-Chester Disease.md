@@ -1,15 +1,16 @@
-# Introduction
+# Erdheim-Chester Disease
+## Introduction
 Erdheim-Chester disease (ECD) is a rare non-Langerhans neoplastic histiocytic disorder with diverse clinical manifestations, ranging from indolent, localized presentations to life-threatening, multisystem disease.
 
-# Etiology
+## Etiology
 Found to be a clonal neoplastic disorder, secondary to recurrent activating MAPK (RAS-RAF-MEK-ERK) pathway mutations.
 
-# Epidemiology
+## Epidemiology
 Incredibly rare, only about 800 cases reported in the literature.
 ECD is primarily a disease of middle-aged adults, with a mean age of 46 years at diagnosis in the United States. Male predominance (75%).
 
-# Evaluation
-## Clinical Manifestations
+## Evaluation
+### Clinical Manifestations
 Very diverse set of presentations. It is important to rule out concomitant myeloid neoplasms among ECD patients due to their high rates of co-occurrence.
 
 > [!info] Key Clinical Features of Erdheim-Chester Disease
@@ -38,22 +39,22 @@ Very diverse set of presentations. It is important to rule out concomitant myelo
 
 ![](_attachments/bloodbld2019003507f4.png)
 
-## Diagnosis
+### Diagnosis
 ECD is not exclusively a pathologic diagnosis, and it is necessary to interpret histopathologic features in conjunction with clinical, radiographic, and, as of recently, molecular findings. ECD patients may see multiple providers and undergo several biopsies that have, historically, led to delayed diagnosis and institution of therapy in most patients, with the average time from symptom onset to diagnosis being a few months to several years.
 
 1. FDG PET-CT for ?symmetric osteosclerosis of the metadiaphysis of the lower-extremity bones as this is pathognomnic and present in 95% of cases.
 2. Tissue biopsy is required in all ECD cases, not only for confirmation of diagnosis, but also to allow identification of associated mutations for therapeutic purposes. As most ECD patients harbor activating somatic mutations or fusions in the genes of the MAPK-ERK or the PI3K-AKT pathway, molecular profiling of biopsy material can increase confidence in an ECD diagnosis in cases with ambiguous histopathological findings and/or absence of osseous lesions.
 3. _BRAF-V600E_ mutation testing should be pursued for all patients
 
-# Management
-## Baseline Evaluation
+## Management
+### Baseline Evaluation
 - recommend FDG PET-CT imaging including the brain and distal extremities, MRI of the brain with gadolinium, and cardiac MRI in all newly diagnosed patients
 - Dedicated CT of the chest, abdomen, and pelvis is recommended to demonstrate pulmonary, periaortic, and perinephric infiltrates
 - Laboratory studies are needed to assess endocrinopathies, peripheral blood count abnormalities, renal/hepatic function, immunological assessment, and the degree of inflammation
 
 ![](_attachments/Pasted%20image%2020221019203006.png)
 
-## Treatment
+### Treatment
 Most patients with ECD require systemic treatment at diagnosis, with the exception of asymptomatic nonvital single-organ (eg, bone) or minimally symptomatic disease that may be monitored.
 
 The therapeutic landscape of ECD and related histiocytic neoplasms has changed drastically over the last 5 years due to the discovery of activating and targetable MAPK-ERK pathway mutations in the vast majority of patients:
@@ -81,5 +82,5 @@ The therapeutic landscape of ECD and related histiocytic neoplasms has changed d
 - relapse is likely in _BRAF_-V600–mutant ECD in the setting of complete cessation of vemurafenib without achieving sustained CR
 - The prognosis of ECD can vary based on the site of disease and the response to therapy. Advances in diagnosis and therapeutics of ECD are underscored by the tremendous improvement in 5-year OS rates over the last 2 decades, from 43% in a study from 1996 to 83% in a recent study.
 
-# References
+## References
 1. [Erdheim-Chester disease: consensus recommendations for evaluation, diagnosis, and treatment in the molecular era | Blood | American Society of Hematology](https://ashpublications.org/blood/article/135/22/1929/452713/Erdheim-Chester-disease-consensus-recommendations)

@@ -1,4 +1,4 @@
-
+# Cancer-Associated Thrombosis
 # Treatment Options
 ## LMWH
 More effective (52% reduction, 9% vs 17%) and as safe (similar bleeding and mortality risk) than [warfarin](Warfarin.md) for the treatment of CAT, as shown in the **CLOT trial (NEJM 2003)** which specifically looked at dalteparin. This trial established LMWH as the "gold standard" for the treatment of CAT. Since then, a few trials have examined this same question with other LMWH:

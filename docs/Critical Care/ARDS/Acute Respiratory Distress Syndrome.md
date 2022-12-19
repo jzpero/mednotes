@@ -51,6 +51,19 @@ aliases: [ARDS]
 
 ![](_attachments/VD5RO9Im1v9aYJUw-image-1639003036657%201.png)
 
+> [!NOTE] Jasper's Escalating ARDS Approach. Continue down the list if the patient is refractory or meets indications (generally based off oxygenation/P:F ratio).
+> 1. Lung-protective ventilation, all patients
+> 	1. Low tidal volumes
+> 	2. Low plateau pressures
+> 	3. Optimization of PEEP/FiO2
+> 	4. Light sedation
+> 2. Minimize fluid balance, all patients
+> 3. Steroids (dexamethasone has the most evidence), PF < 200
+> 4. Prone, PF < 150
+> 5. Deepen sedation (particularly if asynchronous)
+> 6. Paralyze, only in deep sedation
+> 7. ECLS consideration
+
 ## Mechanical Ventilation in ARDS
 In general, these patients require mechanical ventilation due to increased WOB and progressive hypoxemia.
 
@@ -58,44 +71,48 @@ In general, these patients require mechanical ventilation due to increased WOB a
 > [!INFO] Key Trial
 > **ARDSNet** changed practice towards low-volume and low-pressure ventilation.
 
-Injury can arise from "volutrauma", "atelectrauma" which lead to inflammation and alveolar injury. **Low VT ventilation (6 mL/kg PBW) and low airway pressures (Pplateau < 30 cm H2O)** were shown in ARDSNet to reduce mortality by 40%, and these strategies are now commonly used.
+Injury can arise from "volutrauma", "atelectrauma" which lead to inflammation and alveolar injury. **Low VT ventilation (6 mL/kg PBW) and low airway pressures (Pplateau < 30 cm H2O)** were shown in **ARDSNet** to reduce mortality by 40%, and these strategies are now commonly used/standard of care.
 
 ### Optimize PEEP
-Reduced compliance means that end-expiration alveolar collase can occur without increases in end-expiratory pressures. **Increase PEEP to minimize FiO2 and optimize PaO2**, there is no consensus on how to do this. Methods include:
-
-*   ARDSNet tables of PEEP-FiO2 combinations
-*   generating a static pressure-volume curve for the respiratory system and setting PEEP at the lower inflection point on this curve to maximize respiratory system compliance
+Reduced compliance means that end-expiration alveolar collase can occur without increases in end-expiratory pressures. **Increase/optimize PEEP to minimize FiO2 and optimize PaO2**, there is no consensus on how to do this. See [Optimizing PEEP](../Mechanical%20Ventilation/Optimizing%20PEEP.md) for more details.
 
 ### Prone Positioning
+Only one major trial has been conducted that looks at proning as a strategy in ARDS. Theoretically this improves V:Q mismatch by improving airflow to the most perfused areas of the lung (basilar segments), reduces work of breathing by respiratory muscles, and improves compliance (reduced diaphragmatic pressures on the lungs).
+
 > [!abstract] PROSEVA (2013)
 > - In severe ARDS (PF < 150), early prolonged proned positioning decreases 28 and 90 day mortality by 60% and by 56% respectively as compared to semirecumbent "supine" positioning.
 > - Earlier studies show this also improves arterial oxygenation (PaO2)
 
 ### Other Strategies in Mechanical Ventilation
-*   **Recruitment maneuvers** can increase PEEP and oxygenation but have not been shown to reduce mortality.
+*  **Recruitment maneuvers** and the concept of "**open lung ventilation**" can increase PEEP and oxygenation but have not been shown to reduce mortality.
     *   ART trial (2017)
     *   PHARLAP (2019)
-*   **Alternate ventilation modes** such as APRV and HFOV have not proven beneficial
-*   **ECMO** improves mortality and may serve as rescue therapy.
+*  **Alternate ventilation modes** such as APRV and HFOV have not proven beneficial in ARDS.
+*   **ECMO** improves mortality and may serve as rescue therapy (conventional view), but newer trials and evidence suggest that it may serve also as an adjunct to early refractory very severe ARDS (i.e. PF < 80) -- see [ECLS for ARDS](ECLS%20for%20ARDS.md).
 
 ## Steroids in ARDS
-
 Based on the 2017 and 2019 guidelines for ARDS, few studies have shown significant mortality benefit. **They not support the routine use of glucocorticoids** in ARDS.
 
-However, in 2020 the ARDSNet group published the first dexamethasone trial of ARDS, the **DEXA-ARDS** trial, in the Lancet. This study showed that in early moderate to severe ARDS (PF < 200), ten days of dexamethasone (20 mg for five days then 10 mg for five days) in addition to lung-protective ventilation decreased 60-day mortality by 15% absolute difference (21% vs 36%), increased ventilator-free days at 28 days by 4.8 days. Less proning was needed for dexamethasone arm. There were no significant adverse effects compared to control with respect to hyperglycemia, new infections in the ICU, or barotrauma. N=277, and this trial wssas stopped early for efficacy.
+However, in 2020 the ARDSNet group published the first dexamethasone trial of ARDS, the **DEXA-ARDS** trial, in the Lancet. This study showed that in early moderate to severe ARDS (PF < 200 despite PEEP 10+ and FiO2 50%+), ten days of dexamethasone (20 mg for five days then 10 mg for five days) in addition to lung-protective ventilation decreased 60-day mortality by 15% absolute difference (21% vs 36%), increased ventilator-free days at 28 days by 4.8 days. Less proning was needed for dexamethasone arm. There were no significant adverse effects compared to control with respect to hyperglycemia, new infections in the ICU, or barotrauma. N=277, and this trial was stopped early for efficacy.
 
-> [!abstract] DEXA-ARDS
-> In moderate to severe ARDS, 10 days of dexamethasone reduces mortality by 15% absolute risk (NNT = 6), and increases ventilator-free days within 28 days by 5 days on average.
+> [!abstract] DEXA-ARDS (2020)
+> - In moderate to severe ARDS, 10 days of dexamethasone reduces mortality by 15% absolute risk (NNT = 6), and increases ventilator-free days within 28 days by 5 days on average.
+> - Adverse events are not worse than control
+> - Their regimen (not particularly an evidence-based area) was dexamethasone 20 mg daily x 5 days then 10 mg daily x 5 days
 
 ## Oxygen Targets in ARDS
-> [!abstract] LOCO2
-> In the LOCO2 trial (NEJM 2020), a conservative oxygen target may have increased mortality compared to a liberal oxygen target for patients with ARDS. Based on the results of this trial, and ICU-ROX (NEJM 2020), suggest a **liberal SpO2 target > 96%**.
+Conventional oxygenation targets for ICU patients is a changing field, and current evidence (see [Oxygen Targets in the ICU](../Mechanical%20Ventilation/Oxygen%20Targets%20in%20the%20ICU.md)) suggest a conservative target (PaO2 70-100 mmHg; SpO1 90-96%) as opposed to more liberal targets, using the minimum FiO2 required, for most intubated critically ill patients. 
 
-LOCO2
+The **LOCO2 (2020)** RCT in NEJM specifically looked at patients with ARDS and compared oxygenation targets of PaO2 55-70 mmHg vs. 90-105 mmHg, or their equivalent saturations (SpO2 88-92% vs. 96%+).
+- Trend towards increased mortality (34.3% vs 26.5%) in the conservative group, nonsignificant.
+- Increased number of episodes of mesenteric ischemia in the conservative oxygen group.
 
-*   At day 28, a total of 34 of 99 patients (34.3%) in the conservative-oxygen group and 27 of 102 patients (26.5%) in the liberal-oxygen group had died (difference, 7.8 percentage points; 95% confidence interval \[CI\], −4.8 to 20.6).
-*   Among patients with ARDS, early exposure to a conservative-oxygenation strategy with a Pao2 between 55 and 70 mm Hg did not increase survival at 28 days
-*   Given the results of the LOCO2 trial, the lower range of the Spo2 target in any conservative strategy, especially in patients requiring a high level of Fio2, should perhaps be 90%, as was used in ICU-ROX, rather than 88%.
+> [!NOTE] SUMMARY: Oxygen targets in ARDS
+> - Based on the available evidence (ICU-ROX, OXYGEN-ICU, LOCO2), both hypoxia and hyperoxia should be avoided in ARDS specifically.
+> - Lower limit: SpO2 90%, PaO2 60-70 mmHg
+> - Upper limit: SpO2 96%, PaO2 100-105 mmHg
+> - minimize FiO2 to achieve oxygenation in this range
+> - benefits of this might include lower mortality, lower ischemic events
 
 ## Fluid Management in ARDS
 Propensity to have increased interstitial and alveolar protein-rich fluid that worsens inflammation and oxygenation. **Maintain low left atrial filling pressure** to minimize pulmonary edema, preserve oxygenation and lung compliance, improve pulmonary mechanics, shorten ICU stay and duration of mechanical ventilation

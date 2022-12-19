@@ -1,3 +1,4 @@
+# Lymphoma
 # General Background
 - lymphoma is divided into Hodgkin lymphoma and non-Hodgkin lymphoma (NHL) based on the histological presence of Reed-Sternberg (RS) cells in HL
 - the difference between lymphomas (LN, spleen , other solid organ involvement) and leukemias (predominant BM, circulating tumour cells) can often be blurred and overlap

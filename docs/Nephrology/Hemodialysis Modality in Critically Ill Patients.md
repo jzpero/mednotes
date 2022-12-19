@@ -1,6 +1,4 @@
-# RRT Timing
-See [Timing of RRT in AKI](AKI/Timing%20of%20RRT%20in%20AKI.md).
-
+# Hemodialysis Modality in Critically Ill Patients
 # RRT Modality
 The  superiority of any particular extracorporeal modality of RRT for the treatment of patients who are critically ill with respect to survival or kidney recovery after AKI has not been established and remains a matter of debate:
 1. Intermittent HD (IHD)

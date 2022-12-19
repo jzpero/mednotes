@@ -1,3 +1,4 @@
+# Pulmonary Embolism
 # Evaluation
 ## Risk Stratification
 Per the ESC 2019 Guidelines, patients are separated into **High, Intermediate-High, Intermediate-Low, or Low risk** for early mortality.
