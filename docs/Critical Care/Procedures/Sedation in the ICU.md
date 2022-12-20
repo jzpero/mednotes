@@ -139,7 +139,7 @@ Importantly, the CAS practice guidelines state that *it is unacceptable for a si
 ## References
 1. Parrillo Critical Care Medicine
 2. UpToDate (sections on RSII)
-3. PADIS Guidelines
+3. [PADIS Guidelines](../Best%20Practices/PADIS%20Guidelines.md)
 4. Procedural sedation: a position paper of the Canadian Anesthesiologists’ Society (2018). https://www.cas.ca/CASAssets/Documents/Practice-Resources/Guidelines/12630_2019_1507_MOESM5_ESM_Appendix-6.pdf
 5. Kingston Gen Hospital policy on adult procedural sedation: https://www.corhealthontario.ca/Adult-Procedural-Sedation-Policy.pdf
 6. CADTH Sedative Agents During Medical Procedures Guidelines (2020): https://www.cadth.ca/sites/default/files/pdf/htis/2020/RB1462%20Procedural%20Sedation%20Guidelines%20Final.pdf

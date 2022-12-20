@@ -34,7 +34,7 @@ Salicylate toxicity can easily present as several common and serious mimics:
 - clinical manifestations occur within 1-2 hours after a single ingestion:
 	- \>2.9-3.6 mM: tinnitus, vertigo, nausea, vomiting, hyperpnea
 	- \>5.1 mM: severe intoxication with fever, sweating, listlessness, incoordinatioj
-	- \>5.4 mM: hallucinations, seizures, cerebral edema, coma ARDS, CV collapse
+	- \>5.4 mM: hallucinations, seizures, cerebral edema, coma [ARDS](../ARDS/Acute%20Respiratory%20Distress%20Syndrome.md), CV collapse
 
 ### Chronic Intoxication
 - may occur in patients who are ingesting acetylsalicylic acid therapeutically and then have an inadvertent overdose (elderly or dependent patients)

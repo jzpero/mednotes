@@ -8,13 +8,13 @@ For patients with severe [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md) (P
 
 #### Clinical Context
 
-*   Previous trials had demonstrated that proning improved oxygenation in ARDS, but this did not translate to clinical outcomes.
-*   Meta-analyses suggested that survival was improved with severe hypoxemia secondary to ARDS.
+*   Previous trials had demonstrated that proning improved oxygenation in [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md), but this did not translate to clinical outcomes.
+*   Meta-analyses suggested that survival was improved with severe hypoxemia secondary to [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md).
 
 #### Population
 
-*   Patients with ARDS for less than 36 hours
-*   Mechanically ventilated with severe ARDS: PEEP > 5 cm H2O and PaO2/FiO2 < 150 mmHg, FiO2 \> 0.6, and VT about 6 mg/kg PBW (per ARDSNet)
+*   Patients with [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md) for less than 36 hours
+*   Mechanically ventilated with severe [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md): PEEP > 5 cm H2O and PaO2/FiO2 < 150 mmHg, FiO2 \> 0.6, and VT about 6 mg/kg PBW (per ARDSNet)
 *   Stabilization period of 12 to 24 hours
 
 #### Design

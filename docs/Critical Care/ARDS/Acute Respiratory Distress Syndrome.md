@@ -101,11 +101,13 @@ However, in 2020 the ARDSNet group published the first dexamethasone trial of AR
 > - Their regimen (not particularly an evidence-based area) was dexamethasone 20 mg daily x 5 days then 10 mg daily x 5 days
 
 ## Oxygen Targets in ARDS
-Conventional oxygenation targets for ICU patients is a changing field, and current evidence (see [Oxygen Targets in the ICU](../Mechanical%20Ventilation/Oxygen%20Targets%20in%20the%20ICU.md)) suggest a conservative target (PaO2 70-100 mmHg; SpO1 90-96%) as opposed to more liberal targets, using the minimum FiO2 required, for most intubated critically ill patients. 
+Conventional oxygenation targets for ICU patients has a lot of current evidence, but current evidence (see [Oxygen Targets in the ICU](../Mechanical%20Ventilation/Oxygen%20Targets%20in%20the%20ICU.md)) suggests a conservative target (PaO2 70-100 mmHg; SpO1 90-96%) as opposed to more liberal targets, using the minimum FiO2 required, for most intubated critically ill patients. 
 
 The **LOCO2 (2020)** RCT in NEJM specifically looked at patients with ARDS and compared oxygenation targets of PaO2 55-70 mmHg vs. 90-105 mmHg, or their equivalent saturations (SpO2 88-92% vs. 96%+).
+
 - Trend towards increased mortality (34.3% vs 26.5%) in the conservative group, nonsignificant.
 - Increased number of episodes of mesenteric ischemia in the conservative oxygen group.
+- stopped early for futility
 
 > [!NOTE] SUMMARY: Oxygen targets in ARDS
 > - Based on the available evidence (ICU-ROX, OXYGEN-ICU, LOCO2), both hypoxia and hyperoxia should be avoided in ARDS specifically.
@@ -115,28 +117,48 @@ The **LOCO2 (2020)** RCT in NEJM specifically looked at patients with ARDS and c
 > - benefits of this might include lower mortality, lower ischemic events
 
 ## Fluid Management in ARDS
-Propensity to have increased interstitial and alveolar protein-rich fluid that worsens inflammation and oxygenation. **Maintain low left atrial filling pressure** to minimize pulmonary edema, preserve oxygenation and lung compliance, improve pulmonary mechanics, shorten ICU stay and duration of mechanical ventilation
+The pathophysiology of ARDS leads to a propensity to have increased interstitial and alveolar protein-rich fluid that worsens inflammation and oxygenation.  Consequently one would imagine that it is important to **maintain low left atrial filling pressure** to minimize pulmonary edema, preserve oxygenation and lung compliance, improve pulmonary mechanics, shorten ICU stay and duration of mechanical ventilation.
 
-The **FACTT trial** ("Comparison of Two Fluid-Management Strategies in Acute Lung Injury") suggests that conservative fluid management (i.e., net-neutral) compared to liberal-strategy (+ 1 litre per day on average) improves lung functional and shortens mechanical ventilation and critical care, without increasing non-pulmonary organ failure.
+The **FACTT (2006)** trial ("Comparison of Two Fluid-Management Strategies in Acute Lung Injury") sought to define the optimal fluid management strategy in ALI/ARDS. It randomized 1,000 patients with ALI/ARDS to liberal (CVP 10-14, +1 L/day on average) or conservative (CVP <4, +0 L/day on average) fluid management strategies. Its results suggest that conservative fluid-management improves lung functional and shortens mechanical ventilation and critical care, without increasing non-pulmonary organ failure. At 60 days, there was no difference between the two groups in mortality. 
 
-The 2006 Fluids and Catheters Treatment Trial (FACTT) sought to define the optimal fluid management strategy in ALI/ARDS. It randomized 1,000 patients with ALI/ARDS to liberal (CVP 10-14) or conservative (CVP <4) fluid management strategies. At 60 days, there was no difference between the two groups in mortality. However, the conservative therapy was associated with a decreased days on a ventilator and time in the ICU.
-
-*   _Fluid restriction_
-*   _Diuretics_
-*   _Limited only by hypotension and end-organ hypoperfusion_
+> [!NOTE] ARDS - Fluid management strategy
+> - Keep the patient net-neutral with a low CVP if possible. This can be done through:
+> 	- fluid restriction
+> 		- concentration of infusions
+> 		- limiting IV fluids
+> 		- accounting for enteral nutrition volumes
+> 	- judicious use of diuretics limited by hypotension/shock 
 
 ## [Neuromuscular Blockade](../Procedures/Neuromuscular%20Blockade.md) in ARDS
-See [Neuromuscular Blockade](../Procedures/Neuromuscular%20Blockade.md).
+In severe ARDS, sedation alone can be inadequate for the patient-ventilator synchrony required for optimal lung-protective ventilation. Consequently, one would imagine that optimizing compliance and synchrony via [Neuromuscular Blockade](../Procedures/Neuromuscular%20Blockade.md) may improve oxygenation and ventilation, and reduce the risk of barotrauma. Two major trials have been done:
 
-In severe ARDS, sedation alone can be inadequate for the patient-ventilator synchrony required for lung-protective ventilation.
+*  **ACURASYS (2010)** was the first landmark study showed a mortality and ventilation-dependence benefit with 48h of cisatracurium in severe ARDS.
+	* N=340, early moderate to severe ARDS (PF < 150, PEEP 5+) who were deeply sedated (Ramsey sedation score 6) prior to the intervention
+	* Arms:
+		* Cisatracurium 15 mg bolus , followed by 37.5 mg/h infusion x 48 hours
+		* Placebo
+	* Outcomes/Results:
+		* 90-day mortality: 32% vs 41% (P=0.04, NNT=11)
+		* 90-day days outside of ICU: 48 vs 40 (P=0.03)
+		* Reduced barotrauma and PTX: 5% vs 11.7% (P=0.01, NNT=15)
+* **ROSE (2019)** changed the paradigm by showing that use of early (<48h) cisatracurium with moderate to severe ARDS  in conjunction with deep sedation protocols did not reduce mortality as compared to usual care (light sedation), and was associated with an increase in ICU-acquired weakness and serious adverse cardiovascular events.
+	* N=1006, moderate to severe ARDS (P:F < 150 with PEEP >8)
+	* Arms:
+		* Early NM blockade - 48 hours of continuous cisatracurium (15 mg bolus, followed by 37.5 mg/h infusion) with deep sedation (RASS -5)
+		* Usual care - routine strategy of PRN NMB (15%) with light sedation (RASS -1 to 0)
+	* Outcomes:
+		* No difference in mortality (43%)
+		* Increased ICU-AW (47% vs 28% at 28 days)
+		* Increased serious adverse CV events (14 events vs 4 events)
+	* Stopped early due to futility
 
-*   **ACURASYS (2010)** showed a mortality and ventilation-dependence benefit with 48h of cisatracurium in severe ARDS.
-*   **ROSE (2019)** demonstrated that this approach in conjunction with modern light sedation protocols did not reduce mortality, and was associated with an increase in ICU-acquired weakness and serious adverse cardiovascular events.
-
-Therefore, **do not routinely use [Neuromuscular Blockade](../Procedures/Neuromuscular%20Blockade.md) for severe ARDS.**
+> [!NOTE] ARDS - Neuromuscular blockade
+> - ACURASYS (2010) suggests that NMB + deep sedation reduces mortality and barotrauma compared to deep sedation alone.
+> - ROSE (2019) argues convincingly that there are harms to routine use of continuous NMB + deep sedation versus light sedation for moderate to severe ARDS.
+> - Therefore, there are probably harms of initiating NMB+deep sedation if the patient is on light sedation at baseline.
+> - If the patient is requiring deep sedation, then NMB might be a reasonable next step if there is progressive respiratory failure or patient-vent dyssynchrony.
 
 ## Other Therapies
-
 *   **Pulmonary surfactants** not shown to work.
 *   **Pulmonary vasodilators** such as inhaled NO, not shown to work.
 

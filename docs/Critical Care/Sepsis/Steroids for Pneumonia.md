@@ -3,13 +3,13 @@
 
 > [!NOTE] SUMMARY
 > Multiple SRMAs show a convincing effect of systemic corticosteroids on the need for mechanical ventilation. However, there is no clear effect on mortality.
-> Pneumonia is a heterogenous clinical syndrome with varying levels of inflammation, fibrosis, infectious, hydrostatic, immune processes and it is likely that some subgroups would benefit more than others (see COVID/ARDS trials of steroids where mortality benefit is quite convincing).
+> Pneumonia is a heterogenous clinical syndrome with varying levels of inflammation, fibrosis, infectious, hydrostatic, immune processes and it is likely that some subgroups would benefit more than others (see COVID/[ARDS](../ARDS/Acute%20Respiratory%20Distress%20Syndrome.md) trials of steroids where mortality benefit is quite convincing).
 
 ![](_attachments/Pasted%20image%2020221219121917.png)
 
 # Severe CAP
 ## Siemieniuk et al. 2015
-- in adult patients hospitalized for CAP, systemic corticosteroid therapy is associated with a 5% absolute reduction in the need for mechanical ventilation and the rate of ARDS
+- in adult patients hospitalized for CAP, systemic corticosteroid therapy is associated with a 5% absolute reduction in the need for mechanical ventilation and the rate of [ARDS](../ARDS/Acute%20Respiratory%20Distress%20Syndrome.md)
 - possible reduction in mortality (driven by severe pneumonia groups)
 
 ## Meduri et al. 2022 (ESCAPe)

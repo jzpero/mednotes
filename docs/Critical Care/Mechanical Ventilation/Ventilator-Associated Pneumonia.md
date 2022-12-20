@@ -31,7 +31,7 @@ See below for MRSA/PsA information. In addition, Atypical bacteria (e.g. _Mycopl
 - Repeat imaging 
 
 ## Differential
-Always thinking about these! Viral pneumonia, ARDS, atelectasis, pulmonary edema, aspiration pneumonitis, pulmonary embolism with infarction, interstitial lung disease (e.g. COP, AIP).
+Always thinking about these! Viral pneumonia, [ARDS](../ARDS/Acute%20Respiratory%20Distress%20Syndrome.md), atelectasis, pulmonary edema, aspiration pneumonitis, pulmonary embolism with infarction, interstitial lung disease (e.g. COP, AIP).
 
 ## Antimicrobial Therapy
 ### Hospital-Acquired Pneumonia

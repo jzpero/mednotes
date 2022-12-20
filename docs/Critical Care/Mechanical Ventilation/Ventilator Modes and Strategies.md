@@ -14,7 +14,7 @@ Pressure limited and time-cycled. Tidal volume is the dependent variable and cha
 Volume limited and time-cycled. Predetermined tidal volume at set respiratory rate. Flow is usually a square waveform but can be decelerating or sinusoidal. Peak inspiratory flow or inspiratory time is set and determines the duration of inspiration. Guarantees minute ventilation; airway presures can vary based on the mechanics of the respiratory system.
 
 ### High frequency oscillatory ventilation (HFOV)
-Constant distending pressure (mean airway pressure MAP) is generated. Active inspiration and expiration with very small tidal volumes at 3-10 Hz (180 to 600 breaths per minute). Not been shown to improve mortality in ARDS with this lung-protective strategy.
+Constant distending pressure (mean airway pressure MAP) is generated. Active inspiration and expiration with very small tidal volumes at 3-10 Hz (180 to 600 breaths per minute). Not been shown to improve mortality in [ARDS](../ARDS/Acute%20Respiratory%20Distress%20Syndrome.md) with this lung-protective strategy.
 
 ## Assist Modes
 ### Assist Control Ventilation (ACV)
@@ -43,7 +43,7 @@ Generally used and proven in ARDS - see ARDSNet trial. May result in hypercapnia
 The optimal level of PEEP as part of a lung-protective strategy in ARDS is not definitely established. The ALVEOLI, LOVS, and Express trials failed to demonstrate a significant mortality benefit with higher PEEP, but higher PEEP patients overall required fewer rescue interventions for refractory hypoxemia. In meta-analysis, patients with ARDS at baseline (PF < 200) and higher PEEP were more likely to survive to hospital discharge.
 
 ### HFOV
-The OSCAR and OSCILLATE trials studied HFOV in ARDS - overall no mortality benefit in OSCAR, and actually showed increased mortality in OSCILLATE.
+The OSCAR and OSCILLATE trials studied HFOV in [ARDS](../ARDS/Acute%20Respiratory%20Distress%20Syndrome.md) - overall no mortality benefit in OSCAR, and actually showed increased mortality in OSCILLATE.
 
 ## References
 1.  Ligori T. Modes of ventilation and ventilator strategies. In: McConachie I, Granton J, Fuller J, eds. _Handbook of ICU Therapy_. 3rd ed. Cambridge University Press; 2014:144-151. doi:[10.1017/CBO9781107323919.014](https://doi.org/10.1017/CBO9781107323919.014)

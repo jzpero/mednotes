@@ -46,10 +46,12 @@ Pay attention to the three following issues:
 	2) Realistically, the point is the mid-axillary line at the 4th ICS because no measuring device is required. This should only be used supine.
 	3) The difference between these methods is about 3 mm Hg and varies with chest size.
 
-## Interpretation of Waveforms
+## Interpretation of CVP Waveforms
 CVP waveforms have three pulsatile waves:
 1) "a wave" - due to atrial contraction. Aligns with the cardiac P wave.
 2) "c wave" - due to retrograde buckling of the TV with ventricular contraction  and the abrupt interruption of blood flowing into the RA. Typically lines up with the S wave on cardiac leads.
 3) "v wave" - due to the continued filling of the RA during ventricular systole
 
 ![](_attachments/Pasted%20image%2020221011210410.png)
+
+![](_attachments/cvp-waveform-rk-1024x1024.jpg)
