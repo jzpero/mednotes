@@ -31,7 +31,7 @@ Summary (2016 IDSA Guidelines)
 3.  For infections due to _C. krusei_, an echinocandin, lipid formulation AmB, or voriconazole is recommended
 4.  Recommended minimum duration of therapy for candidemia without metastatic complications is 2 weeks after documented clearance of _Candida_ from the bloodstream, provided **neutropenia** and symptoms attributable to candidemia have resolve.
 5.  Ophthalmological findings of choroidal and vitreal infection are minimal until recovery from neutropenia; therefore, **dilated fundoscopic examinations should be performed within the first week after recovery from neutropenia**
-6.  In the neutropenic patient, sources of candidiasis other than a CVC (eg, gastrointestinal tract) predominate
+6.  In the neutropenic patient, sources of candidiasis other than a [CVC](../Critical%20Care/Procedures/Central%20Lines.md) (eg, gastrointestinal tract) predominate
 7.  Granulocyte colony-stimulating factor (G-CSF)–mobilized granulocyte transfusions can be considered in cases of persistent candidemia with anticipated protracted neutropenia
 
 ### Chronic Disseminated (Hepatosplenic) Candidiasis

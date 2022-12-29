@@ -14,7 +14,7 @@ The SCCM discusses **Pain, Agitation/Sedation, Delirium, Immobility, Sleep Disru
 ## Pain
 Critically ill patients experience moderate to severe pain at rest and during standard care procedures. Severe pain negatively affects patient status (vitals, immunosuppression), and standardized pain management protocols improve ICU outomes.
 -   self-reported pain is the reference statndard
--   in patients unable to report pain, and in whom behaviours are observable, the Behavioural Pain Scale in intubated (BPS) and nonintubated (BPS-NI) patients and the Critical-Care Pain Observation Tool (CPOT) demonstrate the greatest validity and reliability for monitoring pain
+-   in patients unable to report pain, and in whom behaviours are observable, the Behavioural Pain Scale in [intubated](../Procedures/Intubation.md) (BPS) and nonintubated (BPS-NI) patients and the Critical-Care Pain Observation Tool (CPOT) demonstrate the greatest validity and reliability for monitoring pain
     -   involve family as well for pain assessment
 -   physiologic measures of pain
 	-   vital signs are NOT valid indicators; use as cues to initiate further assessment using validated tools
@@ -54,6 +54,8 @@ Critically ill patients experience moderate to severe pain at rest and during st
 - **physical restraints**
 	- commonly used, little evidence
 	- may paradoxically increase risk of unplanned extubations, reintubations, device removal, agitation, benzo dose
+
+See [Sedation for mechanical ventilation](../Procedures/Sedation%20in%20the%20ICU.md#Sedation%20for%20mechanical%20ventilation) for more detailed notes.
 
 ## Delirium
 ### Background

@@ -39,7 +39,7 @@ Epinephrine is an endogenous catecholamine with high affinity for β1/2 and alph
 
 ## Phenylephrine
 Phenylephrine is an almost purely alpha adrenergic agent, primarily used as a rapid bolus for immediate correction of sudden severe hypotension.
-- useful in severe hypotension and aortic stenosis, medication mediated hypotension (e.g. sildenafil + nitrates), to decrease the outflow tract gradient in LVOTO, and to correct the vagally mediated hypotension during percutaneous diagnostic or therpeutic procedures (e.g. central line insertions)
+- useful in severe hypotension and aortic stenosis, medication mediated hypotension (e.g. sildenafil + nitrates), to decrease the outflow tract gradient in LVOTO, and to correct the vagally mediated hypotension during percutaneous diagnostic or therpeutic procedures (e.g. [central line](../Procedures/Central%20Lines.md) insertions)
 - virtually NO direct heart rate effects, but can cause baroreceptor-mediated reflex HR responses after rapid alterations in MAP
 
 ## Vasopressin

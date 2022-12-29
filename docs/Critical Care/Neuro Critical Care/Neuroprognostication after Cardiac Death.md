@@ -1,3 +1,6 @@
+---
+aliases: [neuroprognostication]
+---
 # Neuroprognostication after Cardiac Death
 ## Background and Context
 During cardiac arrest, severe neurologic injury is common. It is important to know the extent of this to determine what the changes are that the patient might regain meaningful QOL/consciousness.

@@ -9,7 +9,7 @@ aliases: [NMB, NM blockade]
 
 ## Recommendations (2016 Clinical Practice Guidelines)
 ### Short-Term Indications
-1. Indicated for facilitation of intubation
+1. Indicated for facilitation of [intubation](Intubation.md)
 
 ### Long-Term Indications and Contraindications
 1.  Use NMB in severe [ARDS](../ARDS/Acute%20Respiratory%20Distress%20Syndrome.md) with PF ratio < 150 (ACURASYS/ROSE trials)

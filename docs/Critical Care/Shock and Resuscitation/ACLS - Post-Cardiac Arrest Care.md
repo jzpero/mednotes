@@ -22,7 +22,7 @@ Several trials have been done in this space:
 ### Rationale
 **Risks of Shivering**
 - lactic acidosis
-- elevated ICP
+- [elevated ICP](../Neuro%20Critical%20Care/Elevated%20ICP.md)
 - Rhabdomyolysis
 - discomfort
 

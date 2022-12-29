@@ -10,7 +10,7 @@ Example of tortuosa ICA in an elderly man:
 ![](_attachments/Pasted%20image%2020221120234818.png)
 
 ## Triangle of Safety
-This is the preferred area of entry when not using ultrasound or when not limited by a loculated effusion or apical pneumothorax. Notably, the left oblique fissure passes through the triangle of safety, which leads to the risk of chest tube placement within the fissure.
+This is the preferred area of entry when not using ultrasound or when not limited by a loculated effusion or apical pneumothorax. Notably, the left oblique fissure passes through the triangle of safety, which leads to the risk of [chest tube](Chest%20Tubes.md) placement within the fissure.
 
 The ‘triangle of safety’ is bordered by:
 1) superior aspect of the fifth rib inferiorly
@@ -44,7 +44,7 @@ The true incidence of RPE is unknown with small case series and reviews reportin
 Pain is reported following thoracentesis in anywhere from 5–39% of patients. Due to:
 - re-expansional pain with a non-expandable lung
 - chemical pleurodesis
-- insertion site/chest tube pain
+- insertion site/[chest tube](Chest%20Tubes.md) pain
 
 Management: nonsteroidal anti-inflammatory drugs have been found to provide similar pain relief as opiates without increasing the risk of pleurodesis failure.
 
@@ -52,4 +52,4 @@ Management: nonsteroidal anti-inflammatory drugs have been found to provide simi
 The risk of significant bleeding from pleural procedures is low. Bleeding may be arterial or venous and is often related to damage to the intercostal vessels. Bleeding is suspected in the post-procedure setting with the rapidly reaccumulating pleural fluid, which can be visualized sonographically or radiographically, or with the rapid onset of respiratory symptoms such as shortness of breath or chest pain.
 
 Prevention: avoid elective procedures for patients with therapeutic anticoagulation. 
-Management: resuscitation, throacic surgery consultation, chest tube for hemothorax
+Management: resuscitation, throacic surgery consultation, [chest tube](Chest%20Tubes.md) for hemothorax

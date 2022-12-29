@@ -21,7 +21,7 @@ See [[ECLS]]. Essentially, can be either ECMO or ECCO2-R. ECMO can be wither ven
 
 # Clinical Use for ARDS
 - NO role for routine ECCO2R in ARDS
-- VV-ECMO has now shifted from being reserved for patients as a salvage therapy to prevent death from refractory gas exchange to and early adjunct to lung-protective ventilation in patients with severe ARDS when conventional evidence-based strategies (fluid balance, proning, neuromuscular blockade, steroids) are failing
+- VV-ECMO has now shifted from being reserved for patients as a salvage therapy to prevent death from refractory gas exchange to and early adjunct to lung-protective ventilation in patients with severe ARDS when conventional evidence-based strategies (fluid balance, proning, [neuromuscular blockade](../Procedures/Neuromuscular%20Blockade.md), steroids) are failing
 	- due to costs/risks, ECMO has to be selected well for the right patient. 
 	- Poorer outcomes are associated with older age, immunocompromised status, number of failing organs, duration of pre-ECMO IMV, and severity of impairment in lung compliance
 	- *paucity of long-term data* in patients receiving ECMO
@@ -44,7 +44,7 @@ The **2009 H1N1 pandemic** provided anecdotal observational data that suggested 
 
 The **EOLIA (2018)** multicentre trial randomly assigned patients with very severe ARDS to immediate VV-ECMO within 7 days of mechanical ventilation or conventional mechanical ventilation alone.
 
-- Investigators were also encouraged to use NMB and prone positioning *prior* to randomization.
+- Investigators were also encouraged to use [NMB](../Procedures/Neuromuscular%20Blockade.md) and prone positioning *prior* to randomization.
 - Very severe ARDS: PF < 50 for 3 hours, PF/80 for 6 hours, or pH  7.25 with PaCO2 > 50 for 6 hours
 - Primary outcome: 60-day mortality was lower in the ECMO group but the difference was not statistically significant (35% vs. 46%, p value 0.09)
 - Secondary outcome: *death or cross-over to ECMO* occured in 58% (control) vs 35% (intervention), P<0.001
@@ -63,7 +63,7 @@ Traditional ARDSNet-informed lung-protective ventilation (Vt < 4-8 ml/kg PBW and
 Three RCTs have examined ECCO2R in this setting:
 1. Morris et al - no difference for ECCO2R vs CMV in 40 patients with severe ARDS
 2. Xtravent-study - ECCO2R + 3 mL/kg Vt vs standard of care --> no difference in 60-day VFD/death outcome
-3. Protective Ventilation with Veno-venous Lung Assist in Respiratory Failure (REST) trial - ECCO2R did not improve 90-day mortality and VFD at 28 days, but did increase bleeding and ICH compared to control.
+3. Protective Ventilation with Veno-venous Lung Assist in Respiratory Failure (REST) trial - ECCO2R did not improve 90-day mortality and VFD at 28 days, but did increase bleeding and [ICH](../Neuro%20Critical%20Care/Intracranial%20Hemorrhage.md) compared to control.
 
 # References
 1. Munshi L, Brodie D, Fan E. Extracorporeal Support for Acute Respiratory Distress Syndrome in Adults. _NEJM Evidence_. 2022;1(10):EVIDra2200128. doi:[10.1056/EVIDra2200128](https://doi.org/10.1056/EVIDra2200128)

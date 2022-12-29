@@ -1,3 +1,6 @@
+---
+aliases: [central line, CVC]
+---
 # Central Lines
 TBD
 

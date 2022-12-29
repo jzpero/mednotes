@@ -33,7 +33,7 @@ CVP, by itself, is not a useful marker of volume status, and in isolation is not
 - **JVP** is a physical examination maneuver that estimates the CVP:
 	- Technique: measure the height of the venous distension above the sternal angle. On average, the midpoint of the RA is 5cm vertically below the sternal angle (regardless of sitting angle). Measure from the base of the pulsations seen, not the top.
 	- Conversion: measurement in cm H2O / 1.36 = mm Hg. For example, JVP of 10 cm above the RA estimates a RAP of 7 mmHg.
-- **CVC transduction** can measure the CVP better by transducing a column.
+- **[CVC](Central%20Lines.md) transduction** can measure the CVP better by transducing a column.
 - **Ultrasound** can measure the CVP by looking at the level of collapse in the jugular veins.
 
 ### Considerations for Catheter Transducing

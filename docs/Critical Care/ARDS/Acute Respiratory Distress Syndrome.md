@@ -101,7 +101,7 @@ However, in 2020 the ARDSNet group published the first dexamethasone trial of AR
 > - Their regimen (not particularly an evidence-based area) was dexamethasone 20 mg daily x 5 days then 10 mg daily x 5 days
 
 ## Oxygen Targets in ARDS
-Conventional oxygenation targets for ICU patients has a lot of current evidence, but current evidence (see [Oxygen Targets in the ICU](../Mechanical%20Ventilation/Oxygen%20Targets%20in%20the%20ICU.md)) suggests a conservative target (PaO2 70-100 mmHg; SpO1 90-96%) as opposed to more liberal targets, using the minimum FiO2 required, for most intubated critically ill patients. 
+Conventional oxygenation targets for ICU patients has a lot of current evidence, but current evidence (see [Oxygen Targets in the ICU](../Mechanical%20Ventilation/Oxygen%20Targets%20in%20the%20ICU.md)) suggests a conservative target (PaO2 70-100 mmHg; SpO1 90-96%) as opposed to more liberal targets, using the minimum FiO2 required, for most [intubated](../Procedures/Intubation.md) critically ill patients. 
 
 The **LOCO2 (2020)** RCT in NEJM specifically looked at patients with ARDS and compared oxygenation targets of PaO2 55-70 mmHg vs. 90-105 mmHg, or their equivalent saturations (SpO2 88-92% vs. 96%+).
 

@@ -6,7 +6,7 @@
 | High risk (SPRINT)         | SBP 130 and other risk factors (see below) | SBP < 120 |
 | [PKD](../Nephrology/Polycystic%20Kidney%20Disease%20(PKD).md)                    | HALT-PKD population                        | SBP < 95-110 |
 | Non-SPRINT CKD             |                                            | SBP < 140 |
-| History of spontaneous ICH |                                            | <130/80          |
+| History of spontaneous [ICH](../Critical%20Care/Neuro%20Critical%20Care/Intracranial%20Hemorrhage.md) |                                            | <130/80          |
 
 > [!info] **SPRINT, or "High-Risk" Population:**
 > SBP > 130 and one of:

@@ -6,11 +6,11 @@ Content here will invariably lean towards my areas of interest (critical care, c
 
 Upcoming topics:
 
-- [ ] Steroids in severe pneumonia
-- [ ] Renal replacement therapy timing (STARRT, AKIKI, AKIKI-2)
+- [x] Steroids in severe pneumonia
+- [x] Renal replacement therapy timing (STARRT, AKIKI, AKIKI-2)
 - [ ] Graft-vs-host disease
 - [ ] COVID therapeutics
-- [ ] Immune reconstitution inflammatory syndrome (IRIS)
+- [ ] Immune reconstitution in**flammatory syndrome (IRIS)
 - [ ] Differentiation syndrome
 - [ ] Hepatitis B treatment
 - [ ] Hepatitis C treatment
@@ -18,12 +18,9 @@ Upcoming topics:
 - [ ] Hemophagocytic lymphohistiocytosis (HLH)
 - [ ] Primary immunodeficiencies
 - [ ] Aortic dissection
+- [x] [Neurologic determination of death](Critical%20Care/Neuro%20Critical%20Care/Neurologic%20Determination%20of%20Death.md)
 
 ---
-J Ho, MD
-
-jasper.ho (at) medportal (dot) ca
-
-Twitter: @jasperchho
-
-Canada
+- jasper.ho (at) medportal (dot) ca
+- Twitter: @jasperchho
+- Canada

@@ -23,7 +23,5 @@ There are **five classic syndromes of toxic ingestion \("toxidromes"\)** that sh
 
 ## Digoxin
 
-## [Toxic Alcohols](Toxic%20Alcohol%20Ingestion.md)
-
 ## Tricyclic Antidepressants
 

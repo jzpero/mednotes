@@ -1,3 +1,6 @@
+---
+aliases: [chest tube, pigtail]
+---
 # Chest Tubes
 ## Indications
 1. Pleural collections/effusions

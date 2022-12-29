@@ -1,4 +1,4 @@
-# Enternal Nutrition for Intubated Patients
+# Enternal Nutrition for [Intubated](../Procedures/Intubation.md) Patients
 ## most [intubated](../Procedures/Intubation.md) patients should be fed
 *   Benefits of enteral nutrition:
     *   Maintains gut integrity, preventing bacterial translocation into bloodstream.

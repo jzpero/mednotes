@@ -3,7 +3,7 @@
 ### Reperfusion (Time=Brain)
 #### tPA
 
-- Window for any tPA is 4.5 hours from known onset of symptoms. Overall it increases ICH but the overall benefit prevails in this time period.
+- Window for any tPA is 4.5 hours from known onset of symptoms. Overall it increases [ICH](../Critical%20Care/Neuro%20Critical%20Care/Intracranial%20Hemorrhage.md) but the overall benefit prevails in this time period.
 - Indications for tPA are simple: (1) ischemic stroke causing a measurable neurological deficit, (2) time between 0 and 4.5 hours before beginning treatment, (3) adult
 - Contraindications are more complex:
 

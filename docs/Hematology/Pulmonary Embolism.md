@@ -55,7 +55,7 @@ Anticoagulation alone.
 # Thrombolysis
 - Hold anticoagulation (IV heparin) before and during the infusion. Fully anticoagulate patients with IV UFH afterwards (resume without bolus when aPTT <2x ULN). Then, transition to oral agent once stable for 24-48 hours.
 - a consistent finding among studies is that thrombolytic therapy leads to early hemodynamic improvement and, although a mortality benefit may exist, it occurs at a cost of increased major bleeding. Per the ESC 2019 guidelines: Thrombolytic therapy leads to faster improvements in pulmonary obstruction, PAP, and PVR in patients with PE, compared with UFH alone; these improvements are accompanied by a reduction in RV dilation on echocardiography.
-- 10% risk of severe bleeding, 1.7% risk of intracranial hemorrhage (SRMA)
+- 10% risk of severe bleeding, 1.7% risk of [intracranial hemorrhage](../Critical%20Care/Neuro%20Critical%20Care/Intracranial%20Hemorrhage.md) (SRMA)
 
 ## Massive PE
 - FDA approved regimen: IV tPA (alteplase) 100 mg over 2 hours.

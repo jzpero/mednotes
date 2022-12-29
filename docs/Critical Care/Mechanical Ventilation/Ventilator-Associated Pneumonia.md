@@ -12,7 +12,7 @@ See below for MRSA/PsA information. In addition, Atypical bacteria (e.g. _Mycopl
 ### Definitions
 - There is no gold standard for the diagnosis of HAP or VAP.
 - HAP is defined as a pneumonia not incubating at the time of hospital admission and occurring 48 hours or more after admission.
-- VAP is defined as a pneumonia occurring >48 hours after endotracheal intubation.
+- VAP is defined as a pneumonia occurring >48 hours after endotracheal [intubation](../Procedures/Intubation.md).
 
 ### Investigations
 - sampling methods
