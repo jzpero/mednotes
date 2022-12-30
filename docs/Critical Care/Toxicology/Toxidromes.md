@@ -20,8 +20,3 @@ There are **five classic syndromes of toxic ingestion \("toxidromes"\)** that sh
 
 ## Cholinergics
 **Pralidoxime +/- atropine** are the preferred antidotes to cholinergic overdoses, specifically organophosphates.
-
-## Digoxin
-
-## Tricyclic Antidepressants
-

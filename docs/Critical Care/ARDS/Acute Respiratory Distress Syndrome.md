@@ -79,7 +79,7 @@ Reduced compliance means that end-expiration alveolar collase can occur without 
 ### Prone Positioning
 Only one major trial has been conducted that looks at proning as a strategy in ARDS. Theoretically this improves V:Q mismatch by improving airflow to the most perfused areas of the lung (basilar segments), reduces work of breathing by respiratory muscles, and improves compliance (reduced diaphragmatic pressures on the lungs).
 
-> [!abstract] PROSEVA (2013)
+> [!abstract] [PROSEVA](Proning%20in%20ARDS.md) (2013)
 > - In severe ARDS (PF < 150), early prolonged proned positioning decreases 28 and 90 day mortality by 60% and by 56% respectively as compared to semirecumbent "supine" positioning.
 > - Earlier studies show this also improves arterial oxygenation (PaO2)
 

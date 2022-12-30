@@ -1,30 +1,26 @@
-# Prone Positioning in Severe Acute Respiratory Distress Syndrome (PROSEVA) - 2013
-### Clinical Summary
-In severe [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md), early prolonged proned positioning decreases 28 and 90 day mortality by 60% and by 56% respectively.
+---
+aliases: [PROSEVA]
+---
+# Proning in ARDS
+## Prone Positioning in Severe Acute Respiratory Distress Syndrome (PROSEVA) - 2013
 
-For patients with severe [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md) (PF ratio < 150), prone positioning greatly reduces mortality at 28 and 90 days as compared to semirecumbent "supine" positioning.
-
-### Trial Details
-
-#### Clinical Context
+> [!NOTE] Trial Summary
+> In severe [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md), early prolonged proned positioning decreases 28 and 90 day mortality by 60% and by 56% respectively as compared to semirecumbent "supine" positioning.
 
 *   Previous trials had demonstrated that proning improved oxygenation in [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md), but this did not translate to clinical outcomes.
 *   Meta-analyses suggested that survival was improved with severe hypoxemia secondary to [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md).
 
-#### Population
-
+### Population
 *   Patients with [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md) for less than 36 hours
 *   Mechanically ventilated with severe [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md): PEEP > 5 cm H2O and PaO2/FiO2 < 150 mmHg, FiO2 \> 0.6, and VT about 6 mg/kg PBW (per ARDSNet)
 *   Stabilization period of 12 to 24 hours
 
-#### Design
-
+### Design
 *   26 ICUs in France and 1 in Spain, experienced with proning
 *   Centralized and stratified randomization
 *   Data collectors not blinded, but adjudicators blinded
 
-#### Intervention
-
+### Intervention
 *   **Prone group:** turned to prone within 1 hour of randomization
 *   Completely prone for at least 16 consecutive hours
 *   Standard ICU beds
@@ -42,20 +38,17 @@ For patients with severe [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md) (P
         *   Sustained hypotension
     *   After patients in the prone group were turned to the supine position, the prone session could be resumed at any time before the planned assessment at 4 hours in the supine position if the criteria for oxygen saturation level, PaO2, or both were met
 
-#### Comparator
-
+### Comparator
 *   **Semirecumbent** position in the "supine group"
 *   Patients in the supine group could not be crossed over to the prone group except as a rescue measure
 
-#### Ventilation
-
+### Ventilation
 *   Volume-controlled mode, constant inspiratory flow
 *   VT target 6 mL/kg PBW and PEEP via PEEP-FiO2 table
 *   Goal to maintain Pplat < 30 cm H2O, and arterial plasma pH 7.20 to 7.45
 *   Weaning from mechanical ventilation was conducted in the same way for both groups
 
-#### Outcomes
-
+### Outcomes
 1.  28 day mortality
 2.  Secondary outcomes
     1.  90 day mortality
@@ -77,6 +70,5 @@ Unadjusted 90-day mortality was 23.6% in the prone group versus 41.0% in the sup
 
 The incidence of complications did not differ significantly between the groups, except for the incidence of cardiac arrests, which was higher in the supine group.
 
-### References
-
+## References
 1.  Guérin C, Reignier J, Richard JC, et al. Prone Positioning in Severe [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md). _New England Journal of Medicine_. 2013;368(23):2159-2168. doi:[1056/NEJMoa1214103](https://doi.org/10.1056/NEJMoa1214103)
