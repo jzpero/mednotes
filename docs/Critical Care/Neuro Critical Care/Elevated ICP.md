@@ -202,7 +202,13 @@ $$ CPP = (MAP - ICP) $$
 ![](_attachments/Pasted%20image%2020221230094416.png)
 
 ## Treatment of Elevated ICP
-### Basic Measures
+### Treat the underlying disorder
+- resect the tumour
+- manage metabolic disorders
+- VP shunt for patients with refractory hydrocephalus
+- ?steroids for vasogenic edema
+
+### Basic Measures (for all neuro-crit patients)
 - **avoid excess intrathoracic pressure** by providing adequate sedation and analgesia, avoid coughing and ventilatory asynchrony; avoid excessively elevated airway pressures/PEEP
 - **avoid compression of the jugular veins** by keeping the head in neutral position, avoid a C-collar, and avoid IJV CVCs if possible (i.e. first line subclavian or femoral placement)
 - **target normocapnia**
@@ -211,6 +217,44 @@ $$ CPP = (MAP - ICP) $$
 	- *for most patients, a reasonable target is a low-normal PaCO2 of 35-40 mmHg*
 - **target normonatremia**. Target a normal sodium level, and avoid any large and rapid decreases in Na. Avoid hypotonic fluid infusions.
 - **target normothermia**. Fevers increase cerebral metabolic demands and need for arterial perfusion. Consider routine Tylenol, external cooling devices, etc.
+- elevate HOB?? -- does reduce ICP, but also arterial cerebral perfusion. One study found this reduced CPP and increased plateau waves. Do not exceed 45 degrees HOB elevation.
+
+### Osmotherapy
+- unclear indications: consider for worsening despite conservative best practices with normonatremia.
+- Agents: Undiluted (1 mEq/mL) sodium bicarbonate which is the same tonicity as 6% saline (2-3 ampules as emergency therapy), 3% hypertonic saline bolus, 23.4% saline, hypertonic sodium acetate
+- Clinical end-points
+	- Keep sodium < 155 mEq/L
+	- Avoid NAGMA and/or hyperchloremia (>110-115 mEq/L)
+	- Avoid increases in sodium by more than 6-8 mEq/day to avoid ODS
+	- Avoid volume overload (may have to use diuretics as well)
+- May have to *taper off hypersomolar therapy* as everything that goes up must come down.  Increasing the patient's sodium may cause a transient improvement in ICP, but eventually the sodium will need to be lowered back to normal.  Unfortunately, the brain tissue will rapidly adapt to being hypernatremic, so lowering the sodium back to normal carries a risk of rebound ICP elevation.
+	- do this if the sodium has been elevated for more than 1-2 days
+
+#### Mannitol
+- nephrotoxic, and induces a diuresis. Requires close serum osmolality monitoring
+- can cause rebound ICP elevation as mannitol crosses the BBB and can cause vasogenic edema
+- less effective than HTS and causes more AKI, and potentially more mortality than HTS
+- HTS is recommended in guidelines over mannitol for TBI or ICH
+
+> [!NOTE] Mannitol
+> Overall, do not use mannitol routinely. Strongly consider 3% hypertonic saline over this if possible (also in accordance with guidelines).
+
+### Sedation
+- Consider a deeper sedation approach to avoid coughing, ventilatory dyssynchrony. Avoid suctioning if possible. Add PRN opioids. Temporary paralysis with refractory coughing or dyssynchrony.
+- Use propofol as it reduces brain metabolic activity and is easily titratable
+
+### Seizure
+- If the patient is worsening, rule out NCSE (consider EEG).
+- consider seizure prophylaxis in certain contexts (specific brain injuries)
+
+### Neurosurgical Intervention
+- Hydrocephalus --> EVD
+- Refractory elevated ICP can be treated with decompressive craniectomy. Evidence is best for younger patients with large strokes involving the middle cerebral artery (i.e. *malignant MCA syndrome*)
+
+### Compartment Pressure Management
+![](_attachments/Pasted%20image%2020221230101915.png)
+- intrathoracic pressure management as above
+- treat abdominal compartment syndrome if present
 
 # References
 1. [Elevated intracranial pressure (ICP) - EMCrit Project](https://emcrit.org/ibcc/icp/)
