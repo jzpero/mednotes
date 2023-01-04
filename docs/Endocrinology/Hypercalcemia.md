@@ -2,9 +2,8 @@
 
 ## Approach to Diagnosis
 
-{% hint style="info" %}
-More than 90% of hypercalcemia is due to primary hyperparathyroidism and cancer.
-{% endhint %}
+> [!info] 
+> More than 90% of hypercalcemia is due to primary hyperparathyroidism and cancer.
 
 **PTH-mediated \(low or normal\)**
 
@@ -42,7 +41,7 @@ More than 90% of hypercalcemia is due to primary hyperparathyroidism and cancer.
   * Aluminum intoxication \(in CKD\)
   * Aminophylline
 * Thyrotoxicosis \(increases bone turnover. May respond to beta-blockers\)
-* Adrenal insufficiency
+* [Adrenal insufficiency](Adrenal%20Insufficiency.md)
 * VIPoma
 * Immobilization \(do not forget!\)
 

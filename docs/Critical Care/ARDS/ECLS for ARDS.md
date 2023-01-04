@@ -2,7 +2,7 @@
 There is a subset of patients for whom conservative medical management is not enough to support the patient in severe [ARDS](Acute%20Respiratory%20Distress%20Syndrome.md). ECMO/ECLS can partially or fully bypass the lungs to support gas exchange and facilitate lung-protective ventilation. Interestingly, ECLS may promote "ultra-lung-protective" ventilation by mitigating VILI and facilitating even further reductions in mechanical ventilation intensity.
 
 # ECLS Background
-See [[ECLS]]. Essentially, can be either ECMO or ECCO2-R. ECMO can be wither venovenous (VV-ECMO) or veno-arterial (VA-ECMO) if cardiac support is required.
+See [ECLS](ECLS). Essentially, can be either ECMO or ECCO2-R. ECMO can be wither venovenous (VV-ECMO) or veno-arterial (VA-ECMO) if cardiac support is required.
 - oxygenation is blood flow rate dependent
 - CO2 clearance is gas flow rate dependent (i.e. "sweep flow")
 

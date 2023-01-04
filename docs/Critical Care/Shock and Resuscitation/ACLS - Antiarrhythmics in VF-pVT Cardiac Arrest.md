@@ -20,7 +20,8 @@ The recommended dose of lidocaine is 1.0 to 1.5 mg/kg IV/IO for the first dose a
 1.  There is insufficient evidence to support or refute the routine use of lidocaine early (within the first hour) after ROSC.
 2.  In the absence of contraindications, the prophylactic use of lidocaine may be considered in specific circumstances (such as during emergency medical services transport) when treatment of recurrent VF/pVT might prove to be challenging (Class IIb; Level of Evidence C-LD).
 
-**Personal Takeaway: After ROSC, if the patient is having recurrent episodes of VT that are worrisome for decompensation and inability to transport the patient to the ICU, then consider lidocaine administration. Otherwise no evidence to support its use.**
+> [!NOTE] Personal Takeaway
+> After ROSC, if the patient is having recurrent episodes of VT that are worrisome for decompensation and inability to transport the patient to the ICU, then consider lidocaine administration. Otherwise no evidence to support its use.
 
 ## Amiodarone vs Lidocaine
 -   The ALIVE (NEJM 2002) trial showed that in shock resistant VF OHCA, 5 mg/kg amiodarone in polysorbate improved survival to hospital admission compared with 1.5 mg/kg lidocaine with polysorbate

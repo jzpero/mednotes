@@ -30,6 +30,9 @@ NE is the major endogenous neurotransmitter liberated by postganglionic adrenerg
 - **increases coronary blood flow** due to elevated DBP and local vasodilation around cardiomyocytes
 - prolonged infusions can have a direct toxic effect on cardiac myocytes 
 
+> [!NOTE] SOAP-II (NEJM 2010)
+> This study compared **dopamine vs NE** in all forms of shock (septic, cardiogenic, and hypovolemic). No differences in mortality. NE was more effective as a vasopressor, and less associated with arrhythmias. Potential mortality benefit in cardiogenic shock compared to dopamine.
+
 ## Epinephrine
 Epinephrine is an endogenous catecholamine with high affinity for β1/2 and alpha-1 receptors. 
 - Low doses: primarily β effects. Higher doses: primarily alpha-1 effects

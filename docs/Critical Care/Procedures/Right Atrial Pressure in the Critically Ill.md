@@ -48,9 +48,15 @@ Pay attention to the three following issues:
 
 ## Interpretation of CVP Waveforms
 CVP waveforms have three pulsatile waves:
-1) "a wave" - due to atrial contraction. Aligns with the cardiac P wave.
-2) "c wave" - due to retrograde buckling of the TV with ventricular contraction  and the abrupt interruption of blood flowing into the RA. Typically lines up with the S wave on cardiac leads.
-3) "v wave" - due to the continued filling of the RA during ventricular systole
+
+1) "a wave" - due to *atrial contraction*. Aligns with the cardiac P wave.
+2) "c wave" - due to *retrograde buckling of the TV* with ventricular contraction  and the abrupt interruption of blood flowing into the RA. Typically lines up with the S wave on cardiac leads.
+3) "v wave" - due to the continued *filling of the RA during ventricular systole* leading to backflow
+
+And two major descent waves:
+
+1. "x descent" - RA relaxation and filling
+2. "y descent" - early ventricular filling
 
 ![](_attachments/Pasted%20image%2020221011210410.png)
 
