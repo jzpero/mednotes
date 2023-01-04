@@ -1,85 +1,45 @@
 # Acetaminophen Overdose/Toxicity
--   Acetaminophen is the most common OTC analgesic and one of the most ocmmon toxic exposures
--   Usually from intentional overdose (50%)
--   Often accidently ingested as part of other medications, especially mixed opioid-acetaminophen combinations like Tylenol \#1-3's
-    -   Chronic pain patients
-    -   Cold/flu symptoms and medications
-    -   Alcohol-tylenol syndrome 
 
-## Pharmacology (Oral)
--   **Maximum therapeutic dose**
-    -   Classically, 4 grams per day for healthy adults, and 2 gram per day for those with chronic liver disease.
--   **Toxic dose**
-    -   &gt;10 g or &gt;200 mg/kg as single ingestion or over 24hr period OR
-    -   &gt;6 g or &gt;150 mg/kg per 24hr period x 2days
-    -   "**massive ingestion**" has variable definitions but might be &gt;500 mg/kg or known ingestion &gt;32 grams
--   **Absorption**
-    -   A single ingestion of oral acetaminophen is generally completely absorbed by 4 hours post ingestion.
-    -   Absorption is delayed (!) with some medications that delay gut motility
-        -   Anticholinergics
-        -   Opioids
--   **Kinetics**
-    -   100% bioavailable
-    -   20% bound to serum proteins
-    -   VD = 0.85 L/kg
-    -   Elimination half-life 2.5 hours
--   **Metabolism**
-    -   Pathways of metabolism:
-        -   Glucuronidation (50%)
-        -   Sulfation (30%)
-        -   CYP (10%)
-            -   Acetaminophen --&gt; NAPQI, a toxic metabolite
-            -   NAPQI + glutathione --&gt; renal excretion
-        -   Direct renal clearance (10%)
--   **Toxicity**
-    -   NAPQI via the CYP system is usually detoxified via hepatic glutathione to a metabolite that is renally excreted.
-    -   Overdose leads to increased NAPQI generation, depleting intracellular glutathione. When stores of this &lt;30% of normal, NAPQI then binds to other hepatic macromolecules, causing **hepatic necrosis** within 12 hours.
-    -   The characteristic pattern is **centrilobular necrosis**
+## Background
+Acetaminophen is the most common OTC analgesic and one of the most common toxic exposures. Usually from intentional overdose (50%). Often accidently ingested as part of other medications, especially mixed opioid-acetaminophen combinations like Tylenol \#1-3s.
+
+| Property                 | Characteristic                                                                                                                                                                          |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Maximum therapeutic dose | 4 grams daily in healthy adults; 2 grams daily in those with chronic liver disease                                                                                                      |
+| Toxic dose ingestion     | 10 grams or 200 mg/kg as a single ingestion or in one day; 6 g or 150 mg/kg for at least two days                                                                                       |
+| "massive ingestion"      | \>32 grams or \> 500 mg/kg                                                                                                                                                              |
+| Absorption               | completely absorbed in 4 hours, delayed by multiple ingestions or anticholinergics, opioids, etc.                                                                                       |
+| Pharmacokinetics         | 100% bioavailable, 20% bound to serum proteins, elimination half-life is 2.5 hours                                                                                                      |
+| Metabolism               | Glucoronidation (50%), sulfation (30%), CYP (10%) which produces NAPQI which is the toxic metabolite (which is reduced with glutathione to form a renally excreted inactive metabolite) |
+| Toxicity MOA             | Increased NAPQI generation  depletes intracellular glutathione and then NAPQI overload leads to binding to hepatic macromolecules, causing centrilobular necrosis                                                                                                                                                                                        |
 
 ## Clinical Manifestations
 Excess NAPQI binds to hepatic macromolecules, causing hepatocellular necrosis and potentially SIRS, MODS, [ARDS](../ARDS/Acute%20Respiratory%20Distress%20Syndrome.md), death. Initial clinical findings are nonspecific and delayed. There are four classic stages of acetaminophen toxicity:
 
-<table><thead><tr class="header"><th><strong>Stage</strong></th><th><strong>Timeframe</strong></th><th><strong>Description</strong></th></tr></thead><tbody><tr class="odd"><td>1</td><td>Up to 24 hours</td><td>Asymptomatic in most patients.<br />
-Possibly N/V, malaise, anorexia.<br />
-<strong>hypokalemia and metabolic acidosis</strong> which correlates with a high 4-hour acetaminophen concentration.<br />
-<br />
-if there is a very severe ingestion (75-100 g) then patients might develop coma or severe lactic acidosis even on the first day, <u>secondary to metabolic decoupling and not necessarily from hepatic damage</u>.</td></tr><tr class="even"><td>2</td><td>2-3 days</td><td>Improved Stage 1 symptoms.<br />
-<strong>clinical signs of hepatotoxicity:</strong><br />
-- RUQ pain and tenderness<br />
-- elevated aminotransferases<br />
-- hypoglycemia<br />
-- metabolic acidosis<br />
-- elevated INR</td></tr><tr class="odd"><td>3</td><td>3-4 days</td><td>Progression to <strong>fulminant/peak hepatic failure</strong><br />
-- metabolic acidosis (lactic due to acute overdose)<br />
-- coagulopathy<br />
-- renal failure<br />
-- encephalopathy<br />
-- recurrent GI symptoms</td></tr><tr class="even"><td>4</td><td>2 weeks</td><td><strong>DEATH or slow recovery</strong> taking 1-3 months in survivors. Generally the recovery of hepatic function is quite remarkable if no transplantation is needed.</td></tr></tbody></table>
--   Chronic HAGMA can develop from 5-oxoproline accumulation independent of acute hepatic damage.
--   Peak liver damage is about days 2-3. Peak renal failure is about 1 week.
+1. **Stage 1 (<24 hours)**
+	- Mostly asymptomatic, can present with N/V, malaise, anorexia.
+	- If the patient develops hypokalemia and metabolic acidosis this corresponds to an initial high APAP level.
+	- In very severe ingestions (>75-100 g) the patient can become comatose or have a severe lactic acidosis secondary to metabolic decoupling of the electron transport chain.
+1. **Stage 2 (2-3 days)**
+	- In this stage, clinical signs of hepatotoxicity develop:
+		- Hepatocellular damage and hepatitis (RUQ pain, elevated aminotransferases)
+		- Synthetic dysfunction (hypoglycemia, metabolic acidosis, elevated INR)
+1. **Stage 3 (3-4 days)**
+	- Marked by a progression to fulminant hepatic failure:
+		- severe lactic acidosis
+		- coagulopathy
+		- renal failure
+		- encephalopathy
+		- gastrointestinal symptoms
+1. **Stage 4 (2 weeks)**
+	1. Either progresses to death, or slow recovery phase which takes 1-3 months in survivors. If no transplantation is required then recovery of hepatic function is usually near-complete.
 
-
-## Diagnostic Studies
--   **Serum acetaminophen level**
-    -   Measure at 4 hours unless previous level undetectable
-    -   If 4-hour level borderline or there is suspected delayed absorption, repeat at 8 hours as well.
--   **Serum aminotransferases**
--   Renal function
--   Bilirubin
--   Lactate
--   INR
--   Phosphate level
--   ABG
-
-Current Ontario Poison Centre recommendations are:
-
-<table><thead><tr class="header"><th>Initial presentation</th><th><ul class="incremental"><li><blockquote><p>4 hour acetaminophen level</p></blockquote></li><li><blockquote><p>ASA level</p></blockquote></li><li><blockquote><p>Blood gases</p></blockquote></li><li><blockquote><p>Electrolytes</p></blockquote></li><li><blockquote><p>Glucose</p></blockquote></li><li><blockquote><p>BUN, Creatinine, osmolality</p></blockquote></li><li><blockquote><p>AST, ALT, INR</p></blockquote></li><li><blockquote><p>Ethanol level</p></blockquote></li></ul></th></tr></thead><tbody><tr class="odd"><td>Sustained-release or concurrent opioid/anticholinergics (extends the absorption dynamics)</td><td>Repeat acetaminophen level q4h until peak, and then q12h until undetectable.</td></tr><tr class="even"><td>Those receiving NAC</td><td>Repeat VBG, lytes, glucose, BUN, Cr, AST, ALT, INT q12h.<br />
-<br />
-Repeat acetaminophen q12h until undetectable.</td></tr><tr class="odd"><td>Severe risk patients</td><td>Lactate and lipase levels<br />
-<br />
-Phosphate levels if liver enzymes elevated<br />
-<br />
-repeat broad labs q4h until acetaminophen peaks and then q12h until it is undetectable.</td></tr></tbody></table>
+## Investigations
+- Initial investigations:
+	- serum APAP (4 hours, 8 hours), liver enzymes and synthetic function, electrolytes, extended electrolytes, blood gas, renal panel
+	- ASA, serum osmolality, ethanol
+- Repeat labs q4H until APAP peaks if not on NAC regimen;
+- Repeat the important labs q12H until stopping criteria if already on NAC regimen.
 
 ## Treatment
 1.  **GI decontamination**

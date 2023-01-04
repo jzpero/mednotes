@@ -1,9 +1,10 @@
-# ACLS - Antiarrhythmics in Shockable Cardiac Arrest
-## Amiodarone
+# ACLS - Antiarrhythmics in VF-pVT Cardiac Arrest
+
+# Amiodarone
 -   Amiodarone improves survival to hospital admission in OHCA in two studies. Survival to hospital discharge and survival with favorable neurological outcome were not improved by amiodarone, but neither study was powered for those outcomes
 -   These randomized trials did not explore the timing or sequence of amiodarone versus epinephrine administration. No randomized trials were identified that address the use of amiodarone during in-hospital cardiac arrest.
 
-## Lidocaine
+# Lidocaine
 The recommended dose of lidocaine is 1.0 to 1.5 mg/kg IV/IO for the first dose and 0.5 to 0.75 mg/kg IV/IO for a second dose if required.
 
 ### Lidocaine in OHCA
@@ -23,11 +24,11 @@ The recommended dose of lidocaine is 1.0 to 1.5 mg/kg IV/IO for the first dose a
 > [!NOTE] Personal Takeaway
 > After ROSC, if the patient is having recurrent episodes of VT that are worrisome for decompensation and inability to transport the patient to the ICU, then consider lidocaine administration. Otherwise no evidence to support its use.
 
-## Amiodarone vs Lidocaine
+# Amiodarone vs Lidocaine
 -   The ALIVE (NEJM 2002) trial showed that in shock resistant VF OHCA, 5 mg/kg amiodarone in polysorbate improved survival to hospital admission compared with 1.5 mg/kg lidocaine with polysorbate
 -   The ROC-ALPS trial for OHCA showed that ROSC was higher in patients receiving lidocaine compared with those receiving placebo but not for those receiving amiodarone compared with patients receiving placebo
 
 **Summary: Evidence is mixed; use the first drug you can get your hands on.**
 
-## Resources
+# Resources
 1.  Panchal AR, Berg KM, Kudenchuk PJ, Del Rios M, Hirsch KG, Link MS, et al. 2018 American Heart Association Focused Update on Advanced Cardiovascular Life Support Use of Antiarrhythmic Drugs During and Immediately After Cardiac Arrest: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation [Internet]. 2018 Dec 4 [cited 2022 Aug 21];138(23):e740–9. Available from: [https://www.ahajournals.org/doi/10.1161/CIR.0000000000000613](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000613)

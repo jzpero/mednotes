@@ -1,7 +1,7 @@
 site_name: MedNotes
 site_url: https://jzpero.github.io/mednotes/
 theme:
-  name: material
+  name: windmill
   icon:
     logo: material/pill
   palette:

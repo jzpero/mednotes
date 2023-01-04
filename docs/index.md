@@ -9,8 +9,7 @@ Upcoming topics:
 - [x] Steroids in severe pneumonia
 - [x] Renal replacement therapy timing (STARRT, AKIKI, AKIKI-2)
 - [ ] Graft-vs-host disease
-- [ ] COVID therapeutics
-- [ ] Immune reconstitution in**flammatory syndrome (IRIS)
+- [ ] Immune reconstitution inflammatory syndrome (IRIS)
 - [ ] Differentiation syndrome
 - [ ] Hepatitis B treatment
 - [ ] Hepatitis C treatment

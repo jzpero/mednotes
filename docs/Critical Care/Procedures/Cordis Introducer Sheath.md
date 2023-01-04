@@ -1,7 +1,7 @@
 ---
 aliases: [Cordis, introducer sheath]
 ---
-# Cordis
+# Cordis Introducer Sheath
 A Cordis is a large bore (8-9 Fr), short catheter used to insert and remove temporary vascular devices. Used for Swan-Ganz placement and massive resuscitation (flow rates are up to 850 mL with pressurized systems).
 
 ## Procedure
