@@ -1,5 +1,4 @@
 # Echocardiograms in Bloodstream Infections
-=========================================
 
 Indicated
 ---------
