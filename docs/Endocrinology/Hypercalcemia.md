@@ -1,28 +1,25 @@
 # Hypercalcemia
 
-## Approach to Diagnosis
-
 > [!info] 
 > More than 90% of hypercalcemia is due to primary hyperparathyroidism and cancer.
 
-**PTH-mediated \(low or normal\)**
+## PTH-mediated \(low or normal\)
 
-* primary hyperPTH
+* *primary hyperPTH*
   * elevated urine calcium-creatinine clearance \(physiologic response\)
-* tertiary hyperPTH
+* *tertiary hyperPTH*
   * due to CKD which leads to phosphate retention which leads to +PTH activity as compensation
-* familia hypocalciuric hypercalcemia \(FHH\)
+* *familial hypocalciuric hypercalcemia \(FHH\)*
   * genetic mutation in CaSR that leads to altered set point in PTH \(too high for the given serum calcium level\)
   * autosomal dominant
 
-**PTH-independent \(low\)**
-
-* Malignancy associated
+## PTH-independent \(low\)
+* *Malignancy associated*
   * Humoral hypercalcemia of malignancy \(HMM\)
     * PTHrP-related
     * not PTHrP-related
   * osteolytic lesions
-* Vitamin D intoxication
+* *Vitamin D intoxication*
   * overingestion
   * Williams syndrome \(+endogenous production, genetic\)
   * Granulomatous disease \(+activation\)
@@ -31,7 +28,7 @@
     * TB
     * Histoplasmosis & coccidiomycosis
     * Leprosy
-* Drugs
+* *Drugs*
   * Vitamin A
   * Thiazides
   * Lithium
@@ -40,18 +37,17 @@
   * Milk-alkali syndrome
   * Aluminum intoxication \(in CKD\)
   * Aminophylline
-* Thyrotoxicosis \(increases bone turnover. May respond to beta-blockers\)
-* [Adrenal insufficiency](Adrenal%20Insufficiency.md)
+* *Thyrotoxicosis* \(increases bone turnover. May respond to beta-blockers\)
+* *[Adrenal insufficiency](Adrenal%20Insufficiency.md)*
 * VIPoma
-* Immobilization \(do not forget!\)
+* *Immobilization* \(do not forget!\)
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
 ## Management
 
-{% hint style="info" %}
-Depends on severity and symptoms of hypercalcemia. Treat the underlying cause as well. Hold thiazides \(hyper-GLUC syndrome\) and vitamin D, and consider restricting dietary calcium. **Consider excluding lymphoma prior to steroids.**
-{% endhint %}
+> [!NOTE] Info
+> Depends on severity and symptoms of hypercalcemia. Treat the underlying cause as well. Hold thiazides \(hyper-GLUC syndrome\) and vitamin D, and consider restricting dietary calcium. **Consider excluding lymphoma prior to steroids.**
 
 **Hydration and diuresis - flush the body out.**
 
@@ -59,14 +55,13 @@ Depends on severity and symptoms of hypercalcemia. Treat the underlying cause as
 * Loop diuretics only for those with volume overload from resuscitation.  Watch the lytes.
 
 **Anti-calcium drugs** if hydration and saline diuresis is not enough.
-
 * Calcitonin
   * limited evidence, may suffer from tachyphylaxis. Consider as adjunct.
 * Bisphosphonates
   * first-line for malignancy-related hypercalcemia, as they inhibit osteoclastic bone resorption.
   * takes 2-4 days to work, so start right away
   * Pamidronate or zoledronic acid IV
-  * contraindicated in primary or tertiary hyperPTH
+  * *contraindicated in primary or tertiary hyperPTH*
   * Infusion can cause a fever, and both drugs can cause nephrotic range proteinuria
 * Denosumab \(Prolia\)
   * RANKL inhibitor

@@ -13,7 +13,7 @@ See [ACLS - Post-Cardiac Arrest Care > Post-Arrest Oxygen Targets](ACLS%20-%20Po
 
 > [!NOTE] Takeaway
 > 1. Overall, the data suggest that for mechnically ventiled patients in the ICU, restrictive oxygenation targets may be beneficial (i.e. SpO2 91-96%) as compared to liberal targets (97%+), and we should use the minimal FiO2 required to achieve this. Hyperoxia may be harmful.
-> 2. As well, in patients with [MI](../../Cardiology/Ischemic%20Heart%20Disease/ACS.md) (not necessarily ventilated), avoid oxygen unless hypoxic.
+> 2. As well, in patients with [MI](../../Cardiology/Ischemic%20Heart%20Disease/Thrombotic%20Disease/ACS.md) (not necessarily ventilated), avoid oxygen unless hypoxic.
 
 ## ARDS
 See [Acute Respiratory Distress Syndrome > Oxygen Targets in ARDS](Acute%20Respiratory%20Distress%20Syndrome#Oxygen%20Targets%20in%20ARDS)

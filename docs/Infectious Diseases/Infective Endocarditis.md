@@ -14,7 +14,7 @@ Organisms deep within the vegetation are metabolically inactive and difficult to
 * chronic rheumatic heart disease
 * IV drug use
 * degenerative valves
-* intracardiac devices \([ICD](../Cardiology/Ischemic%20Heart%20Disease/ICDs%20Post-ACS.md), pacemaker, etc\)
+* intracardiac devices \([ICD](../Cardiology/Arrhythmias/ICDs%20Post-ACS.md), pacemaker, etc\)
 * old age
 * prosthetic valves
   * bioprosthetics and mechanicals have similar risk profiles

@@ -82,7 +82,7 @@ Not routinely available in Canada or the USA.
 - **Intervention:** Milrinone (blinded)
 - **Comparator:** Dobutamine (blinded)
 - **Outcomes:** 
-	- Primary: Composite of in-hospital mortality, resuscitated IHCA, cardiac transplant or MCS, nonfatal [MI](../../Cardiology/Ischemic%20Heart%20Disease/ACS.md), TIA/stroke, RRT
+	- Primary: Composite of in-hospital mortality, resuscitated IHCA, cardiac transplant or MCS, nonfatal [MI](../../Cardiology/Ischemic%20Heart%20Disease/Thrombotic%20Disease/ACS.md), TIA/stroke, RRT
 - **Results:**
 	- N=192. Primary outcome: *49% vs 54%* (RR 0.90, P=0.47). No difference in subgroups, time-to-event analysis
 	- Secondary outcomes: No differences in sub-primaries, CCU LOS, hospital LOS, NIV, invasive ventilation, AKI, biochemistry, arrhythmias, dose of other [Vasopressors](Vasopressors.md).

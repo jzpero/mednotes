@@ -86,7 +86,7 @@ Old paradigm (< 2013) was that clinical symptoms needed to be present for the di
 
 # Management
 
-1.  [ICD](../Ischemic%20Heart%20Disease/ICDs%20Post-ACS.md) placement is the definitive treatment. Indicated for symptomatic patients. In asymptomatic patients with a spontaneous type 1 pattern, the EPS can be used to assess the need for an [ICD](../Ischemic%20Heart%20Disease/ICDs%20Post-ACS.md).
+1.  [ICD](ICDs%20Post-ACS.md) placement is the definitive treatment. Indicated for symptomatic patients. In asymptomatic patients with a spontaneous type 1 pattern, the EPS can be used to assess the need for an [ICD](ICDs%20Post-ACS.md).
 2.  Quinidine is effective but highly toxic.
 3.  Ablation can be used to define and remove the arrhythmic electrophysiological substrate but this is less often done.
 4.  Education and lifestyle changes. Treat fevers, avoid contraindicated substances (propofol, tricyclic antidepressants, fluoxetine, lithium, trifluoperazine, antihistamines, and cocaine), etc.

@@ -59,9 +59,9 @@
 ## SHEP (1991)
 ## DASH (1997)
 ## ALLHAT (2002)
-RCT to determine whether the occurrence of fatal CHD or nonfatal myocardial infarction ([MI](Ischemic%20Heart%20Disease/ACS.md)) is lower for high-risk patients with hypertension treated with amlodipine, lisinopril, doxazosin, or chlorthalidone.
+RCT to determine whether the occurrence of fatal CHD or nonfatal myocardial infarction ([MI](Ischemic%20Heart%20Disease/Thrombotic%20Disease/ACS.md)) is lower for high-risk patients with hypertension treated with amlodipine, lisinopril, doxazosin, or chlorthalidone.
 
-Upon analysis of the data, the primary outcome, fatal coronary artery disease or nonfatal [MI](Ischemic%20Heart%20Disease/ACS.md) at 6 years, was similar among all groups. There was also no significant difference in all-cause mortality, a secondary outcome, among the groups.
+Upon analysis of the data, the primary outcome, fatal coronary artery disease or nonfatal [MI](Ischemic%20Heart%20Disease/Thrombotic%20Disease/ACS.md) at 6 years, was similar among all groups. There was also no significant difference in all-cause mortality, a secondary outcome, among the groups.
 - When comparing amlodipine with chlorthalidone, the amlodipine group had a 38% higher risk of heart failure (HF) (P<.001) and a 35% higher risk of hospitalized/fatal HF (P<.001).
 - When comparing lisinopril with chlorthalidone, the lisinopril group had a 15% higher risk for stroke (P=.02), a 10% higher risk of combined cardiovascular disease (CVD) (p<0.001), a 19% higher risk of HF (P<.001), and an 11% higher risk of hospitalized/treated angina (P=.01).
 

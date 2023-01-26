@@ -6,7 +6,7 @@ VF arrest accounts for 25-50% of the cardiac arrests. Cardiac tamponade and othe
 ## Algorithm (up until they leave ICU or 10 days post cardiac surgery)
 - **shockable rhythm**
 	- Perform 3-stacked DC shocks prior to initiation of CPR
-- **nonshockable rhythm*
+- **nonshockable rhythm**
 	- PEA
 		- If paced, turn off pacing to exclude VF
 	- Bradycardia/Asystole

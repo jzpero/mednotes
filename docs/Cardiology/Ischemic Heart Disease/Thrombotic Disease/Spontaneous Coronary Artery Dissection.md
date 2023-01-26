@@ -48,7 +48,7 @@
             *   severe stenosis
             *   isolated intramural hematoma
     *   **Intravascular and noninvasive imaging**
-        *   Not really used. Options are IVUS, OCT, CMR, [CCTA](Coronary%20CT%20Angiography.md)
+        *   Not really used. Options are IVUS, OCT, CMR, [CCTA](../Diagnosis%20and%20Screening/Coronary%20CT%20Angiography.md)
 
 # Acute Management of SCAD
 Goals are (1) restore/preserve myocardial perfusion and function (2) avoid adverse outcomes related to thrombolysis.
@@ -60,7 +60,7 @@ Goals are (1) restore/preserve myocardial perfusion and function (2) avoid adver
 ## Medical Therapy
 
 *   There are no RCTs to guide SCAD-specific pharmacologic management. Treatment is based on sequelae and associated risks
-    *   LV dysfunction --> [GDMT](../Heart%20Failure/Guideline-Directed%20Medical%20Therapy.md)
+    *   LV dysfunction --> [GDMT](../../Heart%20Failure/GDMT/Guideline-Directed%20Medical%20Therapy.md)
         *   beta blocker associated with less SCAD recurrence
     *   PCI with stent --> standard post-PCI DAPT therapy
     *   Hypertension --> antihypertensives

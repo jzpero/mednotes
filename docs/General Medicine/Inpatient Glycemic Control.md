@@ -81,7 +81,7 @@ CBG may be inaccurate in critically ill due to peripheral hypoperfusion.
 -   in specific scenarios, hold the following regardless of PO status:
     -   metformin (renal failure - risk of lactic acidosis)
     -   TZDs (heart failure)
-    -   sulfonylureas ([acute coronary syndrome](../Cardiology/Ischemic%20Heart%20Disease/ACS.md))
+    -   sulfonylureas ([acute coronary syndrome](../Cardiology/Ischemic%20Heart%20Disease/Thrombotic%20Disease/ACS.md))
 
 ## Corticosteroids
    

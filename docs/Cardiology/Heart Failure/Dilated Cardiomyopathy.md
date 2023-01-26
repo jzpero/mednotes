@@ -69,7 +69,7 @@ Echocardiographic definition of DCM:
 2) LVEF < 45-50%
 
 Rule out:
-- coronary artery disease (?cardiac cath, [CCTA](../Ischemic%20Heart%20Disease/Coronary%20CT%20Angiography.md))
+- coronary artery disease (?cardiac cath, [CCTA](../Ischemic%20Heart%20Disease/Diagnosis%20and%20Screening/Coronary%20CT%20Angiography.md))
 
 ### Electrocardiography and Holter
 ECG can be normal, but patients can have isolated T wave changes, LBBB, IVCD. ST and SVT are common; 20-30% of patients have NSVT.
@@ -96,7 +96,7 @@ The current expert consensus statement of the ESC recommends that *all patients 
 
 ## General Management of HF +/- rEF
 - management is mostly NOT based primarily on DCM alone, but on evidence-base strategies to manage HFrEF. The pivotal randomized controlled clinical trials that provided the evidence for the guidelines on the treatment of heart failure with reduced ejection fraction included a large proportion of patients with a non-ischaemic aetiology (that is, individuals who probably developed heart failure as a result of DCM). Consequently, on the basis of subgroup analyses, it is reasonable to assume that the efficacy and safety of most treatments for heart failure extend to patients with DCM.
-- See [GDMT](Guideline-Directed%20Medical%20Therapy.md)
+- See [GDMT](GDMT/Guideline-Directed%20Medical%20Therapy.md)
 - ![](_attachments/41572_2019_84_Fig6_HTML.webp)
 
 ## Etiology-Based Therapies
@@ -107,7 +107,7 @@ For patients with EMB-confirmed myocarditis or infection-associated DCM.
 
 ## Device Therapy
 - CRT is indicated for patients with heart failure and LVEF ≤35% who have a life expectancy with good functional status of >1 year if they are in sinus rhythm and have a markedly prolonged QRS duration (≥130 ms) and an ECG that shows left bundle branch block, irrespective of symptom severity. The benefits of CRT for patients with right bundle branch block or interventricular conduction delay are unclear (subgroup analyses suggest little benefit or even harm
-- An updated meta-analysis of six randomized trials, assessing the effect of [ICD](../Ischemic%20Heart%20Disease/ICDs%20Post-ACS.md) on all-cause mortality in 2,970 patients with non-ischaemic DCM who were randomized to [ICD](../Ischemic%20Heart%20Disease/ICDs%20Post-ACS.md) or to optimal medical therapy for the primary prevention of sudden cardiac death, found a significant 23% risk reduction in all-cause mortality in the [ICD](../Ischemic%20Heart%20Disease/ICDs%20Post-ACS.md) arm
+- An updated meta-analysis of six randomized trials, assessing the effect of [ICD](../Arrhythmias/ICDs%20Post-ACS.md) on all-cause mortality in 2,970 patients with non-ischaemic DCM who were randomized to [ICD](../Arrhythmias/ICDs%20Post-ACS.md) or to optimal medical therapy for the primary prevention of sudden cardiac death, found a significant 23% risk reduction in all-cause mortality in the [ICD](../Arrhythmias/ICDs%20Post-ACS.md) arm
 
 ## Surgical Therapy
 - considered for failure of adequate management to pharmacologic and device therapy. In this setting, surgical options are considered:
