@@ -35,7 +35,7 @@ Several trials have been done in this space:
 ### Hypothermic TTM
 - This concept was based on two 2002 NEJM studies (**HACA**, **Bernard**) that suggested a 14% mortality ARR.
 - **TTM Trial (2013)** showed no difference between TTM33 and TTM36 with regards to survival and neurologic outcome.
-- **EUROTHERM3235 Trial (2015)** showed that in patients with TBI, hypothermia (32-35 Celsius) led to worse neurological outcomes and increased mortality.
+- **EUROTHERM3235 Trial (2015)** showed that in patients with [TBI](../Neuro%20Critical%20Care/Traumatic%20Brain%20Injury.md), hypothermia (32-35 Celsius) led to worse neurological outcomes and increased mortality.
 - **POLAR Trial (2018)** showed that in patients with severe blunt TBI, hypothermia (target 35 --> 33 Celsius) was associated with increased mortality, increased pneumonia, increased bradycardia, and increased time on the ventilator.
 - **HYPERION Trial (2019)** showed a small improvement (survival with favourable neuro-status) from 24 hours of hypothermia (33 Celcius) vs normothermia (36.5-37.5 Celcius) among patients with cardiac arrest from a nonshockable rhythm (10% vs. 6% with good neurological outcome, _p_=0.047)
 

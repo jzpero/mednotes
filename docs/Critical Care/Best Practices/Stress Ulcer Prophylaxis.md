@@ -25,7 +25,7 @@
     2.  INR > 1.5
     3.  PTT > 2x control
 3.  History of recent GI bleeding
-4.  TBI, traumatic spinal cord injury
+4.  [TBI](../Neuro%20Critical%20Care/Traumatic%20Brain%20Injury.md), traumatic spinal cord injury
 5.  Burn injury
 6.  Two or more of: sepsis, ICU more than 1 week, occult GIB for 6 or more days, high dose hydrocortisone therapy
 7.  NSAIDs or antiplatelets

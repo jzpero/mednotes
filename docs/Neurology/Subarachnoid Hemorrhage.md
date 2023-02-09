@@ -1,6 +1,6 @@
 # Types
 1. Aneurysmal (aSAH)
-2. Traumatic
+2. [Traumatic SAH](../Critical%20Care/Neuro%20Critical%20Care/Traumatic%20Brain%20Injury.md#Traumatic%20SAH)
 
 # Background
 ## Risk Factors
@@ -81,3 +81,4 @@ Management:
 1. AHA/American Stroke Association aSAH 2012 Guidelines: [Guidelines for the Management of Aneurysmal Subarachnoid Hemorrhage | Stroke](https://www.ahajournals.org/doi/10.1161/str.0b013e3182587839)
 2. [Treatment of Spontaneous Subarachnoid Hemorrhage | Stroke](https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.119.025997)
 3. [Aneurysmal subarachnoid hemorrhage: Treatment and prognosis - UpToDate](https://www.uptodate.com/contents/aneurysmal-subarachnoid-hemorrhage-treatment-and-prognosis)
+4. https://emcrit.org/ibcc/tbi/
