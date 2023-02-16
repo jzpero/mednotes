@@ -8,5 +8,5 @@ However, it should exclude:
 We use phenotypes to identify individuals with a clinical abnormality that fits into a conventional category of cardiomyopathy. These have been associated with specific genotypes, LV and RV functions, electrical dysfunctions:
 1. [DCM](Heart%20Failure/Dilated%20Cardiomyopathy.md)
 2. ARVC
-3. HCM
+3. [HCM](Hypertrophic%20Cardiomyopathy.md)
 4. RCM

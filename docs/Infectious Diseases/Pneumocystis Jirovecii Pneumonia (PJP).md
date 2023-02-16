@@ -61,7 +61,7 @@ The risk for PCP is determined by the degree of cell-mediated immune deficiency 
 	- Adverse effects: leukopenia and agranulocytosis. Sulfonamide-containing antibiotics, including TMP-SMX, can cause exacerbations of SLE as well,
 - Alternatives
 	- **Dapsone** (with pyrimethamine if Toxoplasma prophylaxis is indicated)
-		- cause agranulocytosis and hemolytic anemia
+		- cause agranulocytosis and [hemolytic anemia](../Hematology/Hemolytic%20Anemia.md)
 		- less expensive than atovaquone
 		- contraindicated in G6PD deficiency
 	- **Atovaquone**

@@ -34,7 +34,7 @@ Babesiosis is an infectious disease caused by *Babesia* protozoa, transmitted ma
 	- severe anemia
 	- renal failure
 	- splenic infarct or rupture
-	- warm AIHA
+	- warm [AIHA](../Hematology/Autoimmune%20Hemolytic%20Anemias.md)
 
 | System           | Manifestations                     |
 | ---------------- | ---------------------------------- |
@@ -44,7 +44,7 @@ Babesiosis is an infectious disease caused by *Babesia* protozoa, transmitted ma
 
 # Diagnosis
 - clinical syndrome as above
-- laboratory findings of hemolytic anemia, thrombocytopenia, mixed transaminitis
+- laboratory findings of [hemolytic anemia](../Hematology/Hemolytic%20Anemia.md), thrombocytopenia, mixed transaminitis
 - epidemiologic exposure risk
 - *Babesia* serology as a screening test
 - thin blood smears (**Maltese cross**, trophozoites, parasitemia %)

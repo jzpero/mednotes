@@ -43,7 +43,7 @@ aliases: [MINS]
 -   ACE inhibitor if hypertensive with no tachycardia
 -   The above are based on risk-adjusted observational data
 -   Dabigatran
-	-   Evidence: MANAGE RCT (Lancet, PJ Devereux)
+	-   Evidence: **MANAGE RCT** (Lancet, PJ Devereux)
 	-   However, dabigatran was compared to placebo control and grouped arterial and venous thrombosis.
 
 ## Coronary Revascularization

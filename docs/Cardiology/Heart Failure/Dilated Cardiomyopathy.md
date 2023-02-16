@@ -49,7 +49,7 @@ Diverse set of etiologies (and therefore, pathogenesis) of DCM. Idiopathic and f
 _TTN_ truncating mutations are a common cause of DCM, occurring in ~25% of familial cases of DCM and in 18% of sporadic cases.
 
 # Epidemiology
-In a 2013 review, the prevalence of DCM was estimated to be >1 per 250 individuals on the basis of recent clinical trial and related data; this result is particularly relevant as reliable population-based studies of the prevalence of hypertrophic cardiomyopathy have estimated it to be at least 1 per 500 individuals, and the review article estimates that DCM is at least as common in the population as hypertrophic cardiomyopathy.
+In a 2013 review, the prevalence of DCM was estimated to be >1 per 250 individuals on the basis of recent clinical trial and related data; this result is particularly relevant as reliable population-based studies of the prevalence of [hypertrophic cardiomyopathy](../Hypertrophic%20Cardiomyopathy.md) have estimated it to be at least 1 per 500 individuals, and the review article estimates that DCM is at least as common in the population as [hypertrophic cardiomyopathy](../Hypertrophic%20Cardiomyopathy.md).
 
 ## Risk Factors
 - 30% higher risk in Black than White individuals (not fully explained by [hypertension](../Hypertension.md) or socioeconomic factors)
