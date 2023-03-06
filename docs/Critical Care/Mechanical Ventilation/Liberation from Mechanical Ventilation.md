@@ -7,7 +7,7 @@
     1.  to room air
     2.  to NIV
 
-![[_attachments/Liberation from Mechanical Ventilation 2023-03-05 23.37.58.png]]
+![](_attachments/Liberation%20from%20Mechanical%20Ventilation%202023-03-05%2023.37.58.png)
 
 ## Conditions need to be optimized
 *   respiratory  
