@@ -7,8 +7,7 @@
     1.  to room air
     2.  to NIV
 
-![[_attachments/Liberation from Mechanical Ventilation 2023-03-05 23.37.58.svg]]
-%%[[_attachments/Liberation from Mechanical Ventilation 2023-03-05 23.37.58.excalidraw|🖋 Edit in Excalidraw]], and the [[_attachments/Liberation from Mechanical Ventilation 2023-03-05 23.37.58.dark.svg|dark exported image]]%%
+![[_attachments/Liberation from Mechanical Ventilation 2023-03-05 23.37.58.png]]
 
 ## Conditions need to be optimized
 *   respiratory  
