@@ -1,0 +1,176 @@
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.18",
+	"elements": [
+		{
+			"id": "9iF8un2g",
+			"type": "text",
+			"x": -62.5,
+			"y": -12.703125,
+			"width": 78.83992004394531,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2102610163,
+			"version": 43,
+			"versionNonce": 1450935613,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678077516360,
+			"link": null,
+			"locked": false,
+			"text": "Testing!",
+			"rawText": "Testing!",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Testing!"
+		},
+		{
+			"id": "qfUok-abuU1MPq2clbpHE",
+			"type": "rectangle",
+			"x": -255.5,
+			"y": -69.703125,
+			"width": 459,
+			"height": 151,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 2101891347,
+			"version": 25,
+			"versionNonce": 1800251027,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "ml6_j9Uwqg759v2E8lSNU",
+					"type": "arrow"
+				}
+			],
+			"updated": 1678077511277,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "ml6_j9Uwqg759v2E8lSNU",
+			"type": "arrow",
+			"x": -22.5,
+			"y": 85.296875,
+			"width": 9,
+			"height": 142,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1325575315,
+			"version": 32,
+			"versionNonce": 974192573,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678077511277,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					9,
+					142
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "qfUok-abuU1MPq2clbpHE",
+				"focus": 0.006567774321054451,
+				"gap": 4
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "MM-oTxOsrQiLQ0ENvT0eC",
+			"type": "rectangle",
+			"x": -182.5,
+			"y": 219.296875,
+			"width": 358,
+			"height": 160,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1991507997,
+			"version": 34,
+			"versionNonce": 2143884851,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678077513542,
+			"link": null,
+			"locked": false
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#000000",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 629.5,
+		"scrollY": 264.296875,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"colorPalette": {},
+		"currentStrokeOptions": null,
+		"previousGridSize": null
+	},
+	"files": {}
+}

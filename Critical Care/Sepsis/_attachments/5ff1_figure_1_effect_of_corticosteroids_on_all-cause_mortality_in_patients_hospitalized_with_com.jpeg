@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Login to access Library e-Resources</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0", shrink-to-fit=no>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="/public/bootstrap.min.css">
+  <!-- Brighter World CSS -->
+  <link rel="stylesheet" href="/public/mcm-bw.css">
+  <!-- Ezproxy local CSS -->
+  <link rel="stylesheet" href="/public/local.css">
+  <!-- Brighter World Fonts -->
+  <style>
+    @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700,700i|Roboto:300,300i,400,400i,700,700i');
+  </style>
+</head>
+<body>
+  <div id="content" class="container-fluid pt-5 pb-4">
+    <h2 class='text-center col-md-12'>Login to access Library e-Resources </h2>
+    <p class='text-center'><a href="/login?auth=shibboleth&url=https://www.acpjournals.org/na101/home/literatum/publisher/acp/journals/content/aim/2015/aim.2015.163.issue-7/m15-0715/20211001/images/large/5ff1_figure_1_effect_of_corticosteroids_on_all-cause_mortality_in_patients_hospitalized_with_com.jpeg" class="btn btn-secondary btn-lg btn-arrow m-2" id="primary-login"><span>Log in with your MacID@mcmaster.ca</span></a>
+    <br>For current McMaster Students, Faculty, and Staff.</p><p class="text-center"> <strong>Or</strong></p>
+    <p class="text-center"><a href="#main_content" class="btn btn-info m-2" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="main_content">Log in for Retired Faculty, Courtesy and Alumni</a></p>
+    <div id="main_content" class="collapse pb-4 pt-4 col-lg-8 mx-auto col-md-12" >
+      <div class="row card card-shadow">
+        <div class='col-md-6 offset-md-3 pb-3'>
+          <p class='mt-3 text-center'><strong>Log in with your McMaster My Library Account credentials</strong></p>
+
+          <form action="/login" method="post">
+          <input type="hidden" name="auth" value="AlmaEZ"><br>
+          <input type="hidden" name="url" value="https://www.acpjournals.org/na101/home/literatum/publisher/acp/journals/content/aim/2015/aim.2015.163.issue-7/m15-0715/20211001/images/large/5ff1_figure_1_effect_of_corticosteroids_on_all-cause_mortality_in_patients_hospitalized_with_com.jpeg">
+          <div class="form-group"><label for='user'><strong>Email:</strong></label>
+          <input type="text" name="user" id="user" class="form-control" /></div>
+          <div class="form-group">
+          <label for='pass'><strong>Password:</strong></label>
+          <input type="password" name="pass" id="pass" class="form-control" /></div>
+          <button type="submit" class="btn btn-primary">Log in</button>  <a class="btn btn-link btn-arrow ml-5" href="https://mcmaster.primo.exlibrisgroup.com/view/resetPw?institutionCode=01OCUL_MU">Reset Password</a>
+          </form>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="site-footer" class="grey py-4 equal-row mt-4" role="complementary" aria-label="Site Footer Content Information">
+    <div class="container">
+      <div class="row equal-row">
+        <div class="col-lg-4 col--logo offset-lg-2">
+          <img src="/public/mcm-libraries_left-rev.png" alt="McMaster Libraries" class="img-fluid">
+        </div>
+        <div class="col-lg-4 mx-auto pt-2">
+          <a href="https://library.mcmaster.ca/services/off-campus-access">Off-Campus Access Information</a><br><br>
+          <p style="font-size: 16px;">If you have questions or need assistance, please contact us:<br><a href="https://library.mcmaster.ca/justask">University Library</a> | <a href="https://hsl.mcmaster.ca/ask-us">Health Sciences Library</a>.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="/public/jquery-3.2.1.slim.min.js"></script>
+  <script src="/public/popper.min.js"></script>
+  <script src="/public/bootstrap.min.js"></script>
+  <!-- Brighter World JS -->
+  <script src="/public/mcm-bw.js"></script>
+
+  <script src="/public/headerfooter.js"></script>
+</body>
+</html>
