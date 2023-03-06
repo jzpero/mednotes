@@ -1,0 +1,19 @@
+# Oxygen Targets in the ICU
+## Post-Cardiac Arrest
+See [ACLS - Post-Cardiac Arrest Care > Post-Arrest Oxygen Targets](ACLS%20-%20Post-Cardiac%20Arrest%20Care#Post-Arrest%20Oxygen%20Targets)
+
+## Critically Ill Patients
+| Study (Year)            | Population                                                                                              | Intervention               | Comparator                 | Outcome                                                                                                                  | Comment                                                             |
+| ----------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **AVOID (2015)**        | [STEMI](../../Cardiology/Ischemic%20Heart%20Disease/Thrombotic%20Disease/STEMI.md) patients without hypoxia (SpO2 94%+)                                                              | Oxygen (8LPM facemask)     | Oxygen only if SpO2 <94%   | Trend towards decreased in-hospital mortality, but significant increase in recurrent MI (NNH=22) and arrhythmia (NNH=11) | Unblinded study, O2 not titrated in intervention.                   |
+| **OXYGEN-ICU (2016)**   | Mechanically ventilated adults, excluding AECOPD and severe ARDS                                         | PaO2 70-100 or SpO2 94-96% | PaO2 < 150 or SpO2 97-100% | 11.6% vs 20.2% ICU mortality (p=0.01)                                                                                    | single centre study, unbalanced groups (favouring intervention arm) |
+| **ICU-ROX (2019)**      | Mechanically ventilated adults, excluding patients requiring avoidance/presence of hyperoxia, pregnancy | SpO2 91-96%                | SpO2 > 90% and FiO2 > 0.30 | No difference in 28-day ventilator free days. No difference in 6-month mortality.                                        | Largest such trial, better internal validity than OXYGEN-ICU        |
+| **HOT-ICU (2021 NEJM)** | Adults in the ICU on at least 10 LPM O2 or FiO2 > 0.50 (not necessarily intubated)                                                 | PaO2 target 60 mmHg        | PaO2 target 90 mmHg        | No differences in death at 90 days, life support dependence, shock, MI, stroke, intestinal ischemia.                                                                                                                         |                                                                     |
+| MEGA-ROX (PENDING)      |                                                                                                         |                            |                            |                                                                                                                          |                                                                     |
+
+> [!NOTE] Takeaway
+> 1. Overall, the data suggest that for mechnically ventiled patients in the ICU, restrictive oxygenation targets may be beneficial (i.e. SpO2 91-96%) as compared to liberal targets (97%+), and we should use the minimal FiO2 required to achieve this. Hyperoxia may be harmful.
+> 2. As well, in patients with [MI](../../Cardiology/Ischemic%20Heart%20Disease/Thrombotic%20Disease/ACS.md) (not necessarily ventilated), avoid oxygen unless hypoxic.
+
+## ARDS
+See [Acute Respiratory Distress Syndrome > Oxygen Targets in ARDS](Acute%20Respiratory%20Distress%20Syndrome#Oxygen%20Targets%20in%20ARDS)

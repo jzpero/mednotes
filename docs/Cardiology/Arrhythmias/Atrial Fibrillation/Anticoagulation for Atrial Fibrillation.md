@@ -1,0 +1,1 @@
+See also [Antithrombotic Therapy after PCI in Atrial Fibrillation](../../Ischemic%20Heart%20Disease/Antiplatelet%20Therapy/Antithrombotic%20Therapy%20after%20PCI%20in%20Atrial%20Fibrillation.md).
