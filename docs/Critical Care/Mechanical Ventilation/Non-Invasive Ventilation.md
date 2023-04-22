@@ -54,7 +54,7 @@
 	*   conditional recommendation to USE to facilitate weaning from mechanical ventilation in patients with hypercapnic respiratory failure
 	*   no recommendations for hypoxemic patients
 
- ## References
+ # References
 1.  Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. _European Respiratory Journal_. 2017;50(2). doi:[10.1183/13993003.02426-2016](https://doi.org/10.1183/13993003.02426-2016)
 2.  Burns KE, Adhikari NK, Keenan SP, Meade MO. Noninvasive positive pressure ventilation as a weaning strategy for [intubated](../../Procedures/Intubation.md) adults with respiratory failure. _Cochrane Database of Systematic Reviews_. 2010;(8). doi:[10.1002/14651858.CD004127.pub2](https://doi.org/10.1002/14651858.CD004127.pub2)
 3.  Ornico SR, Lobo SM, Sanches HS, et al. Noninvasive ventilation immediately after extubation improves weaning outcome after acute respiratory failure: a randomized controlled trial. _Crit Care_. 2013;17(2):R39. doi:[10.1186/cc12549](https://doi.org/10.1186/cc12549)

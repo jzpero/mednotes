@@ -3,6 +3,9 @@
 > [!info] 
 > More than 90% of hypercalcemia is due to primary hyperparathyroidism and cancer.
 
+![](_attachments/Hypercalcemia%202023-03-05%2023.55.16.png)
+%%[🖋 Edit in Excalidraw](_attachments/Hypercalcemia%202023-03-05%2023.55.16.excalidraw), and the [dark exported image](_attachments/Hypercalcemia%202023-03-05%2023.55.16.dark.png)%%
+
 ## PTH-mediated \(low or normal\)
 
 * *primary hyperPTH*

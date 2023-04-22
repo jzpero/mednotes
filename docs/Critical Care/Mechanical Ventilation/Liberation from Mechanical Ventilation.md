@@ -7,8 +7,6 @@
     1.  to room air
     2.  to NIV
 
-![](_attachments/Liberation%20from%20Mechanical%20Ventilation%202023-03-05%2023.37.58.png)
-
 ## Conditions need to be optimized
 *   respiratory  
     *   FiO2 < 40-50%
@@ -31,7 +29,7 @@
 
 ## Assessment of readiness for extubation/SBT
 *   LOC satisfactory, and cooperative. Can they protect their airway?
-*   Can lift their head off the pillow, and arms off the bed. Do they have ICUAW?
+*   Can lift their head off the pillow, and arms off the bed. Do they have [ICU-AW](../Best%20Practices/ICU-Acquired%20Weakness.md)?
 *   Adequate cough with tracheal suctioning.
 *   Adequate gag with oropharyngeal suctioning.
 *   good tidal volumes with zero pressure support (>10 mL/kg IBW)

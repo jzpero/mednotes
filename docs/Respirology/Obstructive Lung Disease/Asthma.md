@@ -1,3 +1,4 @@
+# Asthma
 # Diagnosis of Asthma
 Asthma is a heterogenous disease characterized by chronic airway inflammation. Symptoms include wheeze, shortness of breath, chest tightness and cough that vary over time and are related to bronchoconstriction, airway wall thickening, increased mucus and variable expiratory airflow limitation.
 
