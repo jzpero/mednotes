@@ -54,3 +54,10 @@ Minimizes the harmful effects of [intubation](Intubation.md) which include:
 -   adjust patient’s respiratory rate to target ETCO2 35mmHg until an ABG is obtained to confirm PaCO2 35-40 mmHg
 -   target SaO2 95% (avoid hypoxia or extreme hyperoxia)
 -   use the minimum PEEP necessary to avoid hypoxia
+
+# References
+1. [Intubation of the Neurocritical Care Patient • LITFL](https://litfl.com/intubation-of-the-neurocritical-care-patient/)
+2. [Rapid Sequence Intubation in Traumatic Brain-injured Adults - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6017125/)
+3. [Breaking the Brain Code: Elevated ICP in the ED Part 2 - EMOttawa Blog](https://emottawablog.com/2021/04/breaking-the-brain-elevated-icp-in-the-ed-part-2/)
+4. [emDOCs.net – Emergency Medicine EducationNeuro Intubation Highlights - emDOCs.net - Emergency Medicine Education](http://www.emdocs.net/neuro-intubation-highlights/)
+5. https://www.uptodate.com/contents/induction-agents-for-rapid-sequence-intubation-in-adults-for-emergency-medicine-and-critical-care#H15

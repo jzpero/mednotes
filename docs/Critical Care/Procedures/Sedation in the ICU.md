@@ -36,7 +36,7 @@ The goal is to have a non-titrated dose of rapid onset (45-60 seconds) IV medica
 	2. **Succinylcholine** 1.5 mg/kg (e.g. 100 mg). Time to [intubation](Intubation.md) level paralysis is 45-60 seconds with this dose, and effect last ~6 minutes.
 
 ## Procedural conscious sedation
-The approach here will depend upon (1) baseline sedation status (awake, sedated?), (2) procedure invasiveness and pain ([chest tube](Chest%20Tubes.md), line, wound debridement), (3) hemodynamic and respiratory status.
+The approach here will depend upon (1) baseline sedation status (awake, sedated?), (2) procedure invasiveness and pain ([chest tube](Thoracostomies.md)), line, wound debridement), (3) hemodynamic and respiratory status.
 
 Importantly, the CAS practice guidelines state that *it is unacceptable for a single physician to administer an anesthetic, including deep procedural sedation, and simultaneously perform a diagnostic or therapeutic procedure*, except for procedures done with only infiltration of local anesthetic and/or minimal sedation.
 

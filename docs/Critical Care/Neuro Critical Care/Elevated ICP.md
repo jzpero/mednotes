@@ -256,5 +256,35 @@ $$ CPP = (MAP - ICP) $$
 - intrathoracic pressure management as above
 - treat abdominal compartment syndrome if present
 
+
+# ICP Management (2019 SIBICC Algorithm)
+![](_attachments/Pasted%20image%2020230603173415.png)
+
+![](_attachments/Pasted%20image%2020230603173646.png)
+
+![](_attachments/Pasted%20image%2020230603173721.png)
+
+## Tier 1 Therapies
+1. CPP 60-70 mmHg
+2. Increased analgosedation
+3. Mild hyperventilation (PaCO2 35-38 mmHg)
+4. Intermittent bolus mannitol/HTS (limiting Na < 155 and Osm < 320 mEq/L)
+5. CSF drainage through existing EVD
+6. 1 week of anti-seizure medication
+
+## Tier 2 Therapies
+1. Mild hyperventilation PaCO2 32-35 mmHg
+2. Trial of neuromuscular paralysis
+3. Trial of MAP increase 10 mmHg
+
+## Tier 3 Therapies
+1. Pentobarbital or thiopentone trial, and if effective, coma
+2. secondary decompressive craniectomy
+3. Hypohypothermia (35-36 ℃)
+
+## Critical Neuroworsening
+![](_attachments/Pasted%20image%2020230603174258.png)
+
+
 # References
 1. [Elevated intracranial pressure (ICP) - EMCrit Project](https://emcrit.org/ibcc/icp/)

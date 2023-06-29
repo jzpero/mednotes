@@ -14,6 +14,8 @@ Acetaminophen is the most common OTC analgesic and one of the most common toxic 
 | Toxicity MOA             | Increased NAPQI generation  depletes intracellular glutathione and then NAPQI overload leads to binding to hepatic macromolecules, causing centrilobular necrosis                                                                                                                                                                                        |
 
 ## Clinical Manifestations
+Progression to [Acute Liver Failure](../../Gastroenterology/Acute%20Liver%20Failure.md) occurs in less than 1% of presentations in the Wester world.
+
 Excess NAPQI binds to hepatic macromolecules, causing hepatocellular necrosis and potentially SIRS, MODS, [ARDS](../ARDS/Acute%20Respiratory%20Distress%20Syndrome.md), death. Initial clinical findings are nonspecific and delayed. There are four classic stages of acetaminophen toxicity:
 
 1. **Stage 1 (<24 hours)**

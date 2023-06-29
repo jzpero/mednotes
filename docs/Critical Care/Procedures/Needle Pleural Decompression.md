@@ -24,7 +24,7 @@
 3. Attach needle/catheter to syringe. (OPTIONAL)
 4. Over an over-the needle catheter (angiocath) at the site, over the rib. Apply negative pressure (IF USING SYRINGE)
 5. Once rush of air is detected, advance the catheter and withdraw the needle.
-6. Proceed to insert a [chest tube](Chest%20Tubes.md) in the 5th ICS at the AAL (for definite management).
+6. Proceed to insert a [chest tube](Thoracostomies.md)) in the 5th ICS at the AAL (for definite management).
 
 ## Resources
 1. [Needle Thoracentesis ATLS - YouTube](https://www.youtube.com/watch?v=sJ5eCDEcyKI)

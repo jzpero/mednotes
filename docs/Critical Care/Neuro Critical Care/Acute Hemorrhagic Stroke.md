@@ -1,4 +1,4 @@
-# Acute Hemorrhagic Stroke (ICH)
+# Acute Intracranial Hemorrhage (ICH)
 Background:
 - Population-based studies show that most patients present with small ICHs that are readily survivable with good medical care. **The most recent guidelines are the 2022 AHA/ASA ICH Guidelines, referenced below**.
 - 10% of strokes in the USA/Canada are ICH.
@@ -31,10 +31,9 @@ Background:
 4. Consider serial head CT in patients with low GCS or neurologic death to evaluate for hemorrhage expansion (HE), hydrocephaly, brain swelling, herniation
 
 ### Diagnostic Assessment for ICH Pathogenesis
-Among individuals <70 years of age who did not have typical hypertension-related deep territory ICH, an underlying macrovascular cause (arteriovenous malformations, aneurysm, dural arteriovenous fistula, cavernoma and cerebral venous thrombosis) is present in 1 of 4 to 1 of 7 patients, depending on age category.
+Among individuals <70 years of age who did not have typical hypertension-related deep territory ICH, *an underlying macrovascular cause (arteriovenous malformations, aneurysm, dural arteriovenous fistula, cavernoma and cerebral venous thrombosis) is present in 1 of 4 to 1 of 7 patients, depending on age category.*
 
 Catheter intra-arterial DSA remains the gold standard to search for macrovascular causes of ICH. Here are the recommendations from the 2022 ICH Guidelines for further imaging after initial CT/MR.
-
 | Population                                                                                                                                           | Imaging Recommendation                                                                 | COR |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --- |
 | Lobar spontaneous ICH and age <70; deep/posterior fossa ICH and age <45; deep/posterior fossa and age 45-70 without hypertension                     | CTA +/- venography to exclude macrovascular causes or cerebral venous sinus thrombosis | 1   |
@@ -138,7 +137,7 @@ Because of a paucity of disease-specific data, indications for ICP monitoring in
 
 ![](_attachments/Pasted%20image%2020230205152815.png)
 
-## Craniotomy for Supraventricular Hemorrhage
+## Craniotomy for Supratentorial Hemorrhage
 ![](_attachments/Pasted%20image%2020230205152906.png)
 
 ## Craniotomy for Posterior Fossa Hemorrhage

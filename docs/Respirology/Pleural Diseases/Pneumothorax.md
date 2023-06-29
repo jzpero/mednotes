@@ -22,7 +22,7 @@
 
 ## Traumatic (iatrogenic) pneumothorax
 - due to penetrating or blunt chest trauma
-- iatrogenic causes: [chest tube](../../Critical%20Care/Procedures/Chest%20Tubes.md), [central line](../../Critical%20Care/Procedures/Central%20Lines.md), etc.)
+- iatrogenic causes: [chest tube](../../Critical%20Care/Procedures/Thoracostomies.md)), [central line](../../Critical%20Care/Procedures/Central%20Lines.md), etc.)
 
 # Examination/Investigations
 - look for: dyspnea, pleuritic chest pain [shoulder tip], decreased diaphragmatic excursion, decreased breath sounds, loss of tactile fremitus, hyperresonant percussion, subcutaneous emphysema, hemodynamic collapse.
@@ -39,7 +39,7 @@
 	- Stable: controlled respiratory rate, controlled HR and blood pressure, SpO2 > 90%, and able to speak in whole sentences. All other patients are defined as unstable.
 
 ### Unstable Patients
-- Immediate [chest tube](../../Critical%20Care/Procedures/Chest%20Tubes.md) thoracostomy, or if delayed, then needle decompression.
+- Immediate[chest tube](../../Critical%20Care/Procedures/Thoracostomies.md)d) thoracostomy, or if delayed, then needle decompression.
 - Tension PTX is rare in PSP
 
 ## Initial Management 
@@ -47,27 +47,26 @@
 #### Small PSP
 - If first episode of PSP, then these patients can be treated with observation +/- oxygen. Hospital admission generally not required.
 - Supplemental oxygen theoretically improves resolution of the PTX by promoting nitrogen/air absorption. Target SpO2 >96-100% (unclear evidence), avoid positive pressure if possible (HFNC, NIV). Try for about 4-6 hours then get a repeat CXR 
-- if there are significant attributable symptoms, then consider aspiration or [chest tube](../../Critical%20Care/Procedures/Chest%20Tubes.md) thoracostomy (as well as searching for other lung disorders or diagnoses).
+- if there are significant attributable symptoms, then consider aspiration o[chest tube](../../Critical%20Care/Procedures/Thoracostomies.md)md) thoracostomy (as well as searching for other lung disorders or diagnoses).
 
 #### Large PSP
 - First episode of PSP: consider all of the following:
 	- aspiration. Most guidelines suggest the standard of care with a large stable first PSP is needle or catheter aspiration.
 		- continue aspiration until resistance is felt or 2.5-4L of air is aspirated
 		- Catheter could be left in place with a Heimlich valve (See below)
-	- [chest tube](../../Critical%20Care/Procedures/Chest%20Tubes.md) thoracostomy +/- ambulatory device
+[chest tube](../../Critical%20Care/Procedures/Thoracostomies.md).md) thoracostomy +/- ambulatory device
 	- Initial observation only approach is supported by the recent **PSP trial (NEJM 2020)** which suggests that conservative observational management of PSP is noninferior to interventional management, with a lower risk of serious adverse events. Patients should be generally healthy with mild symptoms, no hemodynamic compromise, no supplemental oxygen requirement, and ambulatory.
 
 ![](_attachments/Heimlichvalve.jpg)
 Heimlich valve
-
-## [Chest Tube](../../Critical%20Care/Procedures/Chest%20Tubes.md) Management
+[Chest Tube](../../Critical%20Care/Procedures/Thoracostomies.md)s.md) Management
 ### PSP
 - **Size/Device:**
-	- In most patients with PSP, a small-bore [chest tube](../../Critical%20Care/Procedures/Chest%20Tubes.md) (≤22 Fr) or chest catheter (≤14 Fr) is placed. In most cases, a small caliber tube or catheter is sufficient for the drainage of air in patients with PSP. It is unusual in this population that an indication for a large-bore [chest tube](../../Critical%20Care/Procedures/Chest%20Tubes.md) (eg, 22 to 28 Fr) is present unless the patient is unstable with tension pneumothorax, concomitant drainage of viscous pleural fluid (eg, empyema) or blood is needed, or small-bore catheter drainage is insufficient.
-	- One systematic review that compared small-bore [pigtail](../../Critical%20Care/Procedures/Chest%20Tubes.md) catheters with large-bore [chest tubes](../../Critical%20Care/Procedures/Chest%20Tubes.md) in patients with both PSP and secondary spontaneous pneumothorax (SSP) reported that the success rate was similar in both groups (80 versus 83 percent) but [pigtail](../../Critical%20Care/Procedures/Chest%20Tubes.md) catheters had a lower complication rate (odds ratio 0.49) and shorter drainage duration (mean difference -1.51 days) and hospital stay (mean difference -2.54 days).
+	- In most patients with PSP, a small-[chest tube](../../Critical%20Care/Procedures/Thoracostomies.md)es.md) (≤22 Fr) or chest catheter (≤14 Fr) is placed. In most cases, a small caliber tube or catheter is sufficient for the drainage of air in patients with PSP. It is unusual in this population that an indication for a large[chest tube](../../Critical%20Care/Procedures/Thoracostomies.md)ies.md) (eg, 22 to 28 Fr) is present unless the patient is unstable with tension pneumothorax, concomitant drainage of viscous pleural fluid (eg, empyema) or blood is needed, or small-bore catheter drainage is insufficient.
+	- One systematic review that compared smal[pigtail](../../Critical%20Care/Procedures/Thoracostomies.md)mies.md) catheters with lar[chest tubes](../../Critical%20Care/Procedures/Thoracostomies.md)omies.md) in patients with both PSP and secondary spontaneous pneumothorax (SSP) reported that the success rate was similar in both groups (80 versus 83 perc[pigtail](../../Critical%20Care/Procedures/Thoracostomies.md)tomies.md) catheters had a lower complication rate (odds ratio 0.49) and shorter drainage duration (mean difference -1.51 days) and hospital stay (mean difference -2.54 days).
 - **Suction**
 	- For the majority of patients, suction is not initially applied and the tube or catheter is connected to a water seal device only. *Lung re-expansion is achieved in 70 percent of patients within 72 hours without suction*
-	- If the lung fails to re-expand within the subsequent 24 to 48 hours, worsens despite [chest tube](../../Critical%20Care/Procedures/Chest%20Tubes.md) drainage, or develops a persistent air leak, low wall suction can be applied and, in some cases, a second drainage device may be needed. If suction is applied, we generally start with low rates of -10 cm H2O and increase to -20 cm H2O using a high pressure-low volume system; other forms of suction using high pressure-high volume or low pressure-high volume systems should be avoided.
+	- If the lung fails to re-expand within the subsequent 24 to 48 hours, worsen[chest tube](../../Critical%20Care/Procedures/Thoracostomies.md)stomies.md) drainage, or develops a persistent air leak, low wall suction can be applied and, in some cases, a second drainage device may be needed. If suction is applied, we generally start with low rates of -10 cm H2O and increase to -20 cm H2O using a high pressure-low volume system; other forms of suction using high pressure-high volume or low pressure-high volume systems should be avoided.
 		- prolonged use of suction may lead to a delay in definitive management by prolonging air flow through the leak, thereby slowing down the natural healing of a ruptured bleb
 - **Followup thoracostomy management**
 	- daily assessment of symptoms, air leak, complications of the chest thoracostomy (blockade, pain, bleeding). Daily CXR is not always required.
