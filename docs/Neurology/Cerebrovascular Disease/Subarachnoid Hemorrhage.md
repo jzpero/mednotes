@@ -1,6 +1,6 @@
 # Types
 1. Aneurysmal (aSAH)
-2. [Traumatic SAH](../Critical%20Care/Neuro%20Critical%20Care/Traumatic%20Brain%20Injury.md#Traumatic%20SAH)
+2. [Traumatic SAH](../../Critical%20Care/Neuro%20Critical%20Care/Traumatic%20Brain%20Injury.md#Traumatic%20SAH)
 
 # Background
 ## Risk Factors
@@ -47,7 +47,7 @@
 Rebleeding is associated with very high mortality and a poor neurological prognosis. The risk is maximal in the first 2-12 hours, and up to 13% in the first 24 hours. More than 1/3 of rebleeds occur in the first 3 hours from symptom onset.
 1. Blood pressure management
 	1. *The optimal BP target is not known.* For most patients, the goal should be SBP < 160 mmHg or MAP < 110 mmHg (Class IIa)
-3. Antifibrinolysis: patients with an unavoidable delay in obliteration of aneurysm, a significant risk of rebleeding, and no compelling medical contraindications, short-term (<72 hours) therapy with [tranexamic acid](../Critical%20Care/Transfusions%20and%20Bleeding/Tranexamic%20Acid.md) or aminocaproic acid is reasonable to reduce the risk of early aneurysm rebleeding (Class IIa)
+3. Antifibrinolysis: patients with an unavoidable delay in obliteration of aneurysm, a significant risk of rebleeding, and no compelling medical contraindications, short-term (<72 hours) therapy with [tranexamic acid](../../Critical%20Care/Transfusions%20and%20Bleeding/Tranexamic%20Acid.md) or aminocaproic acid is reasonable to reduce the risk of early aneurysm rebleeding (Class IIa)
 
 ## Surgical/Endovascular Treatment
 

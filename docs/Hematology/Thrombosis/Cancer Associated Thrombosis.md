@@ -25,7 +25,7 @@ Based on the results of 4 clinical trials, DOACs are the preferred options for t
 -   Luminal gastrointestinal or gastrointestinal lesion.
 	- GI and GU cancers have shown increased risk of major bleeding with DOACs. DOACs should either not be used (especially in those with intact intraluminal tumors) or be used with caution in patients with these cancers. About 75% of the major bleeding events occur in patients with unresected tumors. Fatal or life‐threatening bleeding occurs with similar frequency to LMWH, and most major bleeds with the DOACs can be managed with transfusion and standard measures. The patient's willingness and ability to comply with LMWH injections, and their treatment preference, should also be considered.
 -   Recent (<3 months) history of peptic ulcer disease or other bleeding lesion
--   Anticancer therapies that significantly affect P‐glycoprotein, [CYP3A4](../General%20Medicine/CYP3A4%20Inducers%20and%20Inhibitors.md), or CYP2J2 pathways
+-   Anticancer therapies that significantly affect P‐glycoprotein, [CYP3A4](../../General%20Medicine/CYP3A4%20Inducers%20and%20Inhibitors.md), or CYP2J2 pathways
 -   Severe hepatic impairment with coagulopathy. DOACs are not recommended for patients with Child‐Turcotte‐Pugh class B or C cirrhosis.
 -   Surgery or invasive procedure imminent
 - Patients with recent (<1 month) brain surgery (major surgery) or metastatic brain lesions with melanoma, renal cell carcinoma, or thyroid cancer should not receive DOACs. Data are limited for all anticoagulants in the setting of brain metastases.

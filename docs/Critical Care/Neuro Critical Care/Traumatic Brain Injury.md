@@ -87,7 +87,7 @@ SDH are usually due to damage of the bridging veins between the cerebral veins a
 - Chronic subdural hematoma can exert mass effect and cause symptoms, in which case it should be drained.  Due to the liquefied nature of a chronic subdural hematoma, this can often be managed with burr hole drainage and insertion of a Jackson-Pratt drain.
 
 ## Traumatic SAH
-See also [Subarachnoid Hemorrhage](../../Neurology/Subarachnoid%20Hemorrhage.md). As opposed to aSAH, tSAH can be caused by cortical arterial bleeds, cortical venous bleeds, or surface cerebral contusions. tSAH do not cause discrete hematomas that require evacuation.
+See also [Subarachnoid Hemorrhage](../../Neurology/Cerebrovascular%20Disease/Subarachnoid%20Hemorrhage.md). As opposed to aSAH, tSAH can be caused by cortical arterial bleeds, cortical venous bleeds, or surface cerebral contusions. tSAH do not cause discrete hematomas that require evacuation.
 
 aSAH tend to involve the suprasellar cisterns, where the circle of Willis lies. Traumatic SAH are usually located in the Sylvian fissues and interpeduncular cistern, cerebral convexities, and can fill cortical sulci.
 

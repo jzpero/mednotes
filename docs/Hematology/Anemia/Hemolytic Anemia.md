@@ -63,7 +63,7 @@ The following approach is also is based on WHY the hemolysis occurs:
 
 # Immune-Mediated
 ## Autoimmune Hemolytic Anemia ([AIHA](Autoimmune%20Hemolytic%20Anemias.md))
-See [[Autoimmune Hemolytic Anemias]].
+See [[Anemia/Autoimmune Hemolytic Anemias]].
 
 ## Alloimmune Hemolytic Anemia
 These are typically DAT positive but from non-autoimmune causes. Alloantibodies can develop after exposure to pregnancy or exposure to blood products. These are typically IgG and result in delayed-onset mild extravascular hemolytic anemia.

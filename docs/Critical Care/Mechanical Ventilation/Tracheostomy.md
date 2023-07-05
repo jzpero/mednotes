@@ -3,7 +3,7 @@ Percutaneous tracheostomy is commonly performed for patients in the ICU. Percuta
 
 > [!NOTE] Summary
 > -   In general, tracheostomy should be delayed until at least 10 days after initiating mechanical ventilation
-> - Selected patients eg neurotrauma, GBS, stroke may benefit from early tracheostomy
+> - Selected patients eg neurotrauma, [GBS](../../Neurology/Neuromuscular%20Disease/Guillain-Barré%20Syndrome.md), stroke may benefit from early tracheostomy
 > - Timing of tracheostomy must be decided on a case-by-case basis
 
 ## Benefits compared to endotracheal [intubation](../../Procedures/Intubation.md)

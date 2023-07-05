@@ -17,7 +17,7 @@ De novo vs secondary (chemotherapy, transformed MDS/MPN, congenital disorders su
 	3. Neutropenia (infections)
 2. Systemic symptoms
 	1. Leukostasis
-	2. [DIC](../Critical%20Care/Transfusions%20and%20Bleeding/Disseminated%20Intravascular%20Coagulation%20(DIC).md)
+	2. [DIC](../../Critical%20Care/Transfusions%20and%20Bleeding/Disseminated%20Intravascular%20Coagulation%20(DIC).md)
 	3. TLS
 3. Organ dysfunction
 	1. Skin --> rash
@@ -45,7 +45,7 @@ Developed in the 1970s. Based on progenitor lineage and maturity of cells. Subty
 | M7          |  Acute megakaryoblastic leukemia                                                   |
 
 #### M3 subtype (Acute promyelocytic leukemia)
-- presents as Blasts + Auer rods + [DIC](../Critical%20Care/Transfusions%20and%20Bleeding/Disseminated%20Intravascular%20Coagulation%20(DIC).md)
+- presents as Blasts + Auer rods + [DIC](../../Critical%20Care/Transfusions%20and%20Bleeding/Disseminated%20Intravascular%20Coagulation%20(DIC).md)
 - Requires urgent (overnight) treatment with ATRA (watch out for differentiation syndrome after treatment initiation)
 
 ### Treatment of AML
