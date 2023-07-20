@@ -18,7 +18,7 @@
 -   Indicated in:
 	-   MCD
 	-   MN
-	-   ANCA associated vasculitis
+	-   [ANCA associated vasculitis](../../Rheumatology/ANCA%20Associated%20Vasculitis.md)
 	-   Anti-GBM disease
 	-   Lupus nephritis
 -   Major adverse effects:
@@ -34,7 +34,7 @@
 	-   Elimination half life of 3 weeks and persists in the circulation for 3-6 months
 	-   Not removed by dialysis, but yes with PLEX
 -   Note: suspect formation of human antichimeric Ab in patients with rapid B cell reconstitution or failure of depletion (more common in lupus)
--   Indications: AAV. Off-lable: MN, MCD, Lupus nephritis, cryoglobulinemia
+-   Indications: [AAV](../../Rheumatology/ANCA%20Associated%20Vasculitis.md). Off-lable: MN, MCD, Lupus nephritis, cryoglobulinemia
 -   Adverse effects:
 	-   Infusion reactions (hypersensitivity)
 	-   Late-onset neutropenia (neutrophils < 1 more than 1 month post last infusion with spontaneous recovery). Consider G-CSF if at high risk.

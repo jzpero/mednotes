@@ -34,6 +34,7 @@ Background:
 Among individuals <70 years of age who did not have typical hypertension-related deep territory ICH, *an underlying macrovascular cause (arteriovenous malformations, aneurysm, dural arteriovenous fistula, cavernoma and cerebral venous thrombosis) is present in 1 of 4 to 1 of 7 patients, depending on age category.*
 
 Catheter intra-arterial DSA remains the gold standard to search for macrovascular causes of ICH. Here are the recommendations from the 2022 ICH Guidelines for further imaging after initial CT/MR.
+
 | Population                                                                                                                                           | Imaging Recommendation                                                                 | COR |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --- |
 | Lobar spontaneous ICH and age <70; deep/posterior fossa ICH and age <45; deep/posterior fossa and age 45-70 without hypertension                     | CTA +/- venography to exclude macrovascular causes or cerebral venous sinus thrombosis | 1   |

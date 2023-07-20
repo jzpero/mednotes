@@ -19,7 +19,7 @@ Require both:
 ## Asthma Mimics
 - Bronchiectasis
 - Cystic Fibrosis
-- EGPA
+- [EGPA](../../Rheumatology/ANCA%20Associated%20Vasculitis.md)
 - Vocal cord dysfunction
 - ABPA
 - Reactive airways dysfunction syndrome (RADS) -- acute irritant induced asthma following a single high dose exposure to irritant. Lasts >3 months. Treat like an asthma exacerbation
