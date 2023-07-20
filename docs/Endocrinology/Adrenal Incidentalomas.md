@@ -1,4 +1,3 @@
-# Definitions
 Adrenal incidentaloma (AI) is defined as a clinically unapparent adrenal mass > 1 cm in diameter detected during imaging performed for reasons other than for suspected adrenal disease.
 
 **Guidelines do not recommend that incidentally found adrenal lesions < 1cm undergo further investigations unless clinically indicated.**

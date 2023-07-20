@@ -1,5 +1,3 @@
-
-# Definition
 Myxedema coma is defined as severe hypothyroidism leading to decreased mental status, hypothermia, and other symptoms related to slowing of function in multiple organs. It is a medical emergency with a high mortality rate. 
 
 # Diagnosis

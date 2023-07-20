@@ -2,7 +2,6 @@
 aliases: [CYP3A4]
 ---
 
-# Background
 -   CYP3A4 is responsible for the metabolism of more than 50% of medicines.
 -   CYP3A4 activity is absent in new-borns but reaches adult levels at around one year of age.
 -   Women have higher CYP3A4 activity than men.
