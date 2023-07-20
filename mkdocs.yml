@@ -27,14 +27,9 @@ plugins:
   - search:
       prebuild_index: true
   - callouts
+  - mermaid2
   
 markdown_extensions:
   - admonition
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.superfences:
-    custom_fences:
-      - name: mermaid
-        class: mermaid
-        format: !!python/name:pymdownx.superfences.fence_code_format
-
