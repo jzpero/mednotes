@@ -16,7 +16,7 @@ Typically involves the lungs (90%) but 30% of patients present with extrapulmona
 ![](_attachments/Pasted%20image%2020221029181319.png)
 [Thoracic sarcoidosis (staging) | Radiology Reference Article | Radiopaedia.org](https://radiopaedia.org/articles/thoracic-sarcoidosis-staging)
 
-Symptoms can range from asymptomatic, dyspnea, cough, chest pain, wheeze. PFTs can be variable (normal, restrictive, obstructive, both). Co-existant asthma is common. Pulmonary hypertension is rare but possible.
+Symptoms can range from asymptomatic, dyspnea, cough, chest pain, wheeze. PFTs can be variable (normal, restrictive, obstructive, both). Co-existant asthma is common. [Pulmonary hypertension](../Pulmonary%20Hypertension.md) is rare but possible.
 
 ## Extrapulmonary Sarcoidosis
 | Site             | Manifestation                                                                                                                |
@@ -50,7 +50,7 @@ Consider the following investigations:
 - **who to treat?**
 	- most patients don't require treatment, as those with stage 1/2 disease usually will have spontaneous remission, after which recurrence is rare (4-5%)
 	- steroids speed up remission, but with higher risk of recurrence (60-70%). Therefore, only are indicated if there are severe symptoms or end-organ damage:
-		- **pulmonary:** bothersome symptoms of SOB, cough. Deteriorating lung function with PFTs, and development of pulmonary hypertension.
+		- **pulmonary:** bothersome symptoms of SOB, cough. Deteriorating lung function with PFTs, and development of [pulmonary hypertension](../Pulmonary%20Hypertension.md).
 		- **extrapulmonary disease:** eye disease, CNS disease, cardiomyopathy or active cardiac involvement.
 			- typically also severe skin disease, hypercalcemia, symptomatic liver disease.
 - **Treatment options:**

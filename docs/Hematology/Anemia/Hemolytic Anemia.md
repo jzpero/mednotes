@@ -17,7 +17,7 @@
 2. Cholelithiasis with pigmented gallstones
 3. Splenomegaly
 4. Leg ulcers
-5. Pulmonary hypertension
+5. [Pulmonary hypertension](../../Respirology/Pulmonary%20Hypertension.md)
 
 # Approach to Hemolytic Anemia
 Hemolysis can be intravascular, extravascular (spleen), or both. When the RBC damage is severe enough to cause immediate lysis in the intravascular space, this releases free hemoglobin into the bloodstream. When the damage is not that severe, the RES removes the affected cells, which generates unconjugated bilirubin from hemoglobin breakdown.

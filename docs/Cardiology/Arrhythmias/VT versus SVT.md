@@ -45,7 +45,7 @@ VT more likely to have...
 There is some overlap between the Vereckei and Brugada algorithms, but **one of the most useful tips from the Vereckei algorithm is to examine the QRS complex in lead aVR**. 
 
 1. AV dissociation is a strong indictor of VT and therefore is step 1.
-2. Dominant initial R wave in aVR is indicative of VT. Conversely, a dominant terminal R' wave in aVR (i.e. following a Q/S wave) is more likely SVT with aberrancy or something such as TCA toxicity.
+2. Dominant initial R wave in aVR is indicative of VT. Conversely, a dominant terminal R' wave in aVR (i.e. following a Q/S wave) is more likely SVT with aberrancy or something such as [TCA toxicity](../../Critical%20Care/Toxicology/Sodium%20Channel%20Blocker%20and%20TCA%20Toxicity.md).
 3. Notching on the initial downstroke of a predominantly negative QRS complex.
 4. Ventricular activation–velocity ratio (vi/vt) <1; vi/vt is the vertical excursion (in millivolts) recorded during the initial (vi) and terminal (vt) 40 ms of the QRS complex.
 

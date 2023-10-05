@@ -17,7 +17,7 @@ Competing interests:
 ## Rule out Brain Death
 This doesn't have to wait. If the patient is clearly brain dead (herniation, cerebral circulatory arrest) then you can declare it; guidelines recommend waiting at least 24 hours. Reminder that severe intoxication can mimic brain death (e.g. baclofen).
 
-See [Neurologic Determination of Death](Neurologic%20Determination%20of%20Death.md).
+See [Determination of Death](Determination%20of%20Death.md).
 
 ## Negative Prognostic Factors
 - Mechanism of death: respiratory > cardiac

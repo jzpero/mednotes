@@ -39,7 +39,7 @@ Dobutamine is a synthetic catecholamine that acts as a β1- and β2-receptor ago
 - rare risk of **hypersensitivity myocarditis** (eosinophilic) in 2-20% of patients. Dose-dependent risk.
 
 ## Milrinone
-Milrinone is a phosphodiesterase 3 inhibitor that increases cardiac inotropy, lusitropy, and peripheral vasodilatation. Preference is often given to using milrinone in patients with severe pulmonary hypertension because of a purported mechanism of reducing pulmonary-artery pressures and improving right ventricular function.
+Milrinone is a phosphodiesterase 3 inhibitor that increases cardiac inotropy, lusitropy, and peripheral vasodilatation. Preference is often given to using milrinone in patients with severe [pulmonary hypertension](../../Respirology/Pulmonary%20Hypertension.md) because of a purported mechanism of reducing pulmonary-artery pressures and improving right ventricular function.
 
 - Causes hypotension - avoid a loading dose.
 - Avoid in [CAD](../../Cardiology/Ischemic%20Heart%20Disease/Chronic%20Coronary%20Syndrome.md) given negative outcomes in OPTIME-HF trial.

@@ -8,7 +8,7 @@ Characterized by *altered level of consciousness* (confusion, behavioural abnorm
 - Focal or generalized seizures
 - Aphasia, ataxia, upper or lower motor neuron weakness
 - Involuntary movements (myoclonus, tremor)
-- Cranial nerve deficits
+- [Cranial nerve](../Clinical%20Skills/Neurologic%20Examination/Cranial%20Nerve%20Examination.md) deficits
 - HPA abnormalities (temperature dysregulation, diabetes insipidus, SIADH)
 
 # Etiology

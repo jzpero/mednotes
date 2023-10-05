@@ -11,7 +11,7 @@ aliases: [ARDS]
 ![](_attachments/RsgGsNbbPc6AwBZd-image-1639003678811.png)
 
 > [!info] Exudative phase (7 days)
-> - Pathology: Alveolar capillary and type I pneumocyte damage, loss of alveolar barrier to fluid and macromolecules. Accumulation of exudative protein-rich fluid. Pro-inflammatory cytokine action, Recruitment of leukocytes, Hyaline membrane formation from protein deposition. Vascular obliteration from microthrombi etc. leads to dead space and pulmonary hypertension  and hypercapnia.
+> - Pathology: Alveolar capillary and type I pneumocyte damage, loss of alveolar barrier to fluid and macromolecules. Accumulation of exudative protein-rich fluid. Pro-inflammatory cytokine action, Recruitment of leukocytes, Hyaline membrane formation from protein deposition. Vascular obliteration from microthrombi etc. leads to dead space and [pulmonary hypertension](../../Respirology/Pulmonary%20Hypertension.md)  and hypercapnia.
 > - Classically affects dependent areas of the lung. Decreased lung compliance --> shunting --> hypoxemia --> work of breathing --> SOB.
 > - Clinically:
 > 	- First 7 days of illness after exposure to ARDS risk factor. Symptoms usually develop within 1.5 days, but can be delayed up to a 1 week. Presents with SOB, +WOB. Nonspecific laboratory values. 
@@ -30,7 +30,7 @@ aliases: [ARDS]
 >    *   Pathology:
 >        *   Conversion of alveolar edema and exudates --> alveolar-duct and interstitial fibrosis
  > 	      *   Development of emphysema-like changes with large bullae
-> 		 *   Progressive vascular occlusion and pulmonary hypertension
+> 		 *   Progressive vascular occlusion and [pulmonary hypertension](../../Respirology/Pulmonary%20Hypertension.md)
  >   *   Clinically,
  > 	  * Some patients may enter this phase after about 3-4 weeks after injury
  > 	  * **Increased risk of PTX and mortality**
@@ -144,19 +144,19 @@ In severe ARDS, sedation alone can be inadequate for the patient-ventilator sync
 * **ROSE (2019)** changed the paradigm by showing that use of early (<48h) cisatracurium with moderate to severe ARDS  in conjunction with deep sedation protocols did not reduce mortality as compared to usual care (light sedation), and was associated with an increase in ICU-acquired weakness and serious adverse cardiovascular events.
 	* N=1006, moderate to severe ARDS (P:F < 150 with PEEP >8)
 	* Arms:
-		* Early NM blockade - 48 hours of continuous cisatracurium (15 mg bolus, followed by 37.5 mg/h infusion) with deep sedation (RASS -5)
-		* Usual care - routine strategy of PRN NMB (15%) with light sedation (RASS -1 to 0)
+		* Early [NM blockade](../Procedures/Neuromuscular%20Blockade.md) - 48 hours of continuous cisatracurium (15 mg bolus, followed by 37.5 mg/h infusion) with deep sedation (RASS -5)
+		* Usual care - routine strategy of PRN [NMB](../Procedures/Neuromuscular%20Blockade.md) (15%) with light sedation (RASS -1 to 0)
 	* Outcomes:
 		* No difference in mortality (43%)
 		* Increased ICU-AW (47% vs 28% at 28 days)
 		* Increased serious adverse CV events (14 events vs 4 events)
 	* Stopped early due to futility
 
-> [!NOTE] ARDS - Neuromuscular blockade
-> - ACURASYS (2010) suggests that NMB + deep sedation reduces mortality and barotrauma compared to deep sedation alone.
-> - ROSE (2019) argues convincingly that there are harms to routine use of continuous NMB + deep sedation versus light sedation for moderate to severe ARDS.
-> - Therefore, there are probably harms of initiating NMB+deep sedation if the patient is on light sedation at baseline.
-> - If the patient is requiring deep sedation, then NMB might be a reasonable next step if there is progressive respiratory failure or patient-vent dyssynchrony.
+> [!NOTE] ARDS - [Neuromuscular blockade](../Procedures/Neuromuscular%20Blockade.md)
+> - ACURASYS (2010) suggests that [NMB](../Procedures/Neuromuscular%20Blockade.md) + deep sedation reduces mortality and barotrauma compared to deep sedation alone.
+> - ROSE (2019) argues convincingly that there are harms to routine use of continuous [NMB](../Procedures/Neuromuscular%20Blockade.md) + deep sedation versus light sedation for moderate to severe ARDS.
+> - Therefore, there are probably harms of initiating [NMB](../Procedures/Neuromuscular%20Blockade.md)+deep sedation if the patient is on light sedation at baseline.
+> - If the patient is requiring deep sedation, then [NMB](../Procedures/Neuromuscular%20Blockade.md) might be a reasonable next step if there is progressive respiratory failure or patient-vent dyssynchrony.
 
 ## Other Therapies
 *   **Pulmonary surfactants** not shown to work.

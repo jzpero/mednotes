@@ -1,5 +1,10 @@
 LAST is a severe consequence of local anaesthetic toxicity.
 
+| Agent       | Max Dose w/ Epi | Max Dose w/o Epi | Duration of Action |
+| ----------- | --------------- | ---------------- | ------------------ |
+| Lidocaine   | 7 mg/kg         | 5 mg/kg          | 30-90 minutes      |
+| Bupivicaine | 3 mg/kg         | 2.5 mg/kg        | 6-8 hours                   |
+
 # Clinical Manifestations
 1. CNS excitatory effects due to inhibition of cortical inhibitory pathways.
 	1. Perioral numbeness, metallic taste
@@ -26,8 +31,5 @@ LAST is a severe consequence of local anaesthetic toxicity.
 	1. Amiodarone is first-line antiarrhythmic. Avoid lidocaine and other class I antiarrhythmics
 	2. Reduce the bolus dose of epinephrine to <= 1 mcg/kg to avoid arrhythmogenic effects.
 	3. Avoid vasopressin.
-7. **Lipid rescue therapy (20% emulsion) is indicated with CV instability or with significant neurotoxicity.**
-	1. The optimal dose of lipid emulsion for LAST has not been determined. Dose: bolus (1.5 mL/kg IV to a max of 100 mL) followed by infusion (0.25 mL/kg/min max of 200-250 mL over 15-20 minutes). Repeat the bolus 1-2x and double the infusion rate for ongoing CV instability. Continue infusion for >10 minutes after hemodynamic stability is achieved. Max dose is ~12 mL/kg. 
-	2. How does it work? Historically, lipid was thought to act as a "lipid sink," whereby lipid would bind the local anesthetic (LA) to remove it from target tissue. A somewhat different emerging theory is that lipid emulsion carries or "shuttles" the LA from the heart and brain to the organs that store and detoxify the drug
-	3. The commercially available forms of 20 percent lipid emulsion contain soybean oil and egg yolk phospholipids, and should not be used in patients with true allergies to either of these food substances. The
+7. **Lipid rescue therapy (20% emulsion) is indicated with CV instability or with significant neurotoxicity.** See [Lipid Emulsion](Sodium%20Channel%20Blocker%20and%20TCA%20Toxicity.md#Lipid%20Emulsion)
 8. Transfer to monitored setting (ICU).

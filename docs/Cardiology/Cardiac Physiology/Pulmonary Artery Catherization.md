@@ -9,7 +9,7 @@ PAOP overestimates LVEDP in the following conditions:
 • Chronic mitral stenosis
 • PEEP
 • Left atrial myxoma
-• Pulmonary hypertension
+• [Pulmonary hypertension](../../Respirology/Pulmonary%20Hypertension.md)
 
 PAOP underestimates LVEDP in the following conditions:
 

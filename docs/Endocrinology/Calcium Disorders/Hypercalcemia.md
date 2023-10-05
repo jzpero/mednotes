@@ -56,7 +56,7 @@ id1.2 --> id1.2.1 & id1.2.2 & id1.2.3
   * Aluminum intoxication \(in CKD\)
   * Aminophylline
 * *Thyrotoxicosis* \(increases bone turnover. May respond to beta-blockers\)
-* *[Adrenal insufficiency](Adrenal%20Insufficiency.md)*
+* *[Adrenal insufficiency](../HPA%20Axis%20Disorders/Adrenal%20Insufficiency.md)*
 * VIPoma
 * *Immobilization* \(do not forget!\)
 

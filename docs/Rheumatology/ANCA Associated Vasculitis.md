@@ -54,3 +54,42 @@ Diagnosis is histopathologically made by demonstrtation of necrotizing granuloma
 	4. Lymphomatoid granulomatosis
 
 ## Treatment of GPA
+
+
+# Eosinophilic Granulomatosis with Polyangiitis (EGPA)
+EGPA is characterized by **asthma, peripheral and tissue eosinophilia, extravascular granuloma formation, and vasculitis of multiple organ systems.**
+
+Rare disease, with annual incidence of 1-3 per million. It can occur at any age (except in infants). The mean age of onset is 48 years, with a slight female predominance (6:5).
+
+## Pathology and Pathogenesis
+The necrotizing vasculitis in EGPA involves small and medium vessels. It forms granulomatous reactions in tissues or vessel walls, associated with eosinophilic tissue infiltration. This can occur in almost any organ in the body.
+
+The most common organs of involvement are the lung, skin, CVS, kidney, PNS, GI tract.
+
+Likely due to aberrant immunologic phenomena given its strong association with asthma and clinicopathologic manifestations.
+
+## Clinical Manifestations
+### Respiratory Manifestations
+These dominate the clinical picture: severe asthmatic attacks, pulmonary infiltrates.
+Upper airways can be affected: allergic rhinitis, sinusitis (61%) are often present in the early course of disease.
+
+### Neurologic Manifestations
+Mononeuritis multiplex is the second most common manifestation (72%).
+
+### CV Disease
+Occurs in 14% of patients and contributes to mortality.
+
+### Skin Lesions
+Found in 51% of patients: purpura, cutaneous and subcutaneous nodules.
+
+### Renal Disease
+Less common and generally less severe than in GPA or MPA.
+
+### Systemic Symptoms
+Fever, malaise, anorexia, weight loss are common.
+
+## Laboratory Findings
+- **Striking peripheral eosinophilia:** >1000/uL in more than 80% of patients.
+- Elevated inflammatory acute phase reactants (81%)
+- Other lab findings reflect the organ systems involved.
+- Only 48% of patients with EGPA have circulating ANCA, usually MPO-ANCA (p-ANCA).

@@ -2,8 +2,8 @@
 aliases: [CCTA]
 ---
 # Context
-*   *   **Overtaking functional testing as first-line testing for stable [CAD](../Chronic%20Coronary%20Syndrome.md)** in some recent guidelines (e.g. [NICE 2017](https://link.springer.com/article/10.1007%2Fs12410-017-9412-6)), in part due to excellent test characteristics and highest cost efficacy for the correct diagnosis of [CAD](../Chronic%20Coronary%20Syndrome.md) for all non-invasive methods
-    *   **Recent landmark trials (below) show noninferiority of CCTA compared to functional imaging,** and suggest decreased [MI](../Thrombotic%20Disease/ACS.md)/coronary death, better yield on coronary angiography, and better preventative therapy initation.
+*  *Overtaking functional testing as first-line testing for stable [CAD](../Chronic%20Coronary%20Syndrome.md)** in some recent guidelines (e.g. [NICE 2017](https://link.springer.com/article/10.1007%2Fs12410-017-9412-6)), in part due to excellent test characteristics and highest cost efficacy for the correct diagnosis of [CAD](../Chronic%20Coronary%20Syndrome.md) for all non-invasive methods
+*   **Recent landmark trials (below) show noninferiority of CCTA compared to functional imaging,** and suggest decreased [MI](../Thrombotic%20Disease/ACS.md)/coronary death, better yield on coronary angiography, and better preventative therapy initation.
 *   _New evidence is NOT reflected in most up-to-date CCS guidelines (2014)._
 
 ## Pros

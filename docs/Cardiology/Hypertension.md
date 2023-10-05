@@ -80,7 +80,7 @@ Among patients at high risk for cardiovascular events but without diabetes, inte
 ## Causes
 1. [Renovascular Hypertension](../Nephrology/Renovascular%20Hypertension.md)
 2. Endocrine (pheochromocytoma, thyroid disease)
-3. [Primary hyperaldosteronism](../Endocrinology/Primary%20hyperaldosteronism.md)
+3. [Primary hyperaldosteronism](../Endocrinology/HPA%20Axis%20Disorders/Primary%20hyperaldosteronism.md)
 4. [Obstructive Sleep Apnea](../Respirology/Obstructive%20Lung%20Disease/Obstructive%20Sleep%20Apnea.md)
 
 

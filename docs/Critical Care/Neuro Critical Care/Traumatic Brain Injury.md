@@ -72,7 +72,7 @@ SDH are usually due to damage of the bridging veins between the cerebral veins a
 - *Presentation:* generally more gradual onset than epidural hematomas but can still be rapid.
 	- Acute = less than 3 days post trauma; subacute 3-14 days post trauma; chronic ≥2 weeks post trauma.
 	- Diffuse pressure on the brain causes nonspecific presentations (headache, N/V, confusion) but can also lead to focal neurologic deficits.
-	- Posterior fossa SDH can lead to cerebellar symptoms and cranial nerve deficits
+	- Posterior fossa SDH can lead to cerebellar symptoms and [cranial nerve](../../Clinical%20Skills/Neurologic%20Examination/Cranial%20Nerve%20Examination.md) deficits
 - *Causes:* trauma, post-procedure (NSGY, lumbar puncture, overdrainage of ventricular or lumbar drain), aneurysmal rupture
 - *Imaging:* crescent-shaped hematomas which typically line the interior border of the cranium. These can cross suture lines but typically not the midline or supra/infratentorial regions. Can extend along the falx cerebri (parafalcine subdural hematoma), and/or layer along the tentorium cerebelli (transtentorial subdural hematoma).
 
@@ -114,7 +114,7 @@ Traumatic parenchymal mass lesions are common and found in 13-35% of severe TBI.
 ## Hypothalamic-Pituitary Injury
 These can complicate head injury, and most are associated with fractures through the skull base. Clinically measurable decreases in pituitary hormone production are not seen until at least 75% of the gland is destroyed.
 
-*Manifestations:* secondary [adrenal insufficiency](../../Endocrinology/Adrenal%20Insufficiency.md), diabetes insipidus.
+*Manifestations:* secondary [adrenal insufficiency](../../Endocrinology/HPA%20Axis%20Disorders/Adrenal%20Insufficiency.md), diabetes insipidus.
 
 ## Penetrating Brain Injury (PBI)
 This means that an object has breached the scalp, skull, and dura mater.

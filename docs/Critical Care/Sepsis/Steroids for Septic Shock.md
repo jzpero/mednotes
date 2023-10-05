@@ -33,7 +33,7 @@ This trial examined ~300 patients with septic shock and mechanical ventilation w
 - Adverse events: no significant differences.
 
 > [!info] Annane 2002
-> IV hydrocortisone + PO Florinef in severe septic shock improves and delays mortality, and reduces dependence on vasopressors. Most pronounced in those with critical illness associated [adrenal insufficiency](../../Endocrinology/Adrenal%20Insufficiency.md).
+> IV hydrocortisone + PO Florinef in severe septic shock improves and delays mortality, and reduces dependence on vasopressors. Most pronounced in those with critical illness associated [adrenal insufficiency](../../Endocrinology/HPA%20Axis%20Disorders/Adrenal%20Insufficiency.md).
 
 ### ADRENAL (2018)
 > Venkatesh B, Finfer S, Cohen J, et al. Adjunctive Glucocorticoid Therapy in Patients with Septic Shock. New England Journal of Medicine. 2018;378(9):797-808. doi:10.1056/NEJMoa1705835  

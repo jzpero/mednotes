@@ -63,10 +63,10 @@ In the USA, for hospital admissions with a primary diagnosis of asthma, 10.1% we
 	- RR 10-14 with increased expiratory time (square inspiratory waveform, 1:3 to 1:5)
 	- minute ventilation < 8-12 L/min
 	- SpO2 > 90%
-	- controlled ventilation in these patients invariable requires heavy sedation and analgesia, +/- neuromuscular blockade (see below)
+	- controlled ventilation in these patients invariable requires heavy sedation and analgesia, +/- [neuromuscular blockade](../../Critical%20Care/Procedures/Neuromuscular%20Blockade.md) (see below)
 	- There is no rule for SIMV, and pressure control ventilation is discouraged because of fluctuating high airway resistance and intrinsic PEEP
 
-## Neuromuscular Blockade
+## [Neuromuscular Blockade](../../Critical%20Care/Procedures/Neuromuscular%20Blockade.md)
 Avoid NBMAs as much as possible. If used, target TOF to 1-2 twitches. Cisatracurium (Nimbex) is preferred due to its method of elimination (Hoffman elimination).
 
 ## NIV

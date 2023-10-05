@@ -1,7 +1,7 @@
 # Management of Abdominal Compartment Syndrome
 
 1. Colonoscopic decompression
-2. Initiating neuromuscular blockade
+2. Initiating [neuromuscular blockade](Procedures/Neuromuscular%20Blockade.md)
 3. Percutaneous abdominal catheter drainage
 4. Surgical abdominal decompression
 

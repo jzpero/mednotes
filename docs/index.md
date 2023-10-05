@@ -17,7 +17,7 @@ Upcoming topics:
 - [ ] Hemophagocytic lymphohistiocytosis (HLH)
 - [ ] Primary immunodeficiencies
 - [ ] Aortic dissection
-- [x] [Neurologic determination of death](Critical%20Care/Neuro%20Critical%20Care/Neurologic%20Determination%20of%20Death.md)
+- [x] [Neurologic determination of death](Critical%20Care/Neuro%20Critical%20Care/Determination%20of%20Death.md)
 
 ---
 - jasper.ho (at) medportal (dot) ca

@@ -50,7 +50,7 @@ Catheter intra-arterial DSA remains the gold standard to search for macrovascula
 Most patients with acute ICH have hypertension which is associated with HE, ND, death, and dependency. RCT evidence is equivocal. Mostly informed on the results of the two largest RCTS (**INTERACT2**, **ATACH-2**).
 
 1. BP lowering needs to be careful and smooth, sustained, and avoid peaks and variability which tend to be correlated with HE.
-2. BP lowering seems to have better outcomes when started earlier (<2 hours) as opposed to later, but results from the RIGHT-2 trial suggest that ultraearly (74 minutes) lowering is associated with poor outcomes.
+2. BP lowering seems to have better outcomes when started earlier (<2 hours) as opposed to later, but results from the RIGHT-2 trial suggest that ultra-early (74 minutes) lowering is associated with poor outcomes.
 3. In spontaneous ICH of mild to moderate severity with presenting SBP 150-220 mmHg, acute lowering of SBP to target 140 mmHg (range 130-150 mmHg) is safe and may improve functional outcomes. SBP <130 is potentially harmful.
 4. Acute BP lowering targets are not well defined in patients who have large or severe ICH or ICH requiring surgical decompression.
 5. There is limited evidence for patients presenting with hypotension or normotension.

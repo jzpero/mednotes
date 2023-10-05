@@ -56,7 +56,7 @@ Endogenously, vasopressin is stored in the posterior pituitary gland and release
 	- probably causes some degree of cerebrovascular vasoconstriction (unknown clinical significance)
 - neutral/inhibitory effect on cardiac output
 - Reflex bradycardia
-- Neutral to slightly decreasing effect on pulmonary hypertension
+- Neutral to slightly decreasing effect on [pulmonary hypertension](../../Respirology/Pulmonary%20Hypertension.md)
 - *minimal vasoconstrictor effects in physiologically normal patients with preserved autonomic responses*
 - ![](_attachments/vasopressin%20enhances%20vascular%20sensitivity%20to%20catecholamines%201.jpg)
 

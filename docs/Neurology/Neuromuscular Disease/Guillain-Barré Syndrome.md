@@ -28,7 +28,7 @@ GBS commonly presents as a *rapidly progressing symmetric ascending flaccid para
 
 |GBS subtypes|Main clinical features|NCS findings|Antibodies*|
 |---|---|---|---|
-|Acute inflammatory demyelinating polyneuropathy (AIDP)|Sensorimotor GBS, often combined with cranial nerve deficits and frequent autonomic dysfunction|Demyelinating polyneuropathy|Various‡|
+|Acute inflammatory demyelinating polyneuropathy (AIDP)|Sensorimotor GBS, often combined with [cranial nerve](../../Clinical%20Skills/Neurologic%20Examination/Cranial%20Nerve%20Examination.md) deficits and frequent autonomic dysfunction|Demyelinating polyneuropathy|Various‡|
 |Acute motor axonal neuropathy (AMAN)|Pure motor GBS; cranial nerves rarely affected|Axonal polyneuropathy, sensory action potential normal|GM1a, GM1b<br><br>GD1a<br><br>GalNAc-GD1a|
 |Acute motor sensory axonal neuropathy (AMSAN)|Resembles severe AMAN, but sensory fibres are affected, leading to sensory deficits|Axonal polyneuropathy, sensory action potential reduced or absent|GM1, GD1a|
 |Pharyngeal–cervical brachial variant|Prominent weakness of oropharyngeal, facial, neck and shoulder muscles|Normal in most patients, sometimes abnormalities in arms, mostly axonal pattern|GT1a>GQ1b>>GD1a|

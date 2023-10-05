@@ -129,7 +129,7 @@ Initial treatment is generally a combination of chemotherapy + monoclonal anti-t
 1) Oral agents against BTK/PI3Kδ proteins - for B-cell CLL 
 2) Oral agents against ALK - for anaplastic large cell lymphoma
 3) Oral agents against BCL-2 - e.g. venetoclax
-4) CAR-T therapy is approved for relapsed/refractory patients with some subtypes of lymphoma
+4) [CAR-T](../../Oncology/CAR-T%20Recipients%20in%20the%20ICU.md) therapy is approved for relapsed/refractory patients with some subtypes of lymphoma
 
 Anti-CD20 antibodies in use:
 1) Rituximab

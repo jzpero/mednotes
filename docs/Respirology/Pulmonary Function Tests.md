@@ -37,7 +37,7 @@ Decreased TLC and decreased VC
 
 ## DLCO
 1. Decreased DLCO differential:
-	1. Pulmonary hypertension
+	1. [Pulmonary hypertension](Pulmonary%20Hypertension.md)
 	2. Decreased cardiac output
 	3. Emphysema
 	4. Early interstitial lung disease

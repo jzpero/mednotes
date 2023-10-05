@@ -27,7 +27,7 @@ Right ventricular (RV) failure occurs when the RV fails to maintain enough blood
 	- Right-sided myocardial infarction
 	- Acute on chronic RHF
 - Chronic RHF
-	- Cor pulmonale (Pulmonary hypertension)
+	- Cor pulmonale ([Pulmonary hypertension](../../Respirology/Pulmonary%20Hypertension.md))
 
 # Evaluation of RV Function in Critical Illness
 - physical examination
@@ -40,7 +40,7 @@ Right ventricular (RV) failure occurs when the RV fails to maintain enough blood
 		- **tricuspid annular plane systolic excursion (TAPSE)** measures the longitudinal systolic displacement of the RV base toward the RV apex
 			- Correlates well with RV ejection fraction
 			- Normal TAPSE = 2.4 to 2.7 cm. Less than 1.8 cm has an 87% accuracy at predicting SVI < 29 ml/m2
-			- Associated with poorer prognosis in RHF and PAH
+			- Associated with poorer prognosis in RHF and [PAH](../../Respirology/Pulmonary%20Hypertension.md)
 		- Estimates of RV systolic pressure obtained by echocardiogram correlate well with measurements made by right heart catheterization, but the variance between measures can be greater than 10 mm Hg in up to 50% of cases. Particularly poor in patients with chronic lung disease as well as those with positive pressure ventilation.
 	- LV dysfunction
 	- Valvular disease
@@ -59,7 +59,7 @@ Causes of RV failure in critical illness can be divided into three main categori
 	- venous return - systemic vascular tone, vasodilatation vs vasoconstriction states, positive pressure ventilation
 - the goal preload should be to keep RV transmural filling pressures in a moderately elevated range (8-12 mmHg) and adjust from there to optimize CO. The RV has a flatter Starling curve, meaning that *greater changes in volume are required to impact contractility than the LV*. 
 - RV preload may need to be *increased or decreased*, generally depending on the afterload:
-	- high afterload (pulmonary hypertension etc): volume loading can lead to interventricular dependence and impaired LV diastolic filling, increased RV myocardial demands. --> decrease RV volume (diuresis, ultrafiltration)
+	- high afterload ([pulmonary hypertension](../../Respirology/Pulmonary%20Hypertension.md) etc): volume loading can lead to interventricular dependence and impaired LV diastolic filling, increased RV myocardial demands. --> decrease RV volume (diuresis, ultrafiltration)
 	- low afterload (RV infarction etc): RV EDP needs to be increased above normal to maintain CO --> increase RV volume (fluids)
 - It may be useful to monitor SvO2 (normal 70-80%) and CVP to guide management, and even consider Swan-Ganz placement for better hemodynamic assessment
 
