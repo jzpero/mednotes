@@ -1,0 +1,363 @@
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.18",
+	"elements": [
+		{
+			"id": "iIpMiA6z",
+			"type": "text",
+			"x": -185.3828125,
+			"y": -256.703125,
+			"width": 132.265625,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2053063965,
+			"version": 60,
+			"versionNonce": 130250621,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "_UTuZnUVBcRb1nIDtI8Zs",
+					"type": "arrow"
+				},
+				{
+					"id": "Pu21hjCL9643c-UK6T9KX",
+					"type": "arrow"
+				}
+			],
+			"updated": 1678078675876,
+			"link": "",
+			"locked": false,
+			"text": "Hypercalcemia",
+			"rawText": "Hypercalcemia",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Hypercalcemia"
+		},
+		{
+			"id": "1qSZtYQdvqGWZ3wg-8xuY",
+			"type": "rectangle",
+			"x": -401.25,
+			"y": -183.703125,
+			"width": 192,
+			"height": 34,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 682913171,
+			"version": 127,
+			"versionNonce": 515997661,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "9BDqtH30"
+				},
+				{
+					"id": "Pu21hjCL9643c-UK6T9KX",
+					"type": "arrow"
+				}
+			],
+			"updated": 1678078675876,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "9BDqtH30",
+			"type": "text",
+			"x": -380.8310546875,
+			"y": -178.703125,
+			"width": 151.162109375,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1896113533,
+			"version": 126,
+			"versionNonce": 923358429,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678078650417,
+			"link": null,
+			"locked": false,
+			"text": "PTH normal-high",
+			"rawText": "PTH normal-high",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "1qSZtYQdvqGWZ3wg-8xuY",
+			"originalText": "PTH normal-high"
+		},
+		{
+			"type": "rectangle",
+			"version": 82,
+			"versionNonce": 719509587,
+			"isDeleted": false,
+			"id": "bwB_Zmoss7Onc3C-cWTUu",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -26.25,
+			"y": -183.703125,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 192,
+			"height": 34,
+			"seed": 2113429405,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "N1QaSozG"
+				},
+				{
+					"id": "_UTuZnUVBcRb1nIDtI8Zs",
+					"type": "arrow"
+				}
+			],
+			"updated": 1678078668173,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 92,
+			"versionNonce": 405057853,
+			"isDeleted": false,
+			"id": "N1QaSozG",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 31.966796875,
+			"y": -178.703125,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 75.56640625,
+			"height": 24,
+			"seed": 803486163,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1678078650417,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "PTH low",
+			"rawText": "PTH low",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "bwB_Zmoss7Onc3C-cWTUu",
+			"originalText": "PTH low"
+		},
+		{
+			"id": "_UTuZnUVBcRb1nIDtI8Zs",
+			"type": "arrow",
+			"x": -117.25,
+			"y": -227.703125,
+			"width": 88,
+			"height": 62,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1449634493,
+			"version": 101,
+			"versionNonce": 2088861299,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678078671861,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					31,
+					37
+				],
+				[
+					88,
+					62
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "iIpMiA6z",
+				"focus": 0.1607001809761627,
+				"gap": 5
+			},
+			"endBinding": {
+				"elementId": "bwB_Zmoss7Onc3C-cWTUu",
+				"focus": -0.7515583259127336,
+				"gap": 3
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "Pu21hjCL9643c-UK6T9KX",
+			"type": "arrow",
+			"x": -116.25,
+			"y": -228.703125,
+			"width": 90,
+			"height": 63,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 256849939,
+			"version": 42,
+			"versionNonce": 1734952915,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678078678195,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-37,
+					41
+				],
+				[
+					-90,
+					63
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "iIpMiA6z",
+				"focus": -0.22659242331584536,
+				"gap": 4
+			},
+			"endBinding": {
+				"elementId": "1qSZtYQdvqGWZ3wg-8xuY",
+				"focus": 0.7404580152671755,
+				"gap": 3
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "rThkAO3M",
+			"type": "text",
+			"x": -444.486328125,
+			"y": -138.53223065442668,
+			"width": 277.4375,
+			"height": 76.8,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1154671411,
+			"version": 240,
+			"versionNonce": 1692529661,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678078733062,
+			"link": null,
+			"locked": false,
+			"text": "1. Primary hyperPTH\n2. Tertiary hyperPTH\n3. Familial hypocalciuric hypercalcemia\n",
+			"rawText": "1. Primary hyperPTH\n2. Tertiary hyperPTH\n3. Familial hypocalciuric hypercalcemia\n",
+			"fontSize": 16,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "1. Primary hyperPTH\n2. Tertiary hyperPTH\n3. Familial hypocalciuric hypercalcemia\n"
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#000000",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 0.5,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 0,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 2,
+		"currentItemFontSize": 16,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 968.75,
+		"scrollY": 464.296875,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"colorPalette": {},
+		"currentStrokeOptions": null,
+		"previousGridSize": null
+	},
+	"files": {}
+}
