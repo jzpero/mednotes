@@ -1,6 +1,6 @@
 [Intubation of the Neurocritical Care Patient • LITFL](https://litfl.com/intubation-of-the-neurocritical-care-patient/)
 
-# Neuroprotective Intubation
+# Neuroprotective [Intubation](Intubation.md)
 ## Rationale
 Minimizes the harmful effects of [intubation](Intubation.md) which include:
 
@@ -17,10 +17,10 @@ Minimizes the harmful effects of [intubation](Intubation.md) which include:
 - crashing patients who need emergency RSI
 
 # Procedure
-## Pre-intubation optimization
+## Pre-[intubation](Intubation.md) optimization
 - ensure adequate preoxygenation and use apnoeic oxygenation
 - attach ETCO2 to the BVM device; target an ETCO2 that correlates to a PaCO2 of 35-40 mmHg
-- control hypertension prior to intubation using a rapid acting, titratable antihypertensive agent
+- control hypertension prior to [intubation](Intubation.md) using a rapid acting, titratable antihypertensive agent
 - consider treatment for intracranial hypertension (if TBI)
 	- osmotherapy for raised [ICP](../Neuro%20Critical%20Care/Elevated%20ICP.md)
 	- analgesia
@@ -50,7 +50,7 @@ Minimizes the harmful effects of [intubation](Intubation.md) which include:
 - [NMB](Neuromuscular%20Blockade.md)
 	- rocuronium 1.2 mg/kg IV is the agent of choice; rapid onset, does not increase [ICP](../Neuro%20Critical%20Care/Elevated%20ICP.md)
 
-## Post-Intubation
+## Post-[Intubation](Intubation.md)
 -   adjust patient’s respiratory rate to target ETCO2 35mmHg until an ABG is obtained to confirm PaCO2 35-40 mmHg
 -   target SaO2 95% (avoid hypoxia or extreme hyperoxia)
 -   use the minimum PEEP necessary to avoid hypoxia
@@ -59,5 +59,4 @@ Minimizes the harmful effects of [intubation](Intubation.md) which include:
 1. [Intubation of the Neurocritical Care Patient • LITFL](https://litfl.com/intubation-of-the-neurocritical-care-patient/)
 2. [Rapid Sequence Intubation in Traumatic Brain-injured Adults - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6017125/)
 3. [Breaking the Brain Code: Elevated ICP in the ED Part 2 - EMOttawa Blog](https://emottawablog.com/2021/04/breaking-the-brain-elevated-icp-in-the-ed-part-2/)
-4. [emDOCs.net – Emergency Medicine EducationNeuro Intubation Highlights - emDOCs.net - Emergency Medicine Education](http://www.emdocs.net/neuro-intubation-highlights/)
-5. https://www.uptodate.com/contents/induction-agents-for-rapid-sequence-intubation-in-adults-for-emergency-medicine-and-critical-care#H15
+4. [emDOCs.net – Emergency Medicine EducationNeuro Intubation Highlights - emDOCs.net - Emergency Medicine Education]

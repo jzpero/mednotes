@@ -7,9 +7,9 @@ The physiologic consequences of thoracic trauma are hypoxia, hypercarbia, and ac
 
 # Life-Threatening Thoracic Injuries (Primary Survey)
 ## Airway Problems
-- **Airway obstruction** secondary to swelling, bleeding, or aspiration. Results from multiple injury mechanisms (laryngeal injury, posterior clavicular head dislocation, penetrating injury, etc). Observe the patient for signs of air hunger and respiratory distress, inspect the oropharynx, listen for air movement and stridor, feel for crepitus, feel the SC joint. Treat this issue with suctioning, reduction of a posterior clavicular dislocation, intubation, etc.
+- **Airway obstruction** secondary to swelling, bleeding, or aspiration. Results from multiple injury mechanisms (laryngeal injury, posterior clavicular head dislocation, penetrating injury, etc). Observe the patient for signs of air hunger and respiratory distress, inspect the oropharynx, listen for air movement and stridor, feel for crepitus, feel the SC joint. Treat this issue with suctioning, reduction of a posterior clavicular dislocation, [intubation](../../Procedures/Intubation.md), etc.
 - **Tracheobronchial tree injury** is rare but potentially fatal. These injuries generally occur within 1 inch of the carina. Most patients die in the field. These patients, if alive, present with hemoptysis, cervical subcutaneous emphysema, tension pneumothorax, and hypoxemia/cyanosis. Ongoing air leak after chest tube placement suggests a tracheobronchial injury. The injury is confirmed with bronchoscopy.
-	- Intubation is often required but is technically difficult due to airway injury; consider advanced airway support such as fiber-optic intubation past the tear site or selective unilateral intubation.
+	- [Intubation](../../Procedures/Intubation.md) is often required but is technically difficult due to airway injury; consider advanced airway support such as fiber-optic [intubation](../../Procedures/Intubation.md) past the tear site or selective unilateral [intubation](../../Procedures/Intubation.md).
 	- Immediate surgical opinion is warranted for unstable patients
 	- Operative treatment can be delayed for stable patients to give time for inflammation and edema to improve.
 
@@ -43,7 +43,7 @@ Inspect the skin for mottling, cyanosis, and pallor. Assess the neck veins for d
 		- Start closed CPR with ABC management as per ACLS protocol. However, differs from medical cardiac arrest in that the priority are the interventions below.
 			> - The European Resuscitation Council (ERC) updated their guidelines in 2015. They state that in cardiac arrest caused by hypovolaemia, cardiac tamponade or tension pneumothorax, c_hest compressions are unlikely to be effective._ Because of this fact, chest compressions take a lower priority than the immediate treatment of reversible causes (e.g. thoracotomy, controlling haemorrhage, etc.).
 			> - https://emottawablog.com/2018/04/management-controversies-in-traumatic-cardiac-arrest/
-		- Secure a definitive airway with intubation and proper oxygenation/ventilation.
+		- Secure a definitive airway with [intubation](../../Procedures/Intubation.md) and proper oxygenation/ventilation.
 		- Perform bilateral finger/tube thoracostomies (*bilateral chest decompression*) to alleviate potential tension pneumothoraces.
 		- Address tamponade with pericardiocentesis or thoracotomy
 		- Resuscitate using fluids/blood via central/large-bore IV/IO access (above the diaphragm).

@@ -59,14 +59,14 @@ Importantly, the CAS practice guidelines state that *it is unacceptable for a si
 	- 8 hours post heavy/fatty meal
 	- 6 hours post light meal (defined as toast or cereal with clear liquid) or full fluids
 	- 2 hours post clear fluids
-- [ASA](../Mechanical%20Ventilation/ASA%20Classification.md) classification, OSA risk
+- [ASA](../Mechanical%20Ventilation/ASA%20Classification.md) classification, [OSA](../../Respirology/Sleep%20Medicine/Obstructive%20Sleep%20Apnea.md) risk
 - Wt, baseline VS
 - Physical examination including airway assessment
-	- **LEMON mnemonic**: Look externally, Evaluate 3-3-2, Mallampati, Obstruction/Obesity, Neck mobility
+	- **LEMON mnemonic**: Look externally, Evaluate 3-3-2, Mallampati, Obstruction/[Obesity](../../Endocrinology/Obesity/Obesity.md), Neck mobility
 	- **3-2-2 rule for difficult airway**.  The patient can open their mouth sufficiently to admit 3 of their own fingers, The distance between the mentum and the neck/mandible junction (near the hyoid bone) is equal to the width of 3 of the patient's fingers, The space between the superior notch of the thyroid cartilage and the neck/mandible junction, near the hyoid bone, is equal to the width of 2 of the patient's fingers.![](_attachments/332rule.jpg)
 - Risk of complications from sedation:
 	- [ASA](../Mechanical%20Ventilation/ASA%20Classification.md) > 3
-	- Morbid obesity, OSA, pregnancy
+	- Morbid [obesity](../../Endocrinology/Obesity/Obesity.md), [OSA](../../Respirology/Sleep%20Medicine/Obstructive%20Sleep%20Apnea.md), pregnancy
 	- severe neurologic impairment or CV/respiratory disease
 	- known or suspected difficult [intubation](Intubation.md) or ventilation
 	- invasive or prolonged procedure

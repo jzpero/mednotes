@@ -4,8 +4,8 @@
 ## Leukostasis
 Rigid sticky blasts --> decreased organ perfusion. Hypoxia, dyspnea, confusion, visual changes.
 
-In [AML](Malignant%20Hematology/Myeloid%20Leukemias.md) if WBC \>50-100
-In [CML](Malignant%20Hematology/Myeloid%20Leukemias.md)/ALL, typically higher than this.
+In [AML](../Malignant%20Hematology/Myeloid%20Leukemias.md) if WBC \>50-100
+In [CML](../Malignant%20Hematology/Myeloid%20Leukemias.md)/ALL, typically higher than this.
 Rare in CLL
 
 Treatment

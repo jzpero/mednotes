@@ -1,3 +1,8 @@
+---
+aliases:
+  - Legionella
+  - Legionnaire's
+---
 
 Legionella Infection
 ====================
@@ -68,7 +73,7 @@ Treatment
         *   treat for a minimum of five days and do not stop therapy until the patient is clinically stable and afebrile for at least 48 hours
 *   **response to treatment**
     *   Most patients with Legionnaires' disease respond promptly to treatment, defervescing in approximately two to five days. Resolution of radiographic changes often lag behind clinical improvement, though most clear over a period of two month
-    *   For patients who are slow to respond to treatment, complications such as lung abscess, empyema, or extrapulmonary infection should be considered. Coinfection with other pathogens is rare
+    *   For patients who are slow to respond to treatment, complications such as lung abscess, [empyema](../Respirology/Pleural%20Diseases/Pleural%20Effusion.md), or extrapulmonary infection should be considered. Coinfection with other pathogens is rare
 
 ### Pontiac fever
 

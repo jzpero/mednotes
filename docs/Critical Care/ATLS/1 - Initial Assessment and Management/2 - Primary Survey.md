@@ -18,7 +18,7 @@ Encompasses the ABCDEs of trauma care and identifies/treats life-threatening con
 	1. C-spine: C collar or manual restriction
 	2.![](_attachments/Pasted%20image%2020230207222747.png)
 7. Continually reassess the airway
-8. Establish a surgical airway if intubation is contraindicated or cannot be accomplished.
+8. Establish a surgical airway if [intubation](../../Procedures/Intubation.md) is contraindicated or cannot be accomplished.
 
 # Breathing and Ventilation
 1. is the function and structure of the lungs, chest wall, and diaphragm intact?

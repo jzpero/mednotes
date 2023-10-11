@@ -1,3 +1,7 @@
+---
+aliases:
+  - BCVI
+---
 # Blunt cerebrovascular injury (BCVI)
 Brommeland, T., Helseth, E., Aarhus, M. _et al._ Best practice guidelines for blunt cerebrovascular injury (BCVI). _Scand J Trauma Resusc Emerg Med_ **26**, 90 (2018). https://doi.org/10.1186/s13049-018-0559-1
 

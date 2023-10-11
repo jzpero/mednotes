@@ -3,9 +3,9 @@ aliases: [theophylline]
 ---
 
 # Theophylline Toxicity
-Theophylline is a methylxanthine that once was used widely for the treatment of asthma. Intravenous infusions of aminophylline, the ethylenediamine salt of theophylline, are sometimes used to treat bronchospasm, congestive heart failure, and neonatal apnea. Theophylline most commonly is used orally in sustained-release preparations.
+Theophylline is a methylxanthine that once was used widely for the treatment of [asthma](../../Respirology/Airway%20Disease/Allergic%20Asthma.md). Intravenous infusions of aminophylline, the ethylenediamine salt of theophylline, are sometimes used to treat bronchospasm, congestive heart failure, and neonatal apnea. Theophylline most commonly is used orally in sustained-release preparations.
 
-- narrow therapeutic index, rarely used for asthma/COPD management
+- narrow therapeutic index, rarely used for [asthma](../../Respirology/Airway%20Disease/Allergic%20Asthma.md)/[Chronic obstructive pulmonary disease (COPD)](../../Respirology/Airway%20Disease/Chronic%20obstructive%20pulmonary%20disease%20(COPD).md) management
 - both acute and chronic overdose is potentially life-threatening
 
 ## Pathophysiology

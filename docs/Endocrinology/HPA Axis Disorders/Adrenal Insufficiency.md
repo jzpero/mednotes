@@ -16,7 +16,7 @@ Adrenal crisis, or "acute adrenal insufficiency", "Addisonian crisis", has no si
 	- Tuberculous adrenalitis
 	- Adrenal mets (bilateral and bulky mets)
 	- Waterhouse-Friderichsen syndrome, primary APS
-	- Lymphoma, sarcoidosis, amyloidosis, hemochromatosis
+	- Lymphoma, sarcoidosis, [amyloidosis](../../Hematology/Amyloidosis.md), hemochromatosis
 	- Invasive fungal infections
 - Congenital adrenal hyperplasia
 - Drug-induced

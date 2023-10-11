@@ -1,7 +1,7 @@
 # Ventilator-Associated Pneumonia and Hospital-Acquired Pneumonia
 
 ## Microbiology
-See below for MRSA/PsA information. In addition, Atypical bacteria (e.g. _Mycoplasma_, _Chlamydiae_, _Legionella_) don't generally cause VAP.  Consequently, atypical coverage is generally _not_ utilized. Anaerobic coverage for pulmonary infections is generally indicated _only_ in the context of empyema or lung abscess.
+See below for MRSA/PsA information. In addition, Atypical bacteria (e.g. _Mycoplasma_, _Chlamydiae_, _[Legionella](../../Infectious%20Diseases/Legionella%20Infection.md)_) don't generally cause VAP.  Consequently, atypical coverage is generally _not_ utilized. Anaerobic coverage for pulmonary infections is generally indicated _only_ in the context of [empyema](../../Respirology/Pleural%20Diseases/Pleural%20Effusion.md) or lung abscess.
 
 ## Diagnosis
 ### Clinical Picture

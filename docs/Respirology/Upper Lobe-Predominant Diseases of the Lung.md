@@ -18,7 +18,7 @@ Key Diseases to know:
 	- Caplan syndrome
 - Inhaled antigens
 	- Hypersensitivity pneumonitis
-	- ABPA
+	- [ABPA](Allergic%20Bronchopulmonary%20Aspergillosus%20(ABPA).md)
 	- Chronic eosinophilic penumonia
 - Granulomatous disease
 	- TB

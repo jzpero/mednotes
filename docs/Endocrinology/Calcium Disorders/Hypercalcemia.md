@@ -88,7 +88,7 @@ id1.2 --> id1.2.1 & id1.2.2 & id1.2.3
   * if the hypercalcemia is mediated by calcitriol production
     * granulomatous disease
     * lymphoma
-    * myeloma
+    * [myeloma](../../Malignant%20Hematology/Myeloma.md)
   * blocks the alpha-1 hydroxylase conversion of 1\(OH\)vitD to 1,25\(OH\)vitD
 
 **Hemodialysis** is the last-line option for refractory hypercalcemia or renal failure.

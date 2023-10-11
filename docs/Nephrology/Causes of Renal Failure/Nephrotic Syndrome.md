@@ -3,7 +3,7 @@ Nephrotic syndrome can be primary (histopathologic diagnosis) or secondary (pres
 
 ## FSGS
 - hyperfiltration syndromes
-	- obesity
+	- [obesity](../../Endocrinology/Obesity/Obesity.md)
 	- decreased nephron mass
 		- congenital renal malformations
 		- solitary kidney
@@ -27,7 +27,7 @@ Typically seen most in children (>90% of cases), where it has a good initial tre
 
 ## Diabetic Nephropathy
 
-## Amyloid/Hematologic
+## [Amyloid](../../Hematology/Amyloidosis.md)/Hematologic
 
 # Workup
 

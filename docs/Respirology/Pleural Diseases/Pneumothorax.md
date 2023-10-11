@@ -12,8 +12,8 @@
 ## Secondary spontaneous pneumothorax (SSP)
 - occurs in patients with underlying lung disease
 - more likely to be symptomatic and lack the reserve to compensate for V:Q mismatch
-- most common in COPD, but also in:
-	-  **airway disease:** chronic obstructive pulmonary disease, cystic fibrosis, status asthmaticus
+- most common in [Chronic obstructive pulmonary disease (COPD)](../Airway%20Disease/Chronic%20obstructive%20pulmonary%20disease%20(COPD).md), but also in:
+	-  **airway disease:** [chronic obstructive pulmonary disease](../Airway%20Disease/Chronic%20obstructive%20pulmonary%20disease%20(COPD).md), cystic fibrosis, status asthmaticus
 	-   **infectious lung disease:**_Pneumocystis carinii_ pneumonia, necrotizing pneumonias (caused by anaerobic, gram-negative bacteria or staphylococcus)
 	-   **interstitial lung disease:** sarcoidosis, idiopathic pulmonary fibrosis, Langerhans’-cell granulomatosis, lymphangioleiomyomatosis, tuberous sclerosis
 	-   **connective-tissue disease:** rheumatoid arthritis (causes pyopneumothorax), ankylosing spondylitis, polymyositis and dermatomyositis, scleroderma, Marfan syndrome, Ehlers–Danlos syndrome
@@ -62,7 +62,7 @@ Heimlich valve
 [Chest Tube](../../Critical%20Care/Procedures/Thoracostomies.md)s.md) Management
 ### PSP
 - **Size/Device:**
-	- In most patients with PSP, a small-[chest tube](../../Critical%20Care/Procedures/Thoracostomies.md)es.md) (≤22 Fr) or chest catheter (≤14 Fr) is placed. In most cases, a small caliber tube or catheter is sufficient for the drainage of air in patients with PSP. It is unusual in this population that an indication for a large[chest tube](../../Critical%20Care/Procedures/Thoracostomies.md)ies.md) (eg, 22 to 28 Fr) is present unless the patient is unstable with tension pneumothorax, concomitant drainage of viscous pleural fluid (eg, empyema) or blood is needed, or small-bore catheter drainage is insufficient.
+	- In most patients with PSP, a small-[chest tube](../../Critical%20Care/Procedures/Thoracostomies.md)es.md) (≤22 Fr) or chest catheter (≤14 Fr) is placed. In most cases, a small caliber tube or catheter is sufficient for the drainage of air in patients with PSP. It is unusual in this population that an indication for a large[chest tube](../../Critical%20Care/Procedures/Thoracostomies.md)ies.md) (eg, 22 to 28 Fr) is present unless the patient is unstable with tension pneumothorax, concomitant drainage of viscous pleural fluid (eg, [empyema](Pleural%20Effusion.md)) or blood is needed, or small-bore catheter drainage is insufficient.
 	- One systematic review that compared smal[pigtail](../../Critical%20Care/Procedures/Thoracostomies.md)mies.md) catheters with lar[chest tubes](../../Critical%20Care/Procedures/Thoracostomies.md)omies.md) in patients with both PSP and secondary spontaneous pneumothorax (SSP) reported that the success rate was similar in both groups (80 versus 83 perc[pigtail](../../Critical%20Care/Procedures/Thoracostomies.md)tomies.md) catheters had a lower complication rate (odds ratio 0.49) and shorter drainage duration (mean difference -1.51 days) and hospital stay (mean difference -2.54 days).
 - **Suction**
 	- For the majority of patients, suction is not initially applied and the tube or catheter is connected to a water seal device only. *Lung re-expansion is achieved in 70 percent of patients within 72 hours without suction*

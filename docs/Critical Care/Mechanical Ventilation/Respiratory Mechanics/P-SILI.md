@@ -2,7 +2,7 @@
 
 Patient self-inflicted lung injury (P-SILI) is a controversial, emerging concept, whereby intense inspiratory efforts by spontaneously breathing patients – whether assisted or unassisted – may exacerbate lung injury.
 
-P-SILI can occur in intubated patients, patients on NIV, and patients without any ventilatory support.
+P-SILI can occur in [intubated](../../Procedures/Intubation.md) patients, patients on NIV, and patients without any ventilatory support.
 
 What causes P-SILI? Unclear:
 

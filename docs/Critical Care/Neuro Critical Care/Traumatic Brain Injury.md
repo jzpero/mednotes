@@ -29,7 +29,7 @@ The GCS is used to quantify the degree of injury. It is the most accepted tool f
 
 ## Imaging
 - **Noncontrast CT head and C-spine (STAT)**. Consider repeat CT after 6-24 hours depending on the clinical picture.
-- **CT angiography** may be required to rule out blunt cerebrovascular injury (BCVI) involving the arteries such as dissection or pseudoaneurysm. Consider these as the following indications:
+- **CT angiography** may be required to rule out [blunt cerebrovascular injury (BCVI)](../../Neurology/Cerebrovascular%20Disease/Blunt%20Cerebrovascular%20Injury%20(BCVI).md) involving the arteries such as dissection or pseudoaneurysm. Consider these as the following indications:
 	- Penetrating brain injury
 	- Focal unexplained neurologic deficit
 	- Evidence of arterial injury (neck bruit, expanding cervical hematoma)
@@ -127,7 +127,7 @@ This means that an object has breached the scalp, skull, and dura mater.
 - Normal range of CPP is 60 - 80 mmHg. Some studies suggest that in this context, maintaining CPP > 70 mmHg improves outcomes.
 - Normal range of ICP is <10 mm Hg
 - Maintaining adequate cerebral bloodflow (CBF) is essential to reducing secondary injury, and a surrogate of CBF is CPP which can be directly addressed by maximizing MAP and minimizing ICP/intracranial volume
-- Avoid sustained hyperventilation (<25 mmHg). Avoid  hypoxia (PaO2 <60 mmHg) as this can cause massive increases in CBF from vasodilation and increase ICP. Therefore, *consider early neuroprotective intubation* 
+- Avoid sustained hyperventilation (<25 mmHg). Avoid  hypoxia (PaO2 <60 mmHg) as this can cause massive increases in CBF from vasodilation and increase ICP. Therefore, *consider early neuroprotective [intubation](../Procedures/Intubation.md)* 
 - Reducing the metabolic demands of brain injury
 	- Avoid hyperthermia/fever
 	- No indications to use barbiturate therapy for prophylaxis against the development of intracranial hypertension, but consider this as salvage therapy for ICP refractory to medical and surgical treatment

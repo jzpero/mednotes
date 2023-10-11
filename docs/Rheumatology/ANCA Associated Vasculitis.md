@@ -57,7 +57,7 @@ Diagnosis is histopathologically made by demonstrtation of necrotizing granuloma
 
 
 # Eosinophilic Granulomatosis with Polyangiitis (EGPA)
-EGPA is characterized by **asthma, peripheral and tissue eosinophilia, extravascular granuloma formation, and vasculitis of multiple organ systems.**
+EGPA is characterized by **[asthma](../Respirology/Airway%20Disease/Allergic%20Asthma.md), peripheral and tissue eosinophilia, extravascular granuloma formation, and vasculitis of multiple organ systems.**
 
 Rare disease, with annual incidence of 1-3 per million. It can occur at any age (except in infants). The mean age of onset is 48 years, with a slight female predominance (6:5).
 
@@ -66,7 +66,7 @@ The necrotizing vasculitis in EGPA involves small and medium vessels. It forms g
 
 The most common organs of involvement are the lung, skin, CVS, kidney, PNS, GI tract.
 
-Likely due to aberrant immunologic phenomena given its strong association with asthma and clinicopathologic manifestations.
+Likely due to aberrant immunologic phenomena given its strong association with [asthma](../Respirology/Airway%20Disease/Allergic%20Asthma.md) and clinicopathologic manifestations.
 
 ## Clinical Manifestations
 ### Respiratory Manifestations

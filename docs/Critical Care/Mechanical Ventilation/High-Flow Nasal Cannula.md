@@ -18,9 +18,9 @@ HFNC provides the following benefits over conventional oxygen therapy:
 The [FLORALI trial (NEJM 2015)](http://www.nejm.org/doi/full/10.1056/NEJMoa1503326) showed that high-flow nasal cannula can reduce 90-day mortality in patients with nonhypercapnic acute hypoxemic respiratory failure compared to noninvasive ventilation or standard oxygen therapy.
 
 - 12%  (HFNC) vs 28% (NIV) vs 23% (standard oxygen therapy) 90-day mortality rates
-- reduction in intubation rates in patients with more severe hypoxemia (PF < 200)
+- reduction in [intubation](../Procedures/Intubation.md) rates in patients with more severe hypoxemia (PF < 200)
 
-[SRMA in 2019 by Dr. Rochwerg](https://pubmed.ncbi.nlm.nih.gov/30888444/): HFNc reduces intubation rates compared to conventional oxygen but does not affect ICU death or LOS.
+[SRMA in 2019 by Dr. Rochwerg](https://pubmed.ncbi.nlm.nih.gov/30888444/): HFNc reduces [intubation](../Procedures/Intubation.md) rates compared to conventional oxygen but does not affect ICU death or LOS.
 
 In COVID, not much prospective randomized evidence exists:
 

@@ -6,7 +6,7 @@ RCC arises from the renal epithelium and accounts for 85% of renal cancers.
 
 ## Risk Factors
 - Smoking
-- Obesity
+- [Obesity](../Endocrinology/Obesity/Obesity.md)
 - Hypertension
 - Acquired cystic kidney disease with ESRD
 - Male sex

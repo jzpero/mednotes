@@ -4,7 +4,7 @@
 | Macrovascular disease      | 140/90                                     | <140/90   |
 | Diabetes                   | 130/80                                     | <130/80   |
 | High risk (SPRINT)         | SBP 130 and other risk factors (see below) | SBP < 120 |
-| [PKD](../Nephrology/Polycystic%20Kidney%20Disease%20(PKD).md)                    | HALT-PKD population                        | SBP < 95-110 |
+| [PKD](../Nephrology/Polycystic%20Kidney%20Disease%20(PKD).md)                    | HALT-[PKD](../Nephrology/Causes%20of%20Renal%20Failure/Polycystic%20Kidney%20Disease%20(PKD).md) population                        | SBP < 95-110 |
 | Non-SPRINT CKD             |                                            | SBP < 140 |
 | History of spontaneous [ICH](../Critical%20Care/Neuro%20Critical%20Care/Intracranial%20Hemorrhage.md) |                                            | <130/80          |
 
@@ -81,7 +81,7 @@ Among patients at high risk for cardiovascular events but without diabetes, inte
 1. [Renovascular Hypertension](../Nephrology/Renovascular%20Hypertension.md)
 2. Endocrine (pheochromocytoma, thyroid disease)
 3. [Primary hyperaldosteronism](../Endocrinology/HPA%20Axis%20Disorders/Primary%20hyperaldosteronism.md)
-4. [Obstructive Sleep Apnea](../Respirology/Obstructive%20Lung%20Disease/Obstructive%20Sleep%20Apnea.md)
+4. [Obstructive Sleep Apnea](../Respirology/Sleep%20Medicine/Obstructive%20Sleep%20Apnea.md)
 
 
 # References

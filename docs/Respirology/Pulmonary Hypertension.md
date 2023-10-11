@@ -37,4 +37,6 @@ Increased LA pressures, increases pulm venous pressures, and in genetically pred
 # Diagnosis of PH
 ![](_attachments/Pasted%20image%2020230927145201.png)
 
-Consider screening for CTEPH for patients with (1) moderate to severe PH/RV dysfunction with heart/lung disease, (2) or no heart/lung disease confirmed
+Consider screening for CTEPH for patients with (1) moderate to severe PH/RV dysfunction with heart/lung disease, (2) or no heart/lung disease confirmed.
+
+![](_attachments/Pasted%20image%2020231010195849.png)

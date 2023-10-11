@@ -12,14 +12,14 @@ Fatiguable weakness in young women in their 20s and older men in their 60s:
 | Extremities | proximal > distal weakness, intense fatigue       |
 
 # Myasthenic Crisis
-## Elective Intubation
-Consider for the 20-30-40 rule as described for [Guillain-Barré Syndrome](Guillain-Barré%20Syndrome.md). Essentially, if FVC < 20 mL/kg, absolute MIP less than 30 cm H2O, absolute MEP < 40 cm H2O, consider early intubation.
+## Elective [Intubation](../../Critical%20Care/Procedures/Intubation.md)
+Consider for the 20-30-40 rule as described for [Guillain-Barré Syndrome](Guillain-Barré%20Syndrome.md). Essentially, if FVC < 20 mL/kg, absolute MIP less than 30 cm H2O, absolute MEP < 40 cm H2O, consider early [intubation](../../Critical%20Care/Procedures/Intubation.md).
 
 ## Immunosuppressive Agents
 1. PLEX (preferred due to rapidity of action), vs
 2. IVIg (2 g/kg over 2-5 days)
 
-Hold pyridostigmine while intubated (for airway secretion management).
+Hold pyridostigmine while [intubated](../../Critical%20Care/Procedures/Intubation.md) (for airway secretion management).
 Consider high-dose prednisone (can cause transient worsening of respiratory status within the next 5-10d)
 
 # Maintenance Treatment of MG

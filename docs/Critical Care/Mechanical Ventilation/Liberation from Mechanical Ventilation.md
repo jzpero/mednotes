@@ -79,7 +79,7 @@ Evidence for either PSV/shorter duration:
 After a successful SBT and extubation, 10% to 25% of patients require reintubation, and reintubation is associated with higher mortality.
 
 *   Consider extubating to HFNC for most patients.
-*   Patients with COPD, CHF, OSA may benefit from extubation to [Non-Invasive Ventilation > NIV for extubation and ventilator liberation](Non-Invasive%20Ventilation#NIV%20for%20extubation%20and%20ventilator%20liberation)
+*   Patients with [Chronic obstructive pulmonary disease (COPD)](../../Respirology/Airway%20Disease/Chronic%20obstructive%20pulmonary%20disease%20(COPD).md), CHF, [OSA](../../Respirology/Sleep%20Medicine/Obstructive%20Sleep%20Apnea.md) may benefit from extubation to [Non-Invasive Ventilation > NIV for extubation and ventilator liberation](Non-Invasive%20Ventilation#NIV%20for%20extubation%20and%20ventilator%20liberation)
 
 ## References
 1.  Alía I, Esteban A. Weaning from mechanical ventilation. Crit Care \[Internet\]. 2000 \[cited 2021 Dec 21\];4(2):72–80. Available from: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC137330/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC137330/)

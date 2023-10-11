@@ -6,16 +6,16 @@
 | Imaging - bilateral pulmonary opacities | perhaps allowing CT/US diagnosis?                                                     |
 | Minimum timeframe                       | must be present after time period (not specified) of initial stabilization            |
 | P/F ratio                               | Consider using S/F ratio (uncertain accuracy particularly in darker skinner patients) |
-| Intubation/PEEP                         | Consider including patients on HFNC/NIV                                                                                      |
+| [Intubation](../Procedures/Intubation.md)/PEEP                         | Consider including patients on HFNC/NIV                                                                                      |
 
 # HFNC
-1. Strongly recommended in non-intubated patients with AHRF not due to cardiogenic pulmonary edema or AECOPD in order to reduce intubation rates.
+1. Strongly recommended in non-[intubated](../Procedures/Intubation.md) patients with AHRF not due to cardiogenic pulmonary edema or AECOPD in order to reduce [intubation](../Procedures/Intubation.md) rates.
 2. Unclear effect on mortality however - therefore no recommendations for this benefit.
-3. No clear recommendation with regards to HFNC vs NIV for non-COPD or cardiogenic pulmonary edema. NIV may reduce the risk of intubation slightly.
+3. No clear recommendation with regards to HFNC vs NIV for non-[Chronic obstructive pulmonary disease (COPD)](../../Respirology/Airway%20Disease/Chronic%20obstructive%20pulmonary%20disease%20(COPD).md) or cardiogenic pulmonary edema. NIV may reduce the risk of [intubation](../Procedures/Intubation.md) slightly.
 
 # CPAP/NIV
-1. CPAP/NIV does not clearly reduce intubation or mortality when compared to conventional O2 therapy  for non-COPD/ADHF presentations
-2. CPAP recommended over COT for risk of intubation in COVID-19, but may not decrease mortality
+1. CPAP/NIV does not clearly reduce [intubation](../Procedures/Intubation.md) or mortality when compared to conventional O2 therapy  for non-[Chronic obstructive pulmonary disease (COPD)](../../Respirology/Airway%20Disease/Chronic%20obstructive%20pulmonary%20disease%20(COPD).md)/ADHF presentations
+2. CPAP recommended over COT for risk of [intubation](../Procedures/Intubation.md) in COVID-19, but may not decrease mortality
 3. Helmet CPAP/NIV - not enough evidence yet
 
 # Low tidal Volume Ventilation
@@ -30,7 +30,7 @@
 
 # Prone Positioning
 1. Recommended for moderate to severe ARDS (PF < 150 and PEEP > 5). High level of evidence in favour of mortality.
-2. Start early after intubation, after a period of initial stabilization and titration. Prolonged sessions (16+ hours) should be the target as well.
+2. Start early after [intubation](../Procedures/Intubation.md), after a period of initial stabilization and titration. Prolonged sessions (16+ hours) should be the target as well.
 3. Awake proning is suggested for nonintubated patients with COVID-19 related AHRF
 
 # [Neuromuscular Blockade](../Procedures/Neuromuscular%20Blockade.md)

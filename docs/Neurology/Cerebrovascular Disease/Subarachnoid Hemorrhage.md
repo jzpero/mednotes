@@ -15,7 +15,7 @@
 	- femal sex
 	- history of previous aSAH
 	- familial aneurym history
-	- genetic syndromes (ADPKD, EDS-4)
+	- genetic syndromes ([ADPKD](../../Nephrology/Causes%20of%20Renal%20Failure/Polycystic%20Kidney%20Disease%20(PKD).md), EDS-4)
 
 ## Prevention of aSAH
 1. Control hypertension

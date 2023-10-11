@@ -5,9 +5,9 @@ Background:
 - ICH is arguably the deadliest form of acute stroke, with early-term mortality about 30% to 40% and no or minimal trend toward improvement over more recent time epochs.
 
 ## General Concepts
-- **Small vessel disease** accounts for the majority of primary ICH: arteriolosclerosis and cerebral amyloid angiopathy (CAA) which are common age-related pathologies (30-35%)
+- **Small vessel disease** accounts for the majority of primary ICH: arteriolosclerosis and cerebral [amyloid](../../Hematology/Amyloidosis.md) angiopathy (CAA) which are common age-related pathologies (30-35%)
 	- Arteriolosclerosis (also referred to as lipohyalinosis) is detected as concentric hyalinized vascular wall thickening favoring the penetrating arterioles of the basal ganglia, thalamus, brainstem, and deep cerebellar nuclei (collectively referred to as deep territories). Its major associated risk factors are hypertension, diabetes, and age.
-	- CAA is defined by deposition of beta-amyloid peptide in arterioles and capillaries in the leptomeninges, cerebral cortex, and hemispheres. The major risk factors are age and apolipoprotein E genotypes e2/e4 alleles.
+	- CAA is defined by deposition of beta-[amyloid](../../Hematology/Amyloidosis.md) peptide in arterioles and capillaries in the leptomeninges, cerebral cortex, and hemispheres. The major risk factors are age and apolipoprotein E genotypes e2/e4 alleles.
 	- the small vessel pathologies that underlie ICH are also associated with increased risk of ischemic stroke
 	- CAA is associated with higher rates of recurrent hemorrhage than arteriolosclerosis
 - **mechanisms of ICH induced injury**
@@ -44,6 +44,9 @@ Catheter intra-arterial DSA remains the gold standard to search for macrovascula
 | Spontaneous ICH and negative CTA/V                                                                                                                   | MRI + MRA                                                                              | 2a  |
 | Spontaneous ICH who have CT/MR at admission                                                                                                          | CTA+/-V or MRA+/-V acutely to exclude macrovascular causes                             | 2a  |
 | Spontaneous ICH and negative catheter intra-arterial DSA and no clear microvascular diagnosis or defined strutural lesions                           | Repeat catheter intra-arterial DSA in 3-6 months                                       | 2b    |
+
+Consider the following pathway:
+![](_attachments/Pasted%20image%2020231009003206.png)
 
 # Medical  and Neurointensive Treatment for ICH
 ## Acute BP Lowering
@@ -154,7 +157,7 @@ Because of a paucity of disease-specific data, indications for ICP monitoring in
 How do we grade severity of ICH? Consider use of the **ICH score** for initial baseline measurement of ICH severity, but the **Max-ICH** has been validated to be superior in patients who do not undergo WLST
 
 ## Goals of Care and WLST 
-Most patients with ICH who die in the hospital do so after decisions are made by physicians and surrogate decision makers to limit the use of life-sustaining therapies such as artificial nutrition or hydration, intubation and mechanical ventilation, antibiotics, or vasopressors. These decisions are presumably made because of a low likelihood of favorable outcome and alignment with wishes of patients and their legally authorized surrogates (most often their family).
+Most patients with ICH who die in the hospital do so after decisions are made by physicians and surrogate decision makers to limit the use of life-sustaining therapies such as artificial nutrition or hydration, [intubation](../Procedures/Intubation.md) and mechanical ventilation, antibiotics, or vasopressors. These decisions are presumably made because of a low likelihood of favorable outcome and alignment with wishes of patients and their legally authorized surrogates (most often their family).
  
 However, substantial uncertainty remains concerning the accuracy of prognostication, especially early after ICH onset. *When a patient who was destined to recover from their ICH has limitations of life-sustaining therapies or withdrawal of life support, this results in a self-fulfilling prophecy of poor outcome.*
 

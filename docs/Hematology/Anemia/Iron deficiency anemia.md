@@ -13,7 +13,7 @@
 	- Breastfeeding
 	- Increased erythropoiesis in the course of treatment of VB12 deficiency
 - GI malabsorption
-	- Bariatric surgery
+	- [Bariatric surgery](../../Endocrinology/Obesity/Obesity.md)
 	- H pylori infection
 	- Autoimmune gastritis
 	- Celiac disease

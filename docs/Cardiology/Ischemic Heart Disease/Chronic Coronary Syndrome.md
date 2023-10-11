@@ -29,13 +29,13 @@ aliases: [CAD]
 	-   Hypertension – consider ACEi for "vascular protection" per [HOPE (2000)](https://www.wikijournalclub.org/wiki/HOPE) -- ramipril, [EUROPA (2003)](https://www.wikijournalclub.org/wiki/EUROPA) -- perindopril.
 	-   Dyslipidemia – target LDL-C < 2.0 mM and >50% reduction
 	-   DM – target A1C < 7%
-	-   OSA – does not change CV outcomes, but may help control HTN
+	-   [OSA](../../Respirology/Sleep%20Medicine/Obstructive%20Sleep%20Apnea.md) – does not change CV outcomes, but may help control HTN
 -   Antithrombotics
 	-   ASA 81 mg daily
 	-   ECASA 100 mg daily + rivaroxaban 2.5 mg BID (per [COMPASS 2017](https://www.nejm.org/doi/full/10.1056/nejmoa1709118))
 
 > [!NOTE]
-> CPAP for OSA does NOT benefit cardiac outcomes.
+> CPAP for [OSA](../../Respirology/Sleep%20Medicine/Obstructive%20Sleep%20Apnea.md) does NOT benefit cardiac outcomes.
 
 # Revascularization
 OMT has the same benefit as revascularization (PCI/CABG).

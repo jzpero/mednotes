@@ -2,9 +2,9 @@ These species are microaerophilic/anaerobic Gram positive rods, that can be part
 
 # Clinical Manifestations
 -   Indolent, slowly progressive lesions
--   Lung parenchymal lesions are associated with pleural infection leading to pleural thickening and empyema
+-   Lung parenchymal lesions are associated with pleural infection leading to pleural thickening and [empyema](../Respirology/Pleural%20Diseases/Pleural%20Effusion.md)
 	- Can be mistaken for lung cancer
-	-   The organism can break through fascial planes: spontaneous drainage of empyema through the chest
+	-   The organism can break through fascial planes: spontaneous drainage of [empyema](../Respirology/Pleural%20Diseases/Pleural%20Effusion.md) through the chest
 	- "sulfur granules" in purulent exudate represents clusters of branching Actinomyces filament
 	- More common in alcoholics and those with poor dental hygeine
 

@@ -32,7 +32,7 @@ Spectrum/categories of HDP:
 This is a multi system disorder in pregnancy that is mediated by the placenta, that results in systemic vascular and endothelial dysfunction, resulting in maternal and fetal morbidity and mortality.
 
 Risk factors: first pregnancy, new partner, IVF, family history, age <20 or >35.
-Maternal risk factors: prior pre-eclampsia, chronic HTN, DM, renal disease, autoimmune disorders, obesity.
+Maternal risk factors: prior pre-eclampsia, chronic HTN, DM, renal disease, autoimmune disorders, [obesity](../Endocrinology/Obesity/Obesity.md).
 Fetal risk factors: multiple gestation, hydrops fetalis, molar pregnancy.
 
 ## Diagnosis/Definition

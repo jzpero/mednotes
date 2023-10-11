@@ -69,7 +69,7 @@ Overall mortality is 3-7% and is generally from ventilatory/pulmonary failure, o
 
 # Treatment of GBS
 ## Airway Management
-Close monitoring is required: telemetry, BP, FVC q4h. Consider **elective intubation using the 20-30-40 rule:
+Close monitoring is required: telemetry, BP, FVC q4h. Consider **elective [intubation](../../Critical%20Care/Procedures/Intubation.md) using the 20-30-40 rule:
 FVC <20 mL/kg, MIP 0 to -30 cm H2O, or MEP < 40 cm H2O**.
 
 Predictors of respiratory failure in GBS (occurs in 30% of patients): Onset to admission <7d, FVC <60% predicted, presence of facial weakness, inability to cough/lift head/lift arms/stand.

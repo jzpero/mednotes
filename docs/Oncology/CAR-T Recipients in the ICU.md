@@ -1,7 +1,7 @@
 ---
 alias: CAR-T, ICANS, cytokine release syndrome
 ---
-Chimeric antigen receptor (CAR) T-cell therapy (CAR-T) describes the use of genetically engineered T cells to attack cancer cells, and to improve the outcomes of patients with refractory/relapsed B-cell malignancies. Extended indications are being investigated (multiple myeloma, etc.)
+Chimeric antigen receptor (CAR) T-cell therapy (CAR-T) describes the use of genetically engineered T cells to attack cancer cells, and to improve the outcomes of patients with refractory/relapsed B-cell malignancies. Extended indications are being investigated (multiple [myeloma](../Malignant%20Hematology/Myeloma.md), etc.)
 
 # Background of CAR-T
 CAR-T products generally attack CD19 which is expressed by most B-cell malignancies. CAR-T can induce temporary or durable complete remission in the majority of patients.
@@ -52,7 +52,7 @@ ICANS is encephalopathy secondary to systemic inflammation. Often occurs in the 
 
 ICANS is extremely common, occurring in perhaps ~75% of patients treated with axicabtagene ciloleucel or brexucabtagene autoleucel. Lower rates occur with other CAR-T constructs.
 
-**Risk factors for ICANS:** Fludarabine use for pre-treatment lymphodepletion, anti-CD19 products, ALL> lymphoma >> multiple myeloma, higher burden of malignancy, pre-existing neurologic conditions, severe or early onset CRS, elevated inflammatory markers, DIC.
+**Risk factors for ICANS:** Fludarabine use for pre-treatment lymphodepletion, anti-CD19 products, ALL> lymphoma >> multiple [myeloma](../Malignant%20Hematology/Myeloma.md), higher burden of malignancy, pre-existing neurologic conditions, severe or early onset CRS, elevated inflammatory markers, DIC.
 
 **Timing of ICANS:** generally begins within the first week after CAR-T therapy. Median onset of illness is 4-6 days, but can extend out to months after CAR-T therapy. Often ICANS starts 2-4 post CRS.
 

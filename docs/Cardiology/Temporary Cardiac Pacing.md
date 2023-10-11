@@ -48,7 +48,7 @@ In TdP, VT is generally nonsustained but rarely can degenerate into VF (a termin
 # Conditions which normally do not require temporary pacing
 1. Hypothermia
 2. Hypothyroidism (hormonal replacement is typically curative)
-3. OSA and bradycardia during sleep. Generally CPAP will abolish conduction defects - suggesting strongly that hypoxia plays an important pathophysiological role.
+3. [OSA](../Respirology/Sleep%20Medicine/Obstructive%20Sleep%20Apnea.md) and bradycardia during sleep. Generally CPAP will abolish conduction defects - suggesting strongly that hypoxia plays an important pathophysiological role.
 4. Seizure-mediated ictal bradycardia
 5. Spinal cord injury
 

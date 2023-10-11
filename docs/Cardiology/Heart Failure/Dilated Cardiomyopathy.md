@@ -14,7 +14,7 @@ Diverse set of etiologies (and therefore, pathogenesis) of DCM. Idiopathic and f
 - **Genetic mutations**  (most common)
 - **Infection** (most common -- 30%). Typically associated with myocarditis.
 	- Viruses, particularly the enteroviruses. Adenovirus, coronavirus, coxsackievirus, CMV, dengue, echovirus, EBV, HBV, HCV, HSV, HHV-6, HIV, Influenza, Mumps, Parvovirus B19, poliovirus, raviesvirus, RSV, rubella, measles, VZV
-	- Bacteria: β-haemolytic streptococci, _Borrelia burgdorferi_, _Brucella_ spp., _Campylobacter jejuni_, _Chlamydia_ spp., _Clostridium_ spp., _Corynebacterium diphtheriae_, _Neisseria_ spp., _Haemophilus influenza_, _Legionella pneumophila_, _Listeria monocytogenes_, _Mycoplasma pneumoniae_, _Neisseria meningitidis_, _Salmonella_ (Berta and Typhi), _Streptococcus pneumoniae_, _Staphylococcus_ spp. and _Treponema pallidum_
+	- Bacteria: β-haemolytic streptococci, _Borrelia burgdorferi_, _Brucella_ spp., _Campylobacter jejuni_, _Chlamydia_ spp., _Clostridium_ spp., _Corynebacterium diphtheriae_, _Neisseria_ spp., _Haemophilus influenza_, _[Legionella](../../Infectious%20Diseases/Legionella%20Infection.md) pneumophila_, _Listeria monocytogenes_, _Mycoplasma pneumoniae_, _Neisseria meningitidis_, _Salmonella_ (Berta and Typhi), _Streptococcus pneumoniae_, _Staphylococcus_ spp. and _Treponema pallidum_
 	- Protozoa: _Entamoeba histolytica_, _Leishmania_ spp., _Plasmodium vivax_, _Plasmodium falciparum_, _Toxoplasma gondii_ and _Trypanosoma cruzi_
 	- Helminths: _Taenia_ spp., _Echinococcus_ spp., _Schistosoma_ spp., _Toxocara_ spp. and _Trichinella_ spp.
 	- Fungi: _Actinomyces_ spp., _Aspergillus_ spp., _Candida_ spp., _Coccidioides immitis_ and _Cryptococcus neoformans_

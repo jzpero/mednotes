@@ -13,7 +13,7 @@
 ## NIV Guidelines for acute respiratory failure
 ### Recommendations & Evidence
 #### Strong Recommendations For NIV
-1.  **BiPAP** in COPD-related acute or acute-on-chronic respiratory acidosis (pH <= 7.35, PaCO2 > 45 and RR > 20-24) despite standard medical therapy.
+1.  **BiPAP** in [Chronic obstructive pulmonary disease (COPD)](../../Respirology/Airway%20Disease/Chronic%20obstructive%20pulmonary%20disease%20(COPD).md)-related acute or acute-on-chronic respiratory acidosis (pH <= 7.35, PaCO2 > 45 and RR > 20-24) despite standard medical therapy.
 	1. No significant decrease in mortality in patients who are not acidotic. Focus should be on optimal medical therapy and titration of oxygen to 88-92%.
 	2. Improvement of pH or RR from 7.25-7.35 to normal range is usually seen in the first 1-4 h after NIV initiation, and is a good predictor of sucess. BiPAP reduces dyspnea, need for immediate [intubation](../../Procedures/Intubation.md), ICU admission, hospital LOS, and improves survival. When compared to first line [intubation](../../Procedures/Intubation.md), BiPAP has similar mortality but decreases VAP/tracheostomy.
 2.  **CPAP/BiPAP** for cardiogenic pulmonary edema (excluding acute MI or cardiogenic shock)

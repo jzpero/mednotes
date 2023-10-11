@@ -66,10 +66,10 @@ A Massive Transfusion Protocol (MTP) should be used in critically bleeding pati
 ![](_attachments/Pasted%20image%2020230113135003.png)
 Also try to get arterial access for live hemodynamic monitoring.
 
-### Intubation
-- Patients with exsanguinating hemorrhage will often need to be intubated (e.g., to facilitate endoscopic control of bleeding).
+### [Intubation](../Procedures/Intubation.md)
+- Patients with exsanguinating hemorrhage will often need to be [intubated](../Procedures/Intubation.md) (e.g., to facilitate endoscopic control of bleeding).
 - Intubating a patient who is extremely under-resuscitated may precipitate hemodynamic collapse.
-- It is often best to obtain access, give one round of massive transfusion (e.g., 6 units PRBCs, 6 units of platelets, and 6 units of FFP), and establish a reasonable blood pressure _prior_ to intubation (“resuscitate before you intubate”).
+- It is often best to obtain access, give one round of massive transfusion (e.g., 6 units PRBCs, 6 units of platelets, and 6 units of FFP), and establish a reasonable blood pressure _prior_ to [intubation](../Procedures/Intubation.md) (“resuscitate before you intubate”).
 
 ## Balanced Transfusion
 - 1:1:1 pRBC:FFP:Platelets

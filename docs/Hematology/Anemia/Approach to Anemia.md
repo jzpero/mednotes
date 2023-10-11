@@ -50,11 +50,11 @@ id1.3.2(Nonmegaloblastic)
 ## Nonmegaloblastic Anemias
 1. Alcohol (MCV generally <110 fL)
 2. Chronic liver disease
-3. Myelodysplasia or [Myelodysplastic syndrome](../Malignant%20Hematology/Myelodysplastic%20syndrome.md)
+3. Myelodysplasia or [Myelodysplastic syndrome](../../Malignant%20Hematology/Myelodysplastic%20syndrome.md)
 4. Reticulocytosis (generally >10% and in the context of hemolysis)
 5. Pregnancy
 6. Hypothyroidism
 7. Aplastic anemia
 8. Pure red cell aplasia
 9. Acute leukemia
-10. Multiple myeloma
+10. Multiple [myeloma](../../Malignant%20Hematology/Myeloma.md)

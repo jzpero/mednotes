@@ -20,6 +20,8 @@ aliases: [IPF]
 	
 ![](_attachments/Pasted%20image%2020221026004230.png)
 
+## Progressive Pulmonary Fibrosis (PPF)
+![](_attachments/Pasted%20image%2020231010194534.png)
 # Treatment of IPF
 ## Acute Exacerbations of IPF
 Defined as worsening SOB, hypoxemia with new diffuse bilateral GGO on CT. 
@@ -46,6 +48,9 @@ Choice is mainly based on side effects and on patient preference.
 | Nintendanib | INPULSIS 1/2    | TK inhibitor | Reduces FVC decline, trend to reduced mortality. | Diarrhea, GI upset, transaminitis.                |
 | Pirfenidone | ASCEND/CAPACITY |              |                                                  |                 |
 
+![](_attachments/Pasted%20image%2020231010194552.png)
+
+Both are likely equally effective - halves the rate of progression over time.
 ### Immunomodulation in IPF
 There is *no role for long-term immunosuppression in IPF*, given increased mortality (per **PANTHER-IPF** trial which examined prednisone, azathioprine, and NAC).
 

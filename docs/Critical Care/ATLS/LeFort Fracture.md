@@ -14,7 +14,7 @@ These are transverse fractures of the mid-face.
 
 # Management
 -   In the patient with multisystem and/or severe injuries, address your primary survey first and stabilize the patient.
--   If the airway is at risk, consider awake intubation, and prepare for a difficult airway.
+-   If the airway is at risk, consider awake [intubation](../Procedures/Intubation.md), and prepare for a difficult airway.
 -   Only after the primary survey and resuscitation should you perform your ocular and facial exam in the setting of suspected Le Fort Fractures.
 -   Control hemorrhage of the nose/oral cavity. Anterior packing may be needed. Avoid posterior packing due to risk of skull base injuries.
 -   Elevate head of bead to 40-60 degrees.

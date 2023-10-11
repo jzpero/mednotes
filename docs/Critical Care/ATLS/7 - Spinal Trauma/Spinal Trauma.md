@@ -94,4 +94,4 @@ Persistent hypotension should *raise the suspicion of neurogenic shock* which cl
 There is not enough evidence to support the routine use of steroids in acute spinal cord injury.
 
 ## Transfer
-Consult a spinal/neurosurgical service and consider transferring the patient if required. Does the patient need intubation prior to transfer? Stabilize the spine during transfer with the necessary splints, backboards, and cervical collars. Avoid un-necessary delay.
+Consult a spinal/neurosurgical service and consider transferring the patient if required. Does the patient need [intubation](../../Procedures/Intubation.md) prior to transfer? Stabilize the spine during transfer with the necessary splints, backboards, and cervical collars. Avoid un-necessary delay.

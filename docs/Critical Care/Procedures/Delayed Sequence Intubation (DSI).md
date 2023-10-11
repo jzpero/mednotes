@@ -1,9 +1,9 @@
-Delayed sequence [Intubation](Intubation.md) (DSI) differs from rapid sequence induction/intubation (RSI) in that pre-medication is used to facilitate ventilation/preoxygenation prior to full induction/paralysis. That is, procedural sedation is used to preoxygenate the patient. 
+Delayed sequence [Intubation](Intubation.md) (DSI) differs from rapid sequence induction/[intubation](Intubation.md) (RSI) in that pre-medication is used to facilitate ventilation/preoxygenation prior to full induction/paralysis. That is, procedural sedation is used to preoxygenate the patient. 
 
 # When is DSI Considered?
 1. Cannot preoxygenate the patient by any other means, leading to a high risk of hypoxemia and CV collapse otherwise.
 	1. Significant agitation
-2. Procedures are required prior to intubation, such as NG tube placement fo stomach evacuation in the setting of GI bleed.
+2. Procedures are required prior to [intubation](Intubation.md), such as NG tube placement fo stomach evacuation in the setting of GI bleed.
 
 # How to Perform DSI
 ![](_attachments/45-3_dsi_flowchart%201.jpg)
@@ -25,5 +25,5 @@ Delayed sequence [Intubation](Intubation.md) (DSI) differs from rapid sequence i
 
 
 # References
-1. [Delayed sequence intubation (DSI) • LITFL • CCC Airway](https://litfl.com/delayed-sequence-intubation-dsi/)
-2. [Delayed Sequence Intubation: Basics for Residents EMRA](https://www.emra.org/emresident/article/dsi-basics)
+1. [Delayed sequence [intubation](Intubation.md) (DSI) • LITFL • CCC Airway](https://litfl.com/delayed-sequence-intubation-dsi/)
+2. [Delayed Sequence [Intubation](Intubation.md): Basics for Residents EMRA](https://www.emra.org/emresident/article/dsi-basics)

@@ -4,10 +4,10 @@ Securing a compromised airway, delivering oxygen, and supporting ventilation tak
 # Airway
 Airway compromise can be dynamic, late presenting, and insidious. Frequently reassess by talking to the patient. Is their verbal response adequate and clear?
 
-- Consider early intubation for decreased neurologic status, airway burns.
+- Consider early [intubation](../../Procedures/Intubation.md) for decreased neurologic status, airway burns.
 - Midfacial trauma can lead to fractures and dislocations that compromise the nasopharynx and oropharynx, leading to loss of airway structural support.
 	- increased risk with providing anesthesia and sedation due to loss of muscle tone
-	- consider early intubation
+	- consider early [intubation](../../Procedures/Intubation.md)
 - Neck trauma (blunt, penetrating) can lead to massive neck hematomas with respiratory compromise. May need a surgical airway.
 - Tracheal or laryngeal injury can cause sudden complete occlusion. Consider surgical airway support.
 

@@ -102,7 +102,7 @@ The **Duke Criteria** are a highly sensitive and specific set of clinical, labor
 
 # Workup
 1. **Blood cultures** - at least 2 sets prior to antibiotics. Consider obtaining 3 two-bottle sets, separated by 2+ hours, if no antibiotics have been received within the past two weeks. *5 to 15% of cases have negative blood cultures*, and much of this is due to either prior antibiotic exposure or fastidious organisms.
-2. **Serology** can be drawn for _Brucella, Bartonella, Legionella, Chlamydia psittaci, and Coxiella burnetti_, if you think these are likely.
+2. **Serology** can be drawn for _Brucella, Bartonella, [Legionella](Legionella%20Infection.md), Chlamydia psittaci, and Coxiella burnetti_, if you think these are likely.
 3. **Start with an initial TTE for all patients.**
 4. **Consider TEE** if TTE nondiagnostic, IE complications suspected, or there are intracardiac leads. (Class I indications). Extremely specific, but cannot image vegetations less than 2 mm diameter. False negative rate is 6 to 18% in initial imaging, and so likely endocarditis may require a second TEE in 7 to 10 days if the first TEE is negative.
 	1. _**Staphylococcus aureus**_ **bacteremia is an indication for routine TEE**, due to the high prevalence of infective endocarditis with this bug.

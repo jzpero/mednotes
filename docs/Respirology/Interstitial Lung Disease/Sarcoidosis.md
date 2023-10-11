@@ -16,7 +16,7 @@ Typically involves the lungs (90%) but 30% of patients present with extrapulmona
 ![](_attachments/Pasted%20image%2020221029181319.png)
 [Thoracic sarcoidosis (staging) | Radiology Reference Article | Radiopaedia.org](https://radiopaedia.org/articles/thoracic-sarcoidosis-staging)
 
-Symptoms can range from asymptomatic, dyspnea, cough, chest pain, wheeze. PFTs can be variable (normal, restrictive, obstructive, both). Co-existant asthma is common. [Pulmonary hypertension](../Pulmonary%20Hypertension.md) is rare but possible.
+Symptoms can range from asymptomatic, dyspnea, cough, chest pain, wheeze. PFTs can be variable (normal, restrictive, obstructive, both). Co-existant [asthma](../Airway%20Disease/Allergic%20Asthma.md) is common. [Pulmonary hypertension](../Pulmonary%20Hypertension.md) is rare but possible.
 
 ## Extrapulmonary Sarcoidosis
 | Site             | Manifestation                                                                                                                |
@@ -32,6 +32,13 @@ Symptoms can range from asymptomatic, dyspnea, cough, chest pain, wheeze. PFTs c
 - **Lofgren syndrome:** bilateral hilar adenopathy, EN, migratory polyarthralgias, fever. Seen primarily in women, is pathognomic of sarcoidosis and does not need a biopsy. High likelihood of spontaneous remission.
 - **Heerfordt's syndrome a.k.a. uveoparotid fever:** anterior uveitis, parotid enlargement, facial palsy, and fever
 
+Sarcoidosis syndromes that do not require biopsy:
+
+|Syndrome|Additional Findings/Symptoms|
+|---|---|
+|Asymptomatic bilateral hilar lymphadenopathy|No evidence of fevers, malaise, or night sweats to suggest a malignancy|
+|Löfgren syndrome|Bilateral hilar lymphadenopathy, migratory polyarthralgia, erythema nodosum, and fever|
+|Heerfordt syndrome|Anterior uveitis, parotitis, fever (uveoparotid fever), and facial nerve palsy|
 # Workup
 Consider the following investigations:
 
@@ -62,6 +69,7 @@ Consider the following investigations:
 	- Otherwise --> oral prednisone, 20-40 mg daily for 1-3 months then slow taper if there is response. 2021 ERS guidelines suggest adding MTX if there is continued disease or cannot tolerate steroids. Otherwise can consider steroid-sparing agents (MTX, HCQ, LEF, TNFi) if relapse occurs.
 - **Sarcoidosis-associated fatigue** should prompt consideration for pulmonary rehab, inspiratory muscle training, or trial of D-methylphenidate or modafinil for 8 weeks.
 
+![](_attachments/Pasted%20image%2020231010195230.png)
 # Prognosis and Outcomes
 5% mortality risk. 
 Most patients are asymptomatic. 2/3 will have remisson in a decade, after one year of spontaneous remission relapse is uncommon.

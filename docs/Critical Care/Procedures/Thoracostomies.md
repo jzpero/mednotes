@@ -39,7 +39,7 @@ Indications generally include:
 5. guidewire insertion
 6. Introducer needle out
 7. Cut
-8. Dilate over guidewire. May have to rotate/pull to break the soft tissues. Aim superiorly for a pneumothorax, and posteriorly for a pleural effusion.
+8. Dilate over guidewire. May have to rotate/pull to break the soft tissues. Aim superiorly for a pneumothorax, and posteriorly for a [pleural effusion](../../Respirology/Pleural%20Diseases/Pleural%20Effusion.md).
 9. Pigtail on guidewire. Then advance the pigtail catheter.
 10. Guidewire out. Cover to prevent air entry.
 11. Connect to pleur-evac or atrium device.
@@ -70,7 +70,7 @@ Location: [Complications of Pleural Procedures > Triangle of Safety](Complicatio
 # Antibiotics
 Antibiotic prophylaxis is *conditionally recommended* by EAST guidelines in the setting of tube thoracostomies for penetrating chest trauma.
 
-- Tends to reduce empyema; however no clear reduction in pneumonia or mortality.
+- Tends to reduce [empyema](../../Respirology/Pleural%20Diseases/Pleural%20Effusion.md); however no clear reduction in pneumonia or mortality.
 - Antibiotics tended to be 1st/2nd generation cephalosporins or clindamycin. Regimens highly varied but generally covered with antibiotics until the tube thoracostomy was removed.
 - Infections tended to be from skin flora (Staph/Strep)
 - [Antibiotic prophylaxis for tube thoracostomy placement in trauma: a practice management guideline from the Eastern Association for the Surgery of Trauma | Trauma Surgery & Acute Care Open](https://tsaco.bmj.com/content/7/1/e000886)

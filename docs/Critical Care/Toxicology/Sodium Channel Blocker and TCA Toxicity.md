@@ -60,12 +60,12 @@ Can be present in many drugs that inhibit sodium channels, such as TCAs and anti
 Overdose **>10mg/kg** with signs of **cardiotoxicity** (ECG changes) requires resuscitative management.
 
 ## Best Supportive Care
-### Intubation if required
-Consider intubation with worsening mental status, seizures, or hypoventilation with respiratory acidosis. Pre-intubation, consider bicarbonate therapies and hemodynamic supports to minimize risk of cardiovascular collapse.
+### [Intubation](../Procedures/Intubation.md) if required
+Consider [intubation](../Procedures/Intubation.md) with worsening mental status, seizures, or hypoventilation with respiratory acidosis. Pre-[intubation](../Procedures/Intubation.md), consider bicarbonate therapies and hemodynamic supports to minimize risk of cardiovascular collapse.
 
 Consider apneic ventilation with NIV.
 
-Once intubated, target mild hyperventilation (etCO2 ~20) then check a blood gas. Sedate with antiepileptic agent: propofol, benzo, ketamine.
+Once [intubated](../Procedures/Intubation.md), target mild hyperventilation (etCO2 ~20) then check a blood gas. Sedate with antiepileptic agent: propofol, benzo, ketamine.
 
 ### Drug Exposure/Decontamination
 - A dose of activated charcoal may be considered (e.g., 1 gram/kg up to 50 grams). Agents with anticholinergic activity (e.g., TCAs) may slow intestinal motility, allowing charcoal to be effective even when given more than one hour after ingestion.
